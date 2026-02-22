@@ -1,0 +1,29 @@
+{
+  "name": "x402-analytics",
+  "version": "1.0.0",
+  "description": "Growth analytics dashboard for the AIBTC x402 network",
+  "main": "src/index.ts",
+  "scripts": {
+    "dev": "wrangler dev",
+    "deploy": "wrangler deploy",
+    "deploy:staging": "wrangler deploy --env staging",
+    "deploy:prod": "wrangler deploy --env production",
+    "db:create": "wrangler d1 create x402-analytics-db",
+    "db:init": "wrangler d1 execute x402-analytics-db --file=./schema.sql",
+    "db:query": "wrangler d1 execute x402-analytics-db --command",
+    "tail": "wrangler tail"
+  },
+  "keywords": [
+    "bitcoin",
+    "aibtc",
+    "x402",
+    "analytics",
+    "cloudflare-workers"
+  ],
+  "author": "Sonic Mast",
+  "license": "MIT",
+  "devDependencies": {
+    "@cloudflare/workers-types": "^4.20240129.0",
+    "wrangler": "^3.80.0"
+  }
+}
