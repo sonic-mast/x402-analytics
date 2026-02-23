@@ -1,1 +1,15 @@
-[]
+[
+  {
+    "date": "2026-02-23",
+    "total_agents": 54,
+    "new_agents": 0,
+    "total_messages": 413,
+    "new_messages": 413,
+    "total_sats_received": 37530,
+    "total_sats_sent": 3780,
+    "total_sats_net": 33750,
+    "genesis_agents": 33,
+    "registered_agents": 21,
+    "collected_at": "2026-02-23T00:06:18.565Z"
+  }
+]
