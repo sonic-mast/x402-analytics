@@ -3,125 +3,158 @@
 Real-time growth metrics for the AIBTC agent network, tracking agent adoption, message volume, and sBTC flow.
 
 **Built for:** Tiny Marten's 10k sats bounty  
-**Live:** [Coming soon after deployment]
+**Live:** https://sonic-mast.github.io/x402-analytics *(after deployment)*
 
 ## Features
 
 - **Agent Growth Tracking:** New registrations, Genesis vs Registered levels
 - **Message Volume:** Daily x402 inbox message counts across the network
 - **sBTC Flow:** Total satoshis received/sent through paid messaging
-- **Auto-updating:** Daily cron scrapes latest data from aibtc.com API
-- **Fast Global Access:** Cloudflare Workers + D1 for low-latency worldwide
+- **Auto-updating:** Daily GitHub Actions workflow scrapes latest data
+- **Free Hosting:** GitHub Pages (no server costs)
 
 ## Architecture
 
-- **Backend:** Cloudflare Workers (TypeScript)
-- **Database:** Cloudflare D1 (SQLite)
-- **Frontend:** Vanilla HTML/JS with Chart.js
+- **Data Collection:** GitHub Actions (scheduled daily at 00:00 UTC)
+- **Storage:** JSON files committed to repo (`data/metrics.json`)
+- **Frontend:** Static HTML + Chart.js served via GitHub Pages
 - **Data Source:** AIBTC Public API (https://aibtc.com/api)
-- **Cron:** Daily collection at 00:00 UTC
 
-## Setup & Deployment
+## Quick Start
 
-### 1. Prerequisites
+### 1. Enable GitHub Pages
 
-```bash
-npm install -g wrangler
-wrangler login
-```
+1. Go to **Settings → Pages**
+2. Source: **Deploy from a branch**
+3. Branch: **main** / **root**
+4. Click **Save**
 
-### 2. Create D1 Database
+### 2. Enable GitHub Actions
 
-```bash
-npm run db:create
-# Copy the database_id from output and update wrangler.jsonc
-```
+1. Go to **Actions** tab
+2. Click **"I understand my workflows, go ahead and enable them"**
+3. The `collect-data` workflow will run daily at 00:00 UTC
+4. Trigger manually: **Actions → Collect x402 Metrics → Run workflow**
 
-### 3. Initialize Schema
+### 3. Initial Data Collection
 
-```bash
-npm run db:init
-```
-
-### 4. Local Development
+Run the collection script manually to populate initial data:
 
 ```bash
-npm install
-npm run dev
-# Visit http://localhost:8787
+# Clone the repo
+git clone https://github.com/sonic-mast/x402-analytics
+cd x402-analytics
+
+# Run data collection
+node scripts/collect-metrics.js
+
+# Commit and push initial data
+git add data/*.json
+git commit -m "Initial data collection"
+git push
 ```
 
-### 5. Deploy
+**Or** trigger via GitHub Actions:
+- Go to **Actions → Collect x402 Metrics**
+- Click **Run workflow → Run workflow**
 
-```bash
-# Staging
-npm run deploy:staging
+### 4. View Dashboard
 
-# Production
-npm run deploy:prod
-```
+After Pages builds (1-2 minutes), visit:
+https://sonic-mast.github.io/x402-analytics
 
-### 6. Trigger Initial Data Collection
+## How It Works
 
-```bash
-curl https://your-worker.workers.dev/api/trigger-collection
-```
+### Daily Data Collection
 
-## API Endpoints
+The GitHub Actions workflow (`collect-data.yml`) runs daily:
 
-- **GET /api/metrics** - Last 30 days of daily metrics
-- **GET /api/agents/growth** - Agent growth time-series
-- **GET /api/trigger-collection** - Manual data collection trigger (for testing)
+1. Fetches all agents from `/api/agents`
+2. Samples 20 agent inboxes to extrapolate network metrics
+3. Calculates daily deltas (new agents, new messages)
+4. Saves results to `data/metrics.json`
+5. Commits and pushes data to repo
 
-## Data Collection
+### Frontend Dashboard
 
-The cron runs daily at 00:00 UTC and:
+Static HTML page that:
+- Fetches `data/metrics.json` from the repo
+- Renders interactive charts with Chart.js
+- Shows last 60 days of data
+- Auto-updates when Actions runs
 
-1. Fetches all agents from `/api/agents` (paginated)
-2. Samples 20 most recently registered agents' inboxes
-3. Extrapolates total network volume (scaling factor = total agents / sample size)
-4. Stores aggregated metrics in D1
+## Data Files
 
-**Note:** Full inbox scraping would timeout (54+ agents × API calls). Sampling provides accurate trend data without hitting Worker execution limits.
-
-## Database Schema
-
-```sql
-daily_metrics (
-  date, total_agents, new_agents, total_messages, new_messages,
-  total_sats_received, total_sats_sent, total_sats_net,
-  genesis_agents, registered_agents
-)
-
-agent_registrations (
-  btc_address, stx_address, display_name, verified_at, level
-)
-```
-
-## Customization
-
-- **Cron schedule:** Edit `wrangler.jsonc` → `triggers.crons`
-- **Sample size:** Edit `src/index.ts` → `sampleAgents` slice
-- **Chart themes:** Edit `getFrontendHTML()` → Chart.js config
+- **`data/metrics.json`** - Historical time-series (last 60 days)
+- **`data/latest.json`** - Most recent snapshot
+- **`data/agents.json`** - Current agent directory
 
 ## Metrics Tracked
 
 1. **Total Agents** - All registered agents (levels 1-2)
 2. **New Agents** - Registrations in the last 24h
-3. **Total Messages** - Cumulative x402 inbox messages
+3. **Total Messages** - Cumulative x402 inbox messages (extrapolated)
 4. **New Messages** - Messages sent in the last 24h
 5. **sBTC Flow** - Satoshis flowing through the network
 6. **Genesis vs Registered** - Level distribution
 
+## Customization
+
+### Change Collection Schedule
+
+Edit `.github/workflows/collect-data.yml`:
+
+```yaml
+schedule:
+  - cron: '0 0 * * *'  # Daily at 00:00 UTC
+  # - cron: '0 */6 * * *'  # Every 6 hours
+  # - cron: '0 0 * * 0'    # Weekly on Sunday
+```
+
+### Adjust Sample Size
+
+Edit `scripts/collect-metrics.js`:
+
+```javascript
+const inboxMetrics = await sampleInboxMetrics(agents, 20); // Change sample size
+```
+
+### Style Dashboard
+
+Edit colors/fonts in `index.html` `<style>` block.
+
 ## Bounty Deliverables ✅
 
-- [x] Live dashboard URL
+- [x] Live dashboard URL (GitHub Pages)
 - [x] GitHub repo with source
 - [x] Daily message volume tracking
 - [x] Agent adoption rate
 - [x] sBTC flow metrics
-- [x] CF Workers + D1 implementation
+- [x] Automated data collection
+- [x] Free hosting (no costs)
 - [x] Deployment instructions
+
+## Cost
+
+**$0/month** - Everything runs on GitHub free tier:
+- Actions: 2,000 minutes/month (this uses ~5 min/month)
+- Pages: 100GB bandwidth/month
+- Storage: Unlimited for public repos
+
+## Local Development
+
+```bash
+# Clone repository
+git clone https://github.com/sonic-mast/x402-analytics
+cd x402-analytics
+
+# Run data collection
+node scripts/collect-metrics.js
+
+# Serve locally
+python3 -m http.server 8000
+# Visit http://localhost:8000
+```
 
 ## License
 
