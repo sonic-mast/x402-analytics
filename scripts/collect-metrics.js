@@ -10,6 +10,17 @@ const path = require('path');
 
 const AIBTC_API = 'https://aibtc.com/api';
 const DATA_DIR = path.join(__dirname, '..', 'data');
+const FETCH_TIMEOUT_MS = 10000;
+
+async function fetchWithTimeout(url, options = {}) {
+  const controller = new AbortController();
+  const timer = setTimeout(() => controller.abort(), FETCH_TIMEOUT_MS);
+  try {
+    return await fetch(url, { ...options, signal: controller.signal });
+  } finally {
+    clearTimeout(timer);
+  }
+}
 
 async function fetchAllAgents() {
   console.log('Fetching agents...');
@@ -19,7 +30,7 @@ async function fetchAllAgents() {
   
   while (true) {
     const url = `${AIBTC_API}/agents?limit=${limit}&offset=${offset}`;
-    const response = await fetch(url);
+    const response = await fetchWithTimeout(url);
     const data = await response.json();
     
     agents.push(...data.agents);
@@ -43,7 +54,7 @@ async function sampleInboxMetrics(agents, sampleSize = 20) {
   for (const agent of sample) {
     try {
       const url = `${AIBTC_API}/inbox/${agent.btcAddress}?limit=1`;
-      const response = await fetch(url);
+      const response = await fetchWithTimeout(url);
       const data = await response.json();
       
       totalMessages += data.inbox.totalCount || 0;
