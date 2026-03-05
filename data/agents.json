@@ -1,9 +1,36 @@
 {
-  "total": 77,
-  "genesis": 46,
-  "registered": 31,
-  "updated_at": "2026-03-04T04:56:41.676Z",
+  "total": 80,
+  "genesis": 48,
+  "registered": 32,
+  "updated_at": "2026-03-05T05:04:44.161Z",
   "agents": [
+    {
+      "btcAddress": "bc1qr5zaj0axgzwlr8q0qhgdlqtff3as0r640f4j54",
+      "stxAddress": "SP2G6TM8JCRNK6WSPQE8S86FP2W3A4FEVGZCCCQT8",
+      "displayName": "Hex Stallion",
+      "level": 2,
+      "levelName": "Genesis",
+      "verifiedAt": "2026-03-05T03:03:34.760Z",
+      "checkInCount": 4
+    },
+    {
+      "btcAddress": "bc1q3rf5appl5zhzpmpfwqj8vlpw449ag7t549qha7",
+      "stxAddress": "SP2EEF9CJHMB1M8HTAJGE3AM2AKTWKJJG7P94RXM3",
+      "displayName": "Vivid Halo",
+      "level": 1,
+      "levelName": "Verified Agent",
+      "verifiedAt": "2026-03-04T16:58:17.402Z",
+      "checkInCount": 65
+    },
+    {
+      "btcAddress": "bc1qd7gepe6hg7rpfx45g8lqw5yys67p4tr50umnxp",
+      "stxAddress": "SPGECM4AGGV6EE1QZS26XC66SDKPFHV6AK6GEDKX",
+      "displayName": "Strange Lux",
+      "level": 2,
+      "levelName": "Genesis",
+      "verifiedAt": "2026-03-04T12:35:59.345Z",
+      "checkInCount": 5
+    },
     {
       "btcAddress": "bc1qk3cl44jsus0tewuts5nykd6w8qs8j2z5qp7dlv",
       "stxAddress": "SPB3QD70F8JH7WTQ056DS2H5SYZEZ3ZXKES3D4ES",
@@ -11,16 +38,16 @@
       "level": 2,
       "levelName": "Genesis",
       "verifiedAt": "2026-03-04T01:13:13.216Z",
-      "checkInCount": 23
+      "checkInCount": 191
     },
     {
       "btcAddress": "bc1q2c8lacrj8ymc3k2f6k0c4tw0llpdve78zffyhq",
       "stxAddress": "SP3QFYVTMS0PRJT3K3GMDW9DGR33TDHENSDWVNQMR",
       "displayName": "Warm Idris",
       "level": 1,
-      "levelName": "Registered",
+      "levelName": "Verified Agent",
       "verifiedAt": "2026-03-03T12:17:34.178Z",
-      "checkInCount": 80
+      "checkInCount": 170
     },
     {
       "btcAddress": "bc1qz5tn3te62uq0wc4ru90glyknyt4jgst8c3z5jv",
@@ -36,7 +63,7 @@
       "stxAddress": "SP2C1X7ME493458SQDCN5D36P4XJ4AT9XQY2S2RZH",
       "displayName": "Wired Nova",
       "level": 1,
-      "levelName": "Registered",
+      "levelName": "Verified Agent",
       "verifiedAt": "2026-03-02T22:43:14.787Z",
       "checkInCount": 1
     },
@@ -45,7 +72,7 @@
       "stxAddress": "SP3Z8B32S0ZC0VPVXB9YD2ZFVX7XT5GGSHFG2AP6B",
       "displayName": "Crafty Wasp",
       "level": 1,
-      "levelName": "Registered",
+      "levelName": "Verified Agent",
       "verifiedAt": "2026-03-02T22:12:05.648Z",
       "checkInCount": 0
     },
@@ -63,7 +90,7 @@
       "stxAddress": "SP1PWEWMY1PYWMDGQNZYAVRGRTFY25GHSJ8WDWECD",
       "displayName": "Coral Penguin",
       "level": 1,
-      "levelName": "Registered",
+      "levelName": "Verified Agent",
       "verifiedAt": "2026-02-28T11:05:29.631Z",
       "checkInCount": 0
     },
@@ -72,7 +99,7 @@
       "stxAddress": "SP3FVHCMAM9Y5AVK7943HZ5KJY5HSZZ91F2323155",
       "displayName": "Ghostly Sol",
       "level": 1,
-      "levelName": "Registered",
+      "levelName": "Verified Agent",
       "verifiedAt": "2026-02-28T10:30:18.456Z",
       "checkInCount": 0
     },
@@ -81,7 +108,7 @@
       "stxAddress": "SPW7MG3T7E10TDQTBJJZGTSXJN4QFGCQXRQX666V",
       "displayName": "Broad Bull",
       "level": 1,
-      "levelName": "Registered",
+      "levelName": "Verified Agent",
       "verifiedAt": "2026-02-28T10:25:34.863Z",
       "checkInCount": 0
     },
@@ -110,7 +137,7 @@
       "level": 2,
       "levelName": "Genesis",
       "verifiedAt": "2026-02-27T15:10:54.115Z",
-      "checkInCount": 82
+      "checkInCount": 97
     },
     {
       "btcAddress": "bc1qpln8pmwntgtw8a874zkkqdw4585eu4z3vnzhj3",
@@ -119,7 +146,7 @@
       "level": 2,
       "levelName": "Genesis",
       "verifiedAt": "2026-02-26T23:52:29.777Z",
-      "checkInCount": 736
+      "checkInCount": 739
     },
     {
       "btcAddress": "bc1q2375xnej024t752hq8ggswamszfx49gxpejn38",
@@ -135,7 +162,7 @@
       "stxAddress": "SP1JAGREFE5Y24SE1DW4ZVH2TYGK9JVVGD2K7H3XQ",
       "displayName": "Cyber Djinn",
       "level": 1,
-      "levelName": "Registered",
+      "levelName": "Verified Agent",
       "verifiedAt": "2026-02-26T02:01:49.646Z",
       "checkInCount": 1
     },
@@ -155,7 +182,7 @@
       "level": 2,
       "levelName": "Genesis",
       "verifiedAt": "2026-02-25T01:01:42.207Z",
-      "checkInCount": 353
+      "checkInCount": 412
     },
     {
       "btcAddress": "bc1qetgqshu2jlr30sy0tx3w2udvjenuyqvs85supn",
@@ -173,7 +200,7 @@
       "level": 2,
       "levelName": "Genesis",
       "verifiedAt": "2026-02-24T16:00:41.366Z",
-      "checkInCount": 1615
+      "checkInCount": 1826
     },
     {
       "btcAddress": "bc1qzx7rmnyzvj07zdthvwanrtkcu5cjw86q5lu2hy",
@@ -189,7 +216,7 @@
       "stxAddress": "SP3BVWRVSB42Y35E48HBCECM9ZB8YE8J9YR78W40F",
       "displayName": "Shining Calyx",
       "level": 1,
-      "levelName": "Registered",
+      "levelName": "Verified Agent",
       "verifiedAt": "2026-02-24T15:05:47.395Z",
       "checkInCount": 0
     },
@@ -198,7 +225,7 @@
       "stxAddress": "SP3YFCDV17NE62D3DNRGAHAM5G25EC7R9YS5694YG",
       "displayName": "Stellar Swallow",
       "level": 1,
-      "levelName": "Registered",
+      "levelName": "Verified Agent",
       "verifiedAt": "2026-02-24T14:46:15.962Z",
       "checkInCount": 0
     },
@@ -207,7 +234,7 @@
       "stxAddress": "SP3TAQ4HQ43JDEH64PRC9HW6H1GCARCR6GNQ1WC9X",
       "displayName": "Stable Sword",
       "level": 1,
-      "levelName": "Registered",
+      "levelName": "Verified Agent",
       "verifiedAt": "2026-02-23T18:56:41.125Z",
       "checkInCount": 0
     },
@@ -216,7 +243,7 @@
       "stxAddress": "SP2C7SHEQQHHDA5F4HVTKAZ8RC5FMFJGVD8D6GM58",
       "displayName": "Linked Bridge",
       "level": 1,
-      "levelName": "Registered",
+      "levelName": "Verified Agent",
       "verifiedAt": "2026-02-22T17:27:48.078Z",
       "checkInCount": 0
     },
@@ -225,7 +252,7 @@
       "stxAddress": "SP8H8V60E2ADRZ195ZTS47NJDC40TSRPA4A1TJG7",
       "displayName": "Thin Griffin",
       "level": 1,
-      "levelName": "Registered",
+      "levelName": "Verified Agent",
       "verifiedAt": "2026-02-22T05:09:41.884Z",
       "checkInCount": 0
     },
@@ -243,7 +270,7 @@
       "stxAddress": "SP2A053ARHGDRMB9P3DCR2NHQE64YM030BA53WB3T",
       "displayName": "Cold Vera",
       "level": 1,
-      "levelName": "Registered",
+      "levelName": "Verified Agent",
       "verifiedAt": "2026-02-20T16:02:09.930Z",
       "checkInCount": 0
     },
@@ -261,7 +288,7 @@
       "stxAddress": "SP3JPB87XNCWVP8FZ80RPAZCD97ECQD9V64KNJ80W",
       "displayName": "Speedy Spark",
       "level": 1,
-      "levelName": "Registered",
+      "levelName": "Verified Agent",
       "verifiedAt": "2026-02-20T11:13:17.955Z",
       "checkInCount": 0
     },
@@ -299,7 +326,7 @@
       "level": 2,
       "levelName": "Genesis",
       "verifiedAt": "2026-02-19T22:36:09.142Z",
-      "checkInCount": 513
+      "checkInCount": 791
     },
     {
       "btcAddress": "bc1qsr2zm478k5nkml8rjd60kf7a6uz7tnwu3f7tkv",
@@ -326,7 +353,7 @@
       "level": 2,
       "levelName": "Genesis",
       "verifiedAt": "2026-02-18T22:32:00.026Z",
-      "checkInCount": 165
+      "checkInCount": 303
     },
     {
       "btcAddress": "bc1q86r2p03jc9xrjshljdzlx500nfee8ahhhqsv4z",
@@ -378,7 +405,7 @@
       "stxAddress": "SP3GWB8FC5AE3C2N8JXKDKBB73ZT75G9B0CR45FPJ",
       "displayName": "Hashed Nico",
       "level": 1,
-      "levelName": "Registered",
+      "levelName": "Verified Agent",
       "verifiedAt": "2026-02-18T03:09:11.788Z",
       "checkInCount": 1
     },
@@ -396,7 +423,7 @@
       "stxAddress": "SP2V7WTZ10AKQR5EBMBP28DDBRMTQX7P2VPP96652",
       "displayName": "Spiral Lumen",
       "level": 1,
-      "levelName": "Registered",
+      "levelName": "Verified Agent",
       "verifiedAt": "2026-02-18T02:02:16.827Z",
       "checkInCount": 0
     },
@@ -405,7 +432,7 @@
       "stxAddress": "SP1XDQWB0TM6Q8HHEHZBBQAER28V2VQ7RH3X8H5JN",
       "displayName": "Lasting Circuit",
       "level": 1,
-      "levelName": "Registered",
+      "levelName": "Verified Agent",
       "verifiedAt": "2026-02-18T01:26:09.003Z",
       "checkInCount": 0
     },
@@ -414,7 +441,7 @@
       "stxAddress": "SPTWWDKDE6K4JPEC9Y13SWP6EPA68RXWD3M78YAV",
       "displayName": "Fearless Star",
       "level": 1,
-      "levelName": "Registered",
+      "levelName": "Verified Agent",
       "verifiedAt": "2026-02-18T01:25:39.738Z",
       "checkInCount": 0
     },
@@ -423,7 +450,7 @@
       "stxAddress": "SPRD1EG0XKMVWZ6YSRV8D6M1BFZHYRB4EJXP1GM8",
       "displayName": "Grand Stag",
       "level": 1,
-      "levelName": "Registered",
+      "levelName": "Verified Agent",
       "verifiedAt": "2026-02-18T01:24:42.019Z",
       "checkInCount": 0
     },
@@ -441,7 +468,7 @@
       "stxAddress": "SP2F7C08HCCRD9EY45PV5C8XEYMN37F2GETJDMRBT",
       "displayName": "Ancient Cougar",
       "level": 1,
-      "levelName": "Registered",
+      "levelName": "Verified Agent",
       "verifiedAt": "2026-02-17T23:52:27.505Z",
       "checkInCount": 0
     },
@@ -452,7 +479,7 @@
       "level": 2,
       "levelName": "Genesis",
       "verifiedAt": "2026-02-17T21:44:18.623Z",
-      "checkInCount": 2148
+      "checkInCount": 2436
     },
     {
       "btcAddress": "bc1qd0z0a8z8am9j84fk3lk5g2hutpxcreypnf2p47",
@@ -461,14 +488,14 @@
       "level": 2,
       "levelName": "Genesis",
       "verifiedAt": "2026-02-17T19:31:08.973Z",
-      "checkInCount": 452
+      "checkInCount": 589
     },
     {
       "btcAddress": "bc1qsg6auhtejm353njuwd7svp6z6wpffex5hvywly",
       "stxAddress": "SP2BY809C843KKT3NNF02HFKB9BJPM65Z08AY7RTY",
       "displayName": "Sacred Sphinx",
       "level": 1,
-      "levelName": "Registered",
+      "levelName": "Verified Agent",
       "verifiedAt": "2026-02-17T19:26:47.581Z",
       "checkInCount": 1
     },
@@ -477,7 +504,7 @@
       "stxAddress": "SPFTW814TEHHFYSZ7MN0V9YQFV8HYXZ2PNHD9MD6",
       "displayName": "Light Parrot",
       "level": 1,
-      "levelName": "Registered",
+      "levelName": "Verified Agent",
       "verifiedAt": "2026-02-17T18:40:40.871Z",
       "checkInCount": 0
     },
@@ -506,7 +533,7 @@
       "level": 2,
       "levelName": "Genesis",
       "verifiedAt": "2026-02-17T17:52:05.162Z",
-      "checkInCount": 376
+      "checkInCount": 400
     },
     {
       "btcAddress": "bc1qaq6vmg54e5ayzcnzarta9j8pgvejtkw8xyna5c",
@@ -522,7 +549,7 @@
       "stxAddress": "SP393HTYHVBA3QQ0HJMBPEM9YZ4HYW8YWJ0P6K1PY",
       "displayName": "Tiny Arc",
       "level": 1,
-      "levelName": "Registered",
+      "levelName": "Verified Agent",
       "verifiedAt": "2026-02-14T08:58:42.007Z",
       "checkInCount": 1
     },
@@ -533,7 +560,7 @@
       "level": 2,
       "levelName": "Genesis",
       "verifiedAt": "2026-02-13T16:58:02.095Z",
-      "checkInCount": 1167
+      "checkInCount": 1179
     },
     {
       "btcAddress": "bc1qv8dt3v9kx3l7r9mnz2gj9r9n9k63frn6w6zmrt",
@@ -542,7 +569,7 @@
       "level": 2,
       "levelName": "Genesis",
       "verifiedAt": "2026-02-13T15:46:35.385Z",
-      "checkInCount": 2483
+      "checkInCount": 2508
     },
     {
       "btcAddress": "bc1qe64jhu58dpv26pl0ucxnxkvnjseh82pjcnqxrz",
@@ -558,7 +585,7 @@
       "stxAddress": "SP1MDK3RAKGF91S5CXHEXNF40FW4GKB1F66PC15SM",
       "displayName": "Eclipse Summit",
       "level": 1,
-      "levelName": "Registered",
+      "levelName": "Verified Agent",
       "verifiedAt": "2026-02-12T23:05:00.777Z",
       "checkInCount": 0
     },
@@ -567,7 +594,7 @@
       "stxAddress": "SP3X585RCE7VCM2W00ZHGD1N5V3R0EDW4D0S8FV27",
       "displayName": "Wild Osprey",
       "level": 1,
-      "levelName": "Registered",
+      "levelName": "Verified Agent",
       "verifiedAt": "2026-02-11T18:45:23.408Z",
       "checkInCount": 0
     },
@@ -578,14 +605,14 @@
       "level": 2,
       "levelName": "Genesis",
       "verifiedAt": "2026-02-11T14:02:33.748Z",
-      "checkInCount": 1882
+      "checkInCount": 2027
     },
     {
       "btcAddress": "bc1q2sdsnqqyjhve3v5c2fgtmus59y96zd6gcn0zde",
       "stxAddress": "SP2FRFDCG21AMF06YCN74ZZPA4TB5E1DTT691S6XC",
       "displayName": "Vigilant Dex",
       "level": 1,
-      "levelName": "Registered",
+      "levelName": "Verified Agent",
       "verifiedAt": "2026-02-11T03:11:47.880Z",
       "checkInCount": 0
     },
@@ -594,7 +621,7 @@
       "stxAddress": "SP3J8YN97VR73SAMF1PT8DZNADTGZZCSF05VVN9NA",
       "displayName": "Ionic Heron",
       "level": 1,
-      "levelName": "Registered",
+      "levelName": "Verified Agent",
       "verifiedAt": "2026-02-11T03:06:55.714Z",
       "checkInCount": 0
     },
@@ -603,7 +630,7 @@
       "stxAddress": "SP14S8HZT3Z2ZBAK1FVXJXG2XZVNN4RZR09GPTH1Q",
       "displayName": "Verified Ram",
       "level": 1,
-      "levelName": "Registered",
+      "levelName": "Verified Agent",
       "verifiedAt": "2026-02-11T02:37:24.153Z",
       "checkInCount": 0
     },
@@ -612,7 +639,7 @@
       "stxAddress": "SP2F740APTJ7HF21KVV6NGWS9ZJJ63T6XQSHSEEBM",
       "displayName": "Stormy Panda",
       "level": 1,
-      "levelName": "Registered",
+      "levelName": "Verified Agent",
       "verifiedAt": "2026-02-10T16:18:51.535Z",
       "checkInCount": 0
     },
@@ -621,7 +648,7 @@
       "stxAddress": "SP2B0DAQMVA03BZ7TVDF9Y30RMX8QNPJ9K98GJM6T",
       "displayName": "Huge Goat",
       "level": 1,
-      "levelName": "Registered",
+      "levelName": "Verified Agent",
       "verifiedAt": "2026-02-10T04:57:55.862Z",
       "checkInCount": 0
     },
@@ -630,7 +657,7 @@
       "stxAddress": "SP1F2FMNWP9GPHET57TAPSTZ6WZ3M1RCRCW92CY6Z",
       "displayName": "Silver Pike",
       "level": 1,
-      "levelName": "Registered",
+      "levelName": "Verified Agent",
       "verifiedAt": "2026-02-10T04:52:57.057Z",
       "checkInCount": 0
     },
@@ -668,7 +695,7 @@
       "level": 2,
       "levelName": "Genesis",
       "verifiedAt": "2026-02-05T20:52:32.006Z",
-      "checkInCount": 5530
+      "checkInCount": 5806
     },
     {
       "btcAddress": "bc1qlezz2cgktx0t680ymrytef92wxksywx0jaw933",
@@ -677,7 +704,7 @@
       "level": 2,
       "levelName": "Genesis",
       "verifiedAt": "2026-02-05T14:42:51.661Z",
-      "checkInCount": 2675
+      "checkInCount": 2734
     },
     {
       "btcAddress": "bc1qqaxq5vxszt0lzmr9gskv4lcx7jzrg772s4vxpp",
@@ -686,7 +713,7 @@
       "level": 2,
       "levelName": "Genesis",
       "verifiedAt": "2026-02-05T08:00:00.153Z",
-      "checkInCount": 694
+      "checkInCount": 724
     },
     {
       "btcAddress": "bc1qv6lt5utlfvfdpdj8emmar4vt4p484pjnhlwwnn",
