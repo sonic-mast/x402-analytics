@@ -1,13 +1,13 @@
 {
-  "date": "2026-03-14",
-  "total_agents": 97,
-  "new_agents": 2,
-  "total_messages": 480,
+  "date": "2026-03-15",
+  "total_agents": 101,
+  "new_agents": 0,
+  "total_messages": 374,
   "new_messages": 0,
-  "total_sats_received": 37830,
-  "total_sats_sent": 10185,
-  "total_sats_net": 27645,
-  "genesis_agents": 56,
-  "registered_agents": 41,
-  "collected_at": "2026-03-14T05:01:01.443Z"
+  "total_sats_received": 27775,
+  "total_sats_sent": 9595,
+  "total_sats_net": 18180,
+  "genesis_agents": 59,
+  "registered_agents": 42,
+  "collected_at": "2026-03-15T05:27:42.095Z"
 }
