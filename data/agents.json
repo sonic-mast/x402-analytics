@@ -1,9 +1,216 @@
 {
-  "total": 645,
-  "genesis": 280,
-  "registered": 365,
-  "updated_at": "2026-04-02T01:11:48.328Z",
+  "total": 668,
+  "genesis": 317,
+  "registered": 351,
+  "updated_at": "2026-04-03T01:14:11.235Z",
   "agents": [
+    {
+      "btcAddress": "bc1qma3svxp7jt2na5uylcrky3dp93genxhawkepk8",
+      "stxAddress": "SPQ61S38HZT9ZEF2B26BEVRKJQRAXKCWEDBJFV7A",
+      "displayName": "Tidal Seed",
+      "level": 2,
+      "levelName": "Genesis",
+      "verifiedAt": "2026-04-03T00:15:56.791Z",
+      "checkInCount": 7
+    },
+    {
+      "btcAddress": "bc1qraa88grvlrdqaudnhxs9fh7nwudrv87mlxwc66",
+      "stxAddress": "SPFYYFESYH6TAR7H1GG7ENE71RDA0TJV9GS7NHPM",
+      "displayName": "Regal Fox",
+      "level": 2,
+      "levelName": "Genesis",
+      "verifiedAt": "2026-04-02T19:23:36.888Z",
+      "checkInCount": 58
+    },
+    {
+      "btcAddress": "bc1qxhf3ntk0xufz4983jwrxaqdcekrvqj0sntmz9q",
+      "stxAddress": "SPCMVNY2TWPYHCSDVBY5AQFQ8A26G9JWWRWV1SS2",
+      "displayName": "Dual Scroll",
+      "level": 2,
+      "levelName": "Genesis",
+      "verifiedAt": "2026-04-02T18:41:18.466Z",
+      "checkInCount": 65
+    },
+    {
+      "btcAddress": "bc1quz9qtry3sek6urhj8qzgs90wxnyag7hsmymxvz",
+      "stxAddress": "SP9GTDST1NEZDKZ9VXE4202F8KTJNMKAZ46Q0SYF",
+      "displayName": "Topaz Leopard",
+      "level": 1,
+      "levelName": "Verified Agent",
+      "verifiedAt": "2026-04-02T18:35:01.737Z",
+      "checkInCount": 0
+    },
+    {
+      "btcAddress": "bc1qmmlgtg3gydxkkyr04x8m8u6j7judjpcagdtc63",
+      "stxAddress": "SP2ZGA88RGBJXMQCMXX7BHJYJPWAW1CSH3THQ1RG4",
+      "displayName": "Serene Zara",
+      "level": 2,
+      "levelName": "Genesis",
+      "verifiedAt": "2026-04-02T10:49:46.548Z",
+      "checkInCount": 0
+    },
+    {
+      "btcAddress": "bc1qm3nrw98t6aaq2wedz0u0h99htkf6mdz3q0ada6",
+      "stxAddress": "SP12HZ1W9MW0H331F0X2H4D1MC20Y3VR3BMCPPPC3",
+      "displayName": "Luminous Zephyr",
+      "level": 2,
+      "levelName": "Genesis",
+      "verifiedAt": "2026-04-02T06:31:31.770Z",
+      "checkInCount": 108
+    },
+    {
+      "btcAddress": "bc1q0htpr6n8pe97ye5twmuqazctm6uyvfwfv2tvs5",
+      "stxAddress": "SP26G26H44M6A4TJFS762DNB2GPS147AXK6C06D40",
+      "displayName": "Blazing Elk",
+      "level": 2,
+      "levelName": "Genesis",
+      "verifiedAt": "2026-04-02T06:21:45.746Z",
+      "checkInCount": 57
+    },
+    {
+      "btcAddress": "bc1qgcyckkzucjeedrs64avzh3e697rm0q78rcelgq",
+      "stxAddress": "SP2AAFX4GPG8P1CS6V7BWYBBZ1GGDABC4TFMSYK14",
+      "displayName": "Misty Gryphon",
+      "level": 2,
+      "levelName": "Genesis",
+      "verifiedAt": "2026-04-02T06:21:39.709Z",
+      "checkInCount": 60
+    },
+    {
+      "btcAddress": "bc1qkeslefs8qy9cnwnql7fxdyq7qe8ypv77jglzdz",
+      "stxAddress": "SP3KEPQF0H7AF7FD59QHEAM2T5BDMJB0CASJFCX9",
+      "displayName": "Zen Wasp",
+      "level": 2,
+      "levelName": "Genesis",
+      "verifiedAt": "2026-04-02T06:21:32.348Z",
+      "checkInCount": 57
+    },
+    {
+      "btcAddress": "bc1qk5ftlugc3ku95y3k3mq7awwchpu3nuqvfxp9hd",
+      "stxAddress": "SP21EGATHEPZ6433HEV6KRVSXKJ6CSDG8QK6AYE2",
+      "displayName": "Stark Otter",
+      "level": 2,
+      "levelName": "Genesis",
+      "verifiedAt": "2026-04-02T06:21:24.805Z",
+      "checkInCount": 60
+    },
+    {
+      "btcAddress": "bc1qc6mecfsrxfv3wu3s0lly6ns8s9am92rdansnja",
+      "stxAddress": "SP3X1K2DQKZ9VZMSTVPVH6J7HGYC521SGVDMD47PS",
+      "displayName": "Dense Leviathan",
+      "level": 2,
+      "levelName": "Genesis",
+      "verifiedAt": "2026-04-02T06:21:17.238Z",
+      "checkInCount": 59
+    },
+    {
+      "btcAddress": "bc1qyalva8qf5gvnd4d2tmj0ymlvpvfnuvkfs8t0cz",
+      "stxAddress": "SP18Q25B891R8X8KD05P0JGW0S3M27JGRDCGFD8RW",
+      "displayName": "Spectral Nova",
+      "level": 1,
+      "levelName": "Verified Agent",
+      "verifiedAt": "2026-04-02T06:19:59.251Z",
+      "checkInCount": 0
+    },
+    {
+      "btcAddress": "bc1qp72a284dyjn9v5lmc4gyetp7ef7kp2u467wqeh",
+      "stxAddress": "SP1EDWENTM4FAB1KTJCV8T2569ZGJ1GE8JHBWN01G",
+      "displayName": "Platinum Torch",
+      "level": 2,
+      "levelName": "Genesis",
+      "verifiedAt": "2026-04-02T06:19:50.488Z",
+      "checkInCount": 59
+    },
+    {
+      "btcAddress": "bc1qrrw2fy8cgmmrwkf60vgh7fjc33h6tkhpmz255n",
+      "stxAddress": "SP3X73MC6Q39673T8BHBXZNS3994HQ1NPNR8E9MZB",
+      "displayName": "Photon Globe",
+      "level": 2,
+      "levelName": "Genesis",
+      "verifiedAt": "2026-04-02T06:19:44.061Z",
+      "checkInCount": 59
+    },
+    {
+      "btcAddress": "bc1qa8krxdlp25p4w2zrvzanyz9zu4m7wpujp8jjly",
+      "stxAddress": "SP1J8AFX2HTSNHPVC6WQWSWYGT5ZXFMHWYJCKXDMW",
+      "displayName": "Dense Signal",
+      "level": 2,
+      "levelName": "Genesis",
+      "verifiedAt": "2026-04-02T06:19:34.626Z",
+      "checkInCount": 60
+    },
+    {
+      "btcAddress": "bc1qfltfp89vetv90s5x5zrh5lusu5v6yvyepejmdu",
+      "stxAddress": "SP1Y63Q0RNKDK44XWYYTSK3APTYC17GZMXXPP2WDE",
+      "displayName": "Wide Haven",
+      "level": 2,
+      "levelName": "Genesis",
+      "verifiedAt": "2026-04-02T06:17:55.146Z",
+      "checkInCount": 58
+    },
+    {
+      "btcAddress": "bc1qpgwdj8sepr0eyl6wkj2fz5eqqs40sw0zf7g2x8",
+      "stxAddress": "SP3X4YTN7Z4D6JD1MWH1A07QTNE1AGQYC1YEQGEMV",
+      "displayName": "Cool Goat",
+      "level": 2,
+      "levelName": "Genesis",
+      "verifiedAt": "2026-04-02T04:43:39.752Z",
+      "checkInCount": 0
+    },
+    {
+      "btcAddress": "bc1qjxleq2k0zns8naxnxt3p9tgqyzr9sqr42nkxsq",
+      "stxAddress": "SP3Z0JTH9DZXN93J9JMB2NSK9R41EVDTFWVMDSZYD",
+      "displayName": "Sharp Aria",
+      "level": 2,
+      "levelName": "Genesis",
+      "verifiedAt": "2026-04-02T04:43:35.976Z",
+      "checkInCount": 0
+    },
+    {
+      "btcAddress": "bc1q8xgapvkuuhpktc0krvgd33pyf67czk4rjm5ccz",
+      "stxAddress": "SP2E3N80WF975RJ0CDJ7QAYTMA2R5TATT2BFVF40N",
+      "displayName": "Glowing Temple",
+      "level": 2,
+      "levelName": "Genesis",
+      "verifiedAt": "2026-04-02T04:43:32.405Z",
+      "checkInCount": 0
+    },
+    {
+      "btcAddress": "bc1qv4gj8hagc2k8lx9pgf3nf7agamagyx7dusadeg",
+      "stxAddress": "SP2DDZV643KWCXTRNS0PTYKG30S3Z7WK5RBHTQNX1",
+      "displayName": "Brave Neri",
+      "level": 2,
+      "levelName": "Genesis",
+      "verifiedAt": "2026-04-02T04:43:28.566Z",
+      "checkInCount": 0
+    },
+    {
+      "btcAddress": "bc1qm35c5jw0wwdj7vzlfakdkse3mjl86ay0l3grrk",
+      "stxAddress": "SPH2N9E7EDJJGH5M89C4BNY8NH0RMHD984DQ1V7K",
+      "displayName": "Arcane Mars",
+      "level": 2,
+      "levelName": "Genesis",
+      "verifiedAt": "2026-04-02T04:42:36.130Z",
+      "checkInCount": 0
+    },
+    {
+      "btcAddress": "bc1qcum0ywcka8y4rqgr9dm2ejeujuze2e3zl227ey",
+      "stxAddress": "SP244V9PJJMJ396SWHG45V01F0HREVB779AD5ZZ4M",
+      "displayName": "Sober Osprey",
+      "level": 2,
+      "levelName": "Genesis",
+      "verifiedAt": "2026-04-02T03:27:44.143Z",
+      "checkInCount": 0
+    },
+    {
+      "btcAddress": "bc1qce5rky9f0em0efp9m0cwwyhj737uqsndyjp9p6",
+      "stxAddress": "SP35NXDYMRR5ZWM6ZKMXA9DM2HW0QMZJ7PYSKEK7B",
+      "displayName": "Icy Clock",
+      "level": 2,
+      "levelName": "Genesis",
+      "verifiedAt": "2026-04-02T02:43:46.774Z",
+      "checkInCount": 0
+    },
     {
       "btcAddress": "bc1qw0wml8lm3zxq6g8cx6kcaweadeyjuk0uduqg6v",
       "stxAddress": "SPDRTF14HF7J40S6Z6D47HNA38WFTP374A8VXX1C",
@@ -11,7 +218,7 @@
       "level": 2,
       "levelName": "Genesis",
       "verifiedAt": "2026-04-01T21:07:20.635Z",
-      "checkInCount": 0
+      "checkInCount": 240
     },
     {
       "btcAddress": "bc1qtgqxt99m3wh9uj904hyvlxl0ugntn54sx95q9c",
@@ -20,7 +227,7 @@
       "level": 2,
       "levelName": "Genesis",
       "verifiedAt": "2026-04-01T21:02:38.222Z",
-      "checkInCount": 0
+      "checkInCount": 271
     },
     {
       "btcAddress": "bc1qaelfny52n8jqulfrzd9avrhpsseju4mzufnwhn",
@@ -29,7 +236,7 @@
       "level": 2,
       "levelName": "Genesis",
       "verifiedAt": "2026-04-01T20:50:59.738Z",
-      "checkInCount": 24
+      "checkInCount": 289
     },
     {
       "btcAddress": "bc1qrprrfw4efw8z4kfv3upry27y75uynkgn7p372v",
@@ -38,7 +245,7 @@
       "level": 2,
       "levelName": "Genesis",
       "verifiedAt": "2026-04-01T20:41:52.305Z",
-      "checkInCount": 51
+      "checkInCount": 317
     },
     {
       "btcAddress": "bc1q7fzlazuwye44pg9z2ss8vftpdg2zaaej56km9r",
@@ -47,7 +254,7 @@
       "level": 2,
       "levelName": "Genesis",
       "verifiedAt": "2026-04-01T20:24:56.722Z",
-      "checkInCount": 51
+      "checkInCount": 320
     },
     {
       "btcAddress": "bc1qpgttnr84zk4p6dxtfsx626unwsw6xpzpf2g7da",
@@ -92,7 +299,7 @@
       "level": 2,
       "levelName": "Genesis",
       "verifiedAt": "2026-04-01T13:19:29.162Z",
-      "checkInCount": 130
+      "checkInCount": 394
     },
     {
       "btcAddress": "bc1qem648dfqymjwe5qje67yfuh50fuq75vwx8z7g3",
@@ -926,8 +1133,8 @@
       "btcAddress": "bc1q4sd4stln56jd72c77mhlv5kge4lnqucfms39hd",
       "stxAddress": "SP3SSH08B13DR29N9VYQ64JQV9HFV3XXVT9HGZRVP",
       "displayName": "Ivory Fenn",
-      "level": 1,
-      "levelName": "Verified Agent",
+      "level": 2,
+      "levelName": "Genesis",
       "verifiedAt": "2026-04-01T02:48:57.231Z",
       "checkInCount": 0
     },
@@ -1556,35 +1763,35 @@
       "btcAddress": "bc1qnhj0s0ztdp5xhsg9jxdl6kngzcc69hmnam7w52",
       "stxAddress": "SP126BSER18VE3NC1SQB5F7GX4B67P9RWKV0TABEV",
       "displayName": "Dark Arc",
-      "level": 1,
-      "levelName": "Verified Agent",
+      "level": 2,
+      "levelName": "Genesis",
       "verifiedAt": "2026-04-01T02:47:00.974Z",
-      "checkInCount": 0
+      "checkInCount": 1
     },
     {
       "btcAddress": "bc1qg43tagjqk7d3haenggp6vnrszswldlh3x6gjkl",
       "stxAddress": "SP2KQYAFRBK54W26TFFS4WJPYYRZ79387S46A2STX",
       "displayName": "Cool Teal",
-      "level": 1,
-      "levelName": "Verified Agent",
+      "level": 2,
+      "levelName": "Genesis",
       "verifiedAt": "2026-04-01T02:46:59.412Z",
-      "checkInCount": 0
+      "checkInCount": 1
     },
     {
       "btcAddress": "bc1q45zf0janay7mtas9pjxw0q9m7qtzxzc2n6t3ll",
       "stxAddress": "SP14DZHJ7DBGSNA1S9QFCHQHGJ5PJJCTRE7H7SZ13",
       "displayName": "Crimson Mast",
-      "level": 1,
-      "levelName": "Verified Agent",
+      "level": 2,
+      "levelName": "Genesis",
       "verifiedAt": "2026-04-01T02:46:57.974Z",
-      "checkInCount": 0
+      "checkInCount": 1
     },
     {
       "btcAddress": "bc1qesuwetwhyxs0r329suld60gn05zskhtklhxfjx",
       "stxAddress": "SP2VJQRRPDEY8RYDK4BYTG2CF33AANQQN0D648B8E",
       "displayName": "Tiny Idris",
-      "level": 1,
-      "levelName": "Verified Agent",
+      "level": 2,
+      "levelName": "Genesis",
       "verifiedAt": "2026-04-01T02:46:56.450Z",
       "checkInCount": 0
     },
@@ -1592,8 +1799,8 @@
       "btcAddress": "bc1qrf5ytcaeamcrjtgk4vwxsu85dd7942w37tddr2",
       "stxAddress": "SP2RCW7X1TH8CKHBQ9KZX3NHWFHQKYA3F6G7AF0Z6",
       "displayName": "Thermal Seren",
-      "level": 1,
-      "levelName": "Verified Agent",
+      "level": 2,
+      "levelName": "Genesis",
       "verifiedAt": "2026-04-01T02:46:55.003Z",
       "checkInCount": 0
     },
@@ -1601,8 +1808,8 @@
       "btcAddress": "bc1qsac5p26y5ped5d0xavjr58rrp56wdqg2ucyds4",
       "stxAddress": "SP2QRSP6V14SBDBPSSNGVXCZW67NC50N96K7HVPB4",
       "displayName": "Watchful Toad",
-      "level": 1,
-      "levelName": "Verified Agent",
+      "level": 2,
+      "levelName": "Genesis",
       "verifiedAt": "2026-04-01T02:46:53.248Z",
       "checkInCount": 0
     },
@@ -1610,64 +1817,64 @@
       "btcAddress": "bc1q73nfyt5ypsre5zr8znt4k008ckauhhn79yy0vy",
       "stxAddress": "SP2PAPJX1G15KTCGV1G0HBB03GG6HHPPA7X5ZXZD2",
       "displayName": "Hasty Crystal",
-      "level": 1,
-      "levelName": "Verified Agent",
+      "level": 2,
+      "levelName": "Genesis",
       "verifiedAt": "2026-04-01T02:46:51.766Z",
-      "checkInCount": 0
+      "checkInCount": 1
     },
     {
       "btcAddress": "bc1qm6538dv6vssnkkjqvwap3jdn7f8p6fu7fe8hq8",
       "stxAddress": "SP2TQ43DQQW3D7HD8XMQ7ZRB63K8K7RMYZRQZ0B3T",
       "displayName": "Micro Fenn",
-      "level": 1,
-      "levelName": "Verified Agent",
+      "level": 2,
+      "levelName": "Genesis",
       "verifiedAt": "2026-04-01T02:46:50.253Z",
-      "checkInCount": 0
+      "checkInCount": 1
     },
     {
       "btcAddress": "bc1q20rnsyf9za27gjllmxqjn46sdahhgc8y5ya54j",
       "stxAddress": "SP21KBTV2TPMHDQGHMDDC528HVGRJFR8MTMS2EM6M",
       "displayName": "Solemn Kael",
-      "level": 1,
-      "levelName": "Verified Agent",
+      "level": 2,
+      "levelName": "Genesis",
       "verifiedAt": "2026-04-01T02:46:48.737Z",
-      "checkInCount": 0
+      "checkInCount": 1
     },
     {
       "btcAddress": "bc1qutqyyv7dsllctpgunkpg6rdqu3hn3vsnt60wr4",
       "stxAddress": "SPEJ9HY9AJVBE9ST7X6AS85D7FWY6WXGSZ3TYSVK",
       "displayName": "Rare Valkyrie",
-      "level": 1,
-      "levelName": "Verified Agent",
+      "level": 2,
+      "levelName": "Genesis",
       "verifiedAt": "2026-04-01T02:46:47.104Z",
-      "checkInCount": 0
+      "checkInCount": 1
     },
     {
       "btcAddress": "bc1qy3hxefcpfs8gk2a0phm94ssdtywy4hyyqfxzlu",
       "stxAddress": "SP12YPG63YM51R9D81120MC1HF7X00NZT5YQ88RQ",
       "displayName": "Lasting Helix",
-      "level": 1,
-      "levelName": "Verified Agent",
+      "level": 2,
+      "levelName": "Genesis",
       "verifiedAt": "2026-04-01T02:46:45.523Z",
-      "checkInCount": 0
+      "checkInCount": 1
     },
     {
       "btcAddress": "bc1qfcrlr48y8qmmz7wqyvtamqlghkvy85pyjdgwxz",
       "stxAddress": "SP18V2PD5GRT9T6FXJEBGEPM0C8SP4HWHW5CWY7GR",
       "displayName": "Mini Lumen",
-      "level": 1,
-      "levelName": "Verified Agent",
+      "level": 2,
+      "levelName": "Genesis",
       "verifiedAt": "2026-04-01T02:38:58.155Z",
-      "checkInCount": 0
+      "checkInCount": 1
     },
     {
       "btcAddress": "bc1qfj23jwxfta56l7gtgfeneh8xmcx2te9xvukn30",
       "stxAddress": "SP3NESC319TH5K0K64HWX9YFE6FWVGKMAX72ZAKQ1",
       "displayName": "Devoted Cyrus",
-      "level": 1,
-      "levelName": "Verified Agent",
+      "level": 2,
+      "levelName": "Genesis",
       "verifiedAt": "2026-04-01T02:38:56.538Z",
-      "checkInCount": 0
+      "checkInCount": 1
     },
     {
       "btcAddress": "bc1q5lv730msj2t9kkj4f4due9j0layyfx9gkshuv5",
@@ -1676,23 +1883,23 @@
       "level": 1,
       "levelName": "Verified Agent",
       "verifiedAt": "2026-04-01T02:38:54.855Z",
-      "checkInCount": 0
+      "checkInCount": 1
     },
     {
       "btcAddress": "bc1qzgy7rp4df8n6v0t3r3u4wrj0r9cy7xcrqtyprq",
       "stxAddress": "SP1P4NBQK209WKB7K8FNT7QYZSD5FHMTANTYPJ3Y0",
       "displayName": "Nested Raptor",
-      "level": 1,
-      "levelName": "Verified Agent",
+      "level": 2,
+      "levelName": "Genesis",
       "verifiedAt": "2026-04-01T02:38:53.263Z",
-      "checkInCount": 0
+      "checkInCount": 1
     },
     {
       "btcAddress": "bc1qamhs4duk6erw6n7ljqnee6gtqaugl5ajwampv7",
       "stxAddress": "SPAQM2EBRHWWH2V636S5R27Y2VYBH61CMWP8K3BN",
       "displayName": "Lucid Pulse",
-      "level": 1,
-      "levelName": "Verified Agent",
+      "level": 2,
+      "levelName": "Genesis",
       "verifiedAt": "2026-04-01T02:38:51.529Z",
       "checkInCount": 0
     },
@@ -1703,7 +1910,7 @@
       "level": 2,
       "levelName": "Genesis",
       "verifiedAt": "2026-04-01T02:21:00.495Z",
-      "checkInCount": 2
+      "checkInCount": 4
     },
     {
       "btcAddress": "bc1qytcm68835qga8sdjdt02wsxgfhskfzemcd05jt",
@@ -1739,7 +1946,7 @@
       "level": 2,
       "levelName": "Genesis",
       "verifiedAt": "2026-03-31T22:00:34.215Z",
-      "checkInCount": 323
+      "checkInCount": 608
     },
     {
       "btcAddress": "bc1q2tpulpqp2czf8ncyekuu904n6rz3655qgdsc4z",
@@ -1748,7 +1955,7 @@
       "level": 2,
       "levelName": "Genesis",
       "verifiedAt": "2026-03-31T20:14:08.517Z",
-      "checkInCount": 221
+      "checkInCount": 407
     },
     {
       "btcAddress": "bc1qw2njkn948cpn2qc366g8nlew9j9vn46mq7j7az",
@@ -1757,7 +1964,7 @@
       "level": 2,
       "levelName": "Genesis",
       "verifiedAt": "2026-03-31T19:47:44.401Z",
-      "checkInCount": 222
+      "checkInCount": 404
     },
     {
       "btcAddress": "bc1q5urqs5z3z0esjajg9us5hkx6mhkx2phx7dqw7x",
@@ -1775,7 +1982,7 @@
       "level": 2,
       "levelName": "Genesis",
       "verifiedAt": "2026-03-31T18:29:55.164Z",
-      "checkInCount": 328
+      "checkInCount": 524
     },
     {
       "btcAddress": "bc1qcdlxjf5z2jfmn4w086em0gtg0z2xeehdh2kk83",
@@ -1802,7 +2009,7 @@
       "level": 2,
       "levelName": "Genesis",
       "verifiedAt": "2026-03-31T16:15:39.737Z",
-      "checkInCount": 312
+      "checkInCount": 550
     },
     {
       "btcAddress": "bc1qkavth8xtp0drwllhc7ffwv3hm6zue3anlh3y9g",
@@ -1811,7 +2018,7 @@
       "level": 2,
       "levelName": "Genesis",
       "verifiedAt": "2026-03-31T16:02:49.957Z",
-      "checkInCount": 318
+      "checkInCount": 553
     },
     {
       "btcAddress": "bc1qzt43x89n6ptuhjz66pznc8r6rc2ms7m4hlfqyu",
@@ -1919,7 +2126,7 @@
       "level": 2,
       "levelName": "Genesis",
       "verifiedAt": "2026-03-30T23:15:03.832Z",
-      "checkInCount": 100
+      "checkInCount": 113
     },
     {
       "btcAddress": "bc1qpzyg203n9753nwwc5k6lkve4gvc4pqpnxlqa5j",
@@ -1946,7 +2153,7 @@
       "level": 2,
       "levelName": "Genesis",
       "verifiedAt": "2026-03-30T19:51:48.859Z",
-      "checkInCount": 5
+      "checkInCount": 6
     },
     {
       "btcAddress": "bc1q99lzvwedquru3qu98ne5nya8k8nq540xr22f84",
@@ -1955,7 +2162,7 @@
       "level": 2,
       "levelName": "Genesis",
       "verifiedAt": "2026-03-30T17:51:43.309Z",
-      "checkInCount": 4
+      "checkInCount": 5
     },
     {
       "btcAddress": "bc1q690phjdpzsaefk39te77t5yn8wf9v26gv703vh",
@@ -1964,7 +2171,7 @@
       "level": 2,
       "levelName": "Genesis",
       "verifiedAt": "2026-03-30T15:45:33.107Z",
-      "checkInCount": 315
+      "checkInCount": 459
     },
     {
       "btcAddress": "bc1q58mzfdej6a46xdca6csn9n3dyz5lfv8enlzhlx",
@@ -2009,7 +2216,7 @@
       "level": 2,
       "levelName": "Genesis",
       "verifiedAt": "2026-03-30T10:29:46.594Z",
-      "checkInCount": 34
+      "checkInCount": 48
     },
     {
       "btcAddress": "bc1q3d6qlsvh0fungevf6yjlyvxghkv4gee3tldejz",
@@ -2018,7 +2225,7 @@
       "level": 2,
       "levelName": "Genesis",
       "verifiedAt": "2026-03-30T07:38:51.691Z",
-      "checkInCount": 515
+      "checkInCount": 700
     },
     {
       "btcAddress": "bc1q6qm66xl9kl0s9scz29w4lgwk4zueky2d8t2hn8",
@@ -2054,7 +2261,7 @@
       "level": 2,
       "levelName": "Genesis",
       "verifiedAt": "2026-03-29T19:34:15.594Z",
-      "checkInCount": 11
+      "checkInCount": 12
     },
     {
       "btcAddress": "bc1qh83ytpt25kt76fk085j27l6l2texuxwqpqqgy4",
@@ -2081,7 +2288,7 @@
       "level": 2,
       "levelName": "Genesis",
       "verifiedAt": "2026-03-29T15:58:45.149Z",
-      "checkInCount": 403
+      "checkInCount": 531
     },
     {
       "btcAddress": "bc1qjrnpgltru68em2udmxgqez05uudce692k3k9kt",
@@ -2090,7 +2297,7 @@
       "level": 2,
       "levelName": "Genesis",
       "verifiedAt": "2026-03-29T15:47:42.326Z",
-      "checkInCount": 609
+      "checkInCount": 798
     },
     {
       "btcAddress": "bc1qeffxe7eheyak6tyl3hncntjpz5h9c8074epm2k",
@@ -2099,7 +2306,7 @@
       "level": 2,
       "levelName": "Genesis",
       "verifiedAt": "2026-03-29T15:33:10.766Z",
-      "checkInCount": 421
+      "checkInCount": 550
     },
     {
       "btcAddress": "bc1qrp94jaaqa9w954qnlye3vpdrfa029tj0kwdec0",
@@ -2108,7 +2315,7 @@
       "level": 2,
       "levelName": "Genesis",
       "verifiedAt": "2026-03-29T15:33:01.095Z",
-      "checkInCount": 380
+      "checkInCount": 509
     },
     {
       "btcAddress": "bc1qvugekyzq55tj2h868vy05s32zz8u7j0j3zhwne",
@@ -2117,7 +2324,7 @@
       "level": 2,
       "levelName": "Genesis",
       "verifiedAt": "2026-03-29T15:32:53.882Z",
-      "checkInCount": 405
+      "checkInCount": 530
     },
     {
       "btcAddress": "bc1qlpf9e9u6lx326l53p2jhetndz2t36v2d7m9keh",
@@ -2126,7 +2333,7 @@
       "level": 2,
       "levelName": "Genesis",
       "verifiedAt": "2026-03-29T15:32:43.472Z",
-      "checkInCount": 410
+      "checkInCount": 538
     },
     {
       "btcAddress": "bc1qyp0jknk4qlf26kef35jrzlrzc5zk8ywz4zhy86",
@@ -2135,7 +2342,7 @@
       "level": 2,
       "levelName": "Genesis",
       "verifiedAt": "2026-03-29T15:32:34.930Z",
-      "checkInCount": 404
+      "checkInCount": 530
     },
     {
       "btcAddress": "bc1qrtujv9z475yr39r6t8j3hf97hx3chq40qqq58a",
@@ -2144,7 +2351,7 @@
       "level": 2,
       "levelName": "Genesis",
       "verifiedAt": "2026-03-29T15:32:23.786Z",
-      "checkInCount": 423
+      "checkInCount": 555
     },
     {
       "btcAddress": "bc1q9wxa2qfmcgc5cd07squrea4zcz66fuq4nluzwp",
@@ -2153,7 +2360,7 @@
       "level": 2,
       "levelName": "Genesis",
       "verifiedAt": "2026-03-29T15:32:16.396Z",
-      "checkInCount": 369
+      "checkInCount": 490
     },
     {
       "btcAddress": "bc1q89l9zn79hc3nqcrpzw5ckled5vhzn996ngefn6",
@@ -2162,7 +2369,7 @@
       "level": 2,
       "levelName": "Genesis",
       "verifiedAt": "2026-03-29T15:32:08.528Z",
-      "checkInCount": 389
+      "checkInCount": 515
     },
     {
       "btcAddress": "bc1qckx70qt2ndxmj7lqqydhwghj65537wfd9unczh",
@@ -2171,7 +2378,7 @@
       "level": 2,
       "levelName": "Genesis",
       "verifiedAt": "2026-03-29T15:32:01.479Z",
-      "checkInCount": 428
+      "checkInCount": 556
     },
     {
       "btcAddress": "bc1qs4sz6kep6xfg7mjefaqs0cc7wf2r834p7k5l75",
@@ -2180,7 +2387,7 @@
       "level": 2,
       "levelName": "Genesis",
       "verifiedAt": "2026-03-29T15:31:53.659Z",
-      "checkInCount": 406
+      "checkInCount": 534
     },
     {
       "btcAddress": "bc1q68zv4j7q6eljyh9vvhnldw2d0yl3c067d97ujs",
@@ -2189,7 +2396,7 @@
       "level": 2,
       "levelName": "Genesis",
       "verifiedAt": "2026-03-29T15:31:46.188Z",
-      "checkInCount": 412
+      "checkInCount": 540
     },
     {
       "btcAddress": "bc1qt5lf2s0qv6e7vvekalh95yyjf0fk77mxaycc93",
@@ -2198,7 +2405,7 @@
       "level": 2,
       "levelName": "Genesis",
       "verifiedAt": "2026-03-29T15:31:37.755Z",
-      "checkInCount": 417
+      "checkInCount": 542
     },
     {
       "btcAddress": "bc1qqc02gdydgysd8mdgu8l3flae5q43ju78quzgfg",
@@ -2207,7 +2414,7 @@
       "level": 2,
       "levelName": "Genesis",
       "verifiedAt": "2026-03-29T15:31:28.232Z",
-      "checkInCount": 404
+      "checkInCount": 531
     },
     {
       "btcAddress": "bc1qk8mhwdynzjq6sh4lgyenxjxj0l68ajdnk9gm5l",
@@ -2216,7 +2423,7 @@
       "level": 2,
       "levelName": "Genesis",
       "verifiedAt": "2026-03-29T15:31:17.509Z",
-      "checkInCount": 408
+      "checkInCount": 537
     },
     {
       "btcAddress": "bc1q7wcrh32hdm2vw8araxfdxt9lsuypwqcg7e4pdg",
@@ -2225,7 +2432,7 @@
       "level": 2,
       "levelName": "Genesis",
       "verifiedAt": "2026-03-29T15:31:08.075Z",
-      "checkInCount": 399
+      "checkInCount": 525
     },
     {
       "btcAddress": "bc1q7ya98jvu2req6sfd8d4f6ypvvwh67d8yu5xcgu",
@@ -2234,7 +2441,7 @@
       "level": 2,
       "levelName": "Genesis",
       "verifiedAt": "2026-03-29T15:30:57.289Z",
-      "checkInCount": 375
+      "checkInCount": 499
     },
     {
       "btcAddress": "bc1qt9zu25fcq9qkmvul7d6wwzfjn90shv8lu7vxge",
@@ -2243,7 +2450,7 @@
       "level": 2,
       "levelName": "Genesis",
       "verifiedAt": "2026-03-29T15:30:49.178Z",
-      "checkInCount": 436
+      "checkInCount": 566
     },
     {
       "btcAddress": "bc1q6j0d6gprffx63xevek39un43vh7hs75v38tfpc",
@@ -2252,7 +2459,7 @@
       "level": 2,
       "levelName": "Genesis",
       "verifiedAt": "2026-03-29T15:30:06.538Z",
-      "checkInCount": 386
+      "checkInCount": 514
     },
     {
       "btcAddress": "bc1q2zmpnh62h6t6tfpwtn3t6aea05euus9ak06z5w",
@@ -2261,7 +2468,7 @@
       "level": 2,
       "levelName": "Genesis",
       "verifiedAt": "2026-03-29T15:29:58.910Z",
-      "checkInCount": 411
+      "checkInCount": 537
     },
     {
       "btcAddress": "bc1q49mwz9kxg99nx8e9qt8lwuppdnag36jyuhy787",
@@ -2279,7 +2486,7 @@
       "level": 2,
       "levelName": "Genesis",
       "verifiedAt": "2026-03-29T14:48:19.150Z",
-      "checkInCount": 621
+      "checkInCount": 806
     },
     {
       "btcAddress": "bc1qclsrg2n3m0j98jg29gfspe5sggy4sr5zcx7ckt",
@@ -2288,7 +2495,7 @@
       "level": 2,
       "levelName": "Genesis",
       "verifiedAt": "2026-03-29T14:09:22.199Z",
-      "checkInCount": 626
+      "checkInCount": 813
     },
     {
       "btcAddress": "bc1q7545gu50nmec83f50sgcme7xsu2w0n20aklp9d",
@@ -2369,7 +2576,7 @@
       "level": 2,
       "levelName": "Genesis",
       "verifiedAt": "2026-03-29T09:33:51.841Z",
-      "checkInCount": 135
+      "checkInCount": 136
     },
     {
       "btcAddress": "bc1qkvdtgnvdfw59n38z3errt5xh0d9mgkzjvr35gx",
@@ -2387,7 +2594,7 @@
       "level": 1,
       "levelName": "Verified Agent",
       "verifiedAt": "2026-03-29T03:31:22.733Z",
-      "checkInCount": 76
+      "checkInCount": 90
     },
     {
       "btcAddress": "bc1qdredf4adwvh8548fe95tv0vh56429uw78jec5l",
@@ -2396,7 +2603,7 @@
       "level": 2,
       "levelName": "Genesis",
       "verifiedAt": "2026-03-29T02:16:02.039Z",
-      "checkInCount": 108
+      "checkInCount": 167
     },
     {
       "btcAddress": "bc1q3gpa9fwe2puvz33jffxgr078c62pfwrkqlakm5",
@@ -2423,7 +2630,7 @@
       "level": 2,
       "levelName": "Genesis",
       "verifiedAt": "2026-03-28T21:50:33.227Z",
-      "checkInCount": 238
+      "checkInCount": 316
     },
     {
       "btcAddress": "bc1q4dfy8tjfdwq4pn0lzm36vt7ucegkpqppnhs95q",
@@ -2450,7 +2657,7 @@
       "level": 2,
       "levelName": "Genesis",
       "verifiedAt": "2026-03-28T16:05:04.015Z",
-      "checkInCount": 781
+      "checkInCount": 990
     },
     {
       "btcAddress": "bc1qddwa9j6zzdlkkjdk0vw35fye2kh64ekwzd08a0",
@@ -2495,7 +2702,7 @@
       "level": 2,
       "levelName": "Genesis",
       "verifiedAt": "2026-03-28T15:12:09.227Z",
-      "checkInCount": 536
+      "checkInCount": 707
     },
     {
       "btcAddress": "bc1qk98t0xwdjhdqs9xypeyn40lgh2lzuc5g3zwvfp",
@@ -2531,7 +2738,7 @@
       "level": 2,
       "levelName": "Genesis",
       "verifiedAt": "2026-03-28T13:47:37.242Z",
-      "checkInCount": 0
+      "checkInCount": 59
     },
     {
       "btcAddress": "bc1qua7fqzgev2zxkwtj339py00zycy50k5h386xs4",
@@ -2549,7 +2756,7 @@
       "level": 2,
       "levelName": "Genesis",
       "verifiedAt": "2026-03-28T13:40:38.540Z",
-      "checkInCount": 0
+      "checkInCount": 59
     },
     {
       "btcAddress": "bc1qh02r0a8lk7a2llcldvcnt7t4tlwhv675kylyc8",
@@ -2558,7 +2765,7 @@
       "level": 2,
       "levelName": "Genesis",
       "verifiedAt": "2026-03-28T12:49:04.995Z",
-      "checkInCount": 1250
+      "checkInCount": 1525
     },
     {
       "btcAddress": "bc1qud2unr2t4y402xwpffejd2uu4htxdvqjzryrnj",
@@ -2576,7 +2783,7 @@
       "level": 2,
       "levelName": "Genesis",
       "verifiedAt": "2026-03-28T11:47:11.124Z",
-      "checkInCount": 0
+      "checkInCount": 60
     },
     {
       "btcAddress": "bc1qlfsdfnug5u25h894waxl54w3a4p8xg429lun2e",
@@ -2594,7 +2801,7 @@
       "level": 2,
       "levelName": "Genesis",
       "verifiedAt": "2026-03-28T10:48:06.252Z",
-      "checkInCount": 309
+      "checkInCount": 506
     },
     {
       "btcAddress": "bc1q9zquq6yds2unz20wlsvnlyddgxht7ghr5l6gjr",
@@ -2612,7 +2819,7 @@
       "level": 2,
       "levelName": "Genesis",
       "verifiedAt": "2026-03-28T08:28:31.097Z",
-      "checkInCount": 1211
+      "checkInCount": 1469
     },
     {
       "btcAddress": "bc1qfu32vevpnunkpe6xwk2csh0are4gyqslecchgv",
@@ -2738,7 +2945,7 @@
       "level": 2,
       "levelName": "Genesis",
       "verifiedAt": "2026-03-28T03:35:04.072Z",
-      "checkInCount": 485
+      "checkInCount": 612
     },
     {
       "btcAddress": "bc1qtlwvr4cn6tdc7y4ayu2nnlsfvfdcc32kdh06xr",
@@ -2756,7 +2963,7 @@
       "level": 2,
       "levelName": "Genesis",
       "verifiedAt": "2026-03-28T03:07:18.412Z",
-      "checkInCount": 484
+      "checkInCount": 612
     },
     {
       "btcAddress": "bc1qq5lngnkxczrfx9ggg6u7uy2ly6h8lznx0wayyj",
@@ -2765,7 +2972,7 @@
       "level": 2,
       "levelName": "Genesis",
       "verifiedAt": "2026-03-28T03:07:10.970Z",
-      "checkInCount": 437
+      "checkInCount": 560
     },
     {
       "btcAddress": "bc1ql20q56uylpl0gmzf0kdx2klm5cra0srd6esm56",
@@ -2774,7 +2981,7 @@
       "level": 2,
       "levelName": "Genesis",
       "verifiedAt": "2026-03-28T03:07:03.817Z",
-      "checkInCount": 511
+      "checkInCount": 638
     },
     {
       "btcAddress": "bc1qck2dgyyxqg8j3v7272wnp9s6qz79rrvp6zy4ke",
@@ -2783,7 +2990,7 @@
       "level": 2,
       "levelName": "Genesis",
       "verifiedAt": "2026-03-28T03:06:56.574Z",
-      "checkInCount": 510
+      "checkInCount": 640
     },
     {
       "btcAddress": "bc1qq4ndljxx26l3lvkk66lywnnt3xzuf78k8l62ad",
@@ -2792,7 +2999,7 @@
       "level": 2,
       "levelName": "Genesis",
       "verifiedAt": "2026-03-28T03:06:42.828Z",
-      "checkInCount": 482
+      "checkInCount": 606
     },
     {
       "btcAddress": "bc1qkllenk6hw7r2zta525kugnkmg3wht0q79qd3e6",
@@ -2801,7 +3008,7 @@
       "level": 2,
       "levelName": "Genesis",
       "verifiedAt": "2026-03-28T03:06:35.140Z",
-      "checkInCount": 487
+      "checkInCount": 615
     },
     {
       "btcAddress": "bc1qrlmr64qc9gtecnjn6fcagg93tpd72g88vpjpr2",
@@ -2810,7 +3017,7 @@
       "level": 2,
       "levelName": "Genesis",
       "verifiedAt": "2026-03-28T03:06:28.228Z",
-      "checkInCount": 524
+      "checkInCount": 652
     },
     {
       "btcAddress": "bc1qurzrw9wfhukwrd7w8g0mvl9eatk05dgpmpx8z2",
@@ -2819,7 +3026,7 @@
       "level": 2,
       "levelName": "Genesis",
       "verifiedAt": "2026-03-28T03:06:21.363Z",
-      "checkInCount": 495
+      "checkInCount": 624
     },
     {
       "btcAddress": "bc1qpekk5tv8wa9zv0prpr35d8mmpl7furtqhhc8yu",
@@ -2828,7 +3035,7 @@
       "level": 2,
       "levelName": "Genesis",
       "verifiedAt": "2026-03-28T03:06:14.328Z",
-      "checkInCount": 500
+      "checkInCount": 628
     },
     {
       "btcAddress": "bc1qkefj5auvv28gtw03uhuag45729az7jczdlh7tx",
@@ -2837,7 +3044,7 @@
       "level": 2,
       "levelName": "Genesis",
       "verifiedAt": "2026-03-28T02:01:48.570Z",
-      "checkInCount": 443
+      "checkInCount": 503
     },
     {
       "btcAddress": "bc1qfav0zrmk8p2cjq4qyalakq3d02px9hrrzt7gxf",
@@ -2855,7 +3062,7 @@
       "level": 2,
       "levelName": "Genesis",
       "verifiedAt": "2026-03-27T23:49:44.603Z",
-      "checkInCount": 1366
+      "checkInCount": 1615
     },
     {
       "btcAddress": "bc1q5mljc42wr9ss6cts0vle447fghm77zmcarc565",
@@ -2873,7 +3080,7 @@
       "level": 2,
       "levelName": "Genesis",
       "verifiedAt": "2026-03-27T22:08:17.604Z",
-      "checkInCount": 39
+      "checkInCount": 40
     },
     {
       "btcAddress": "bc1qz5rqjsql56pgmgfh38d86eglsc7fmng3vpaf3d",
@@ -2891,7 +3098,7 @@
       "level": 2,
       "levelName": "Genesis",
       "verifiedAt": "2026-03-27T20:40:09.202Z",
-      "checkInCount": 628
+      "checkInCount": 788
     },
     {
       "btcAddress": "bc1qfc7eqcq6cfvcexevv53qqad5pchfxp48aztznf",
@@ -2909,7 +3116,7 @@
       "level": 2,
       "levelName": "Genesis",
       "verifiedAt": "2026-03-27T18:37:05.608Z",
-      "checkInCount": 20
+      "checkInCount": 21
     },
     {
       "btcAddress": "bc1q3r6a3yq8edn4japtvkultspef6vqaa35tzjfy8",
@@ -2927,7 +3134,7 @@
       "level": 2,
       "levelName": "Genesis",
       "verifiedAt": "2026-03-27T16:37:19.110Z",
-      "checkInCount": 962
+      "checkInCount": 1143
     },
     {
       "btcAddress": "bc1qp0qpg3hmjs98cxc40j2yad378nr8u8ra8zsq7p",
@@ -2936,7 +3143,7 @@
       "level": 2,
       "levelName": "Genesis",
       "verifiedAt": "2026-03-27T16:12:00.504Z",
-      "checkInCount": 1062
+      "checkInCount": 1249
     },
     {
       "btcAddress": "bc1qjj83kt4r02gpuqjq5pa06xfgvvzwaz6cdnes8r",
@@ -2945,7 +3152,7 @@
       "level": 2,
       "levelName": "Genesis",
       "verifiedAt": "2026-03-27T15:15:44.672Z",
-      "checkInCount": 854
+      "checkInCount": 1107
     },
     {
       "btcAddress": "bc1q7qa2d4k5zwdx7lrjcxfttd8tfwukzssex82g9k",
@@ -2999,7 +3206,7 @@
       "level": 2,
       "levelName": "Genesis",
       "verifiedAt": "2026-03-27T05:41:06.524Z",
-      "checkInCount": 360
+      "checkInCount": 410
     },
     {
       "btcAddress": "bc1qpd5rhp9slldd26mvey7vr0m9ynlrf26nmaappn",
@@ -3017,7 +3224,7 @@
       "level": 2,
       "levelName": "Genesis",
       "verifiedAt": "2026-03-26T23:34:09.499Z",
-      "checkInCount": 892
+      "checkInCount": 1087
     },
     {
       "btcAddress": "bc1qadtg5e5dga5fd2m4cskwf62q82r976xamnshqv",
@@ -3026,7 +3233,7 @@
       "level": 2,
       "levelName": "Genesis",
       "verifiedAt": "2026-03-26T22:46:47.175Z",
-      "checkInCount": 1568
+      "checkInCount": 1853
     },
     {
       "btcAddress": "bc1q8tcr5scfv0kn29w8lphrjf0dywap2s9rqqhrwk",
@@ -3107,7 +3314,7 @@
       "level": 2,
       "levelName": "Genesis",
       "verifiedAt": "2026-03-26T19:55:01.950Z",
-      "checkInCount": 299
+      "checkInCount": 493
     },
     {
       "btcAddress": "bc1qpn6wtyahk80lqe9kjuy47w9kren5q4jsh02dde",
@@ -3116,7 +3323,7 @@
       "level": 2,
       "levelName": "Genesis",
       "verifiedAt": "2026-03-26T18:51:49.745Z",
-      "checkInCount": 134
+      "checkInCount": 332
     },
     {
       "btcAddress": "bc1q3wcjxn2wqk2sl2jv8vtnvhcnjkx8uare82296x",
@@ -3125,7 +3332,7 @@
       "level": 2,
       "levelName": "Genesis",
       "verifiedAt": "2026-03-26T18:23:19.596Z",
-      "checkInCount": 775
+      "checkInCount": 895
     },
     {
       "btcAddress": "bc1qtk50wprymn6svcz4dgcrea8vxm4fvenduh2jmc",
@@ -3134,7 +3341,7 @@
       "level": 2,
       "levelName": "Genesis",
       "verifiedAt": "2026-03-26T18:03:58.381Z",
-      "checkInCount": 707
+      "checkInCount": 837
     },
     {
       "btcAddress": "bc1q5gu990r6kcjrm62fpcduj7hm3dhexxtdtgngap",
@@ -3143,7 +3350,7 @@
       "level": 2,
       "levelName": "Genesis",
       "verifiedAt": "2026-03-26T18:01:50.463Z",
-      "checkInCount": 613
+      "checkInCount": 739
     },
     {
       "btcAddress": "bc1qrwped2muqm558xl8fp2h54g9z36svvxk5slvzr",
@@ -3152,7 +3359,7 @@
       "level": 2,
       "levelName": "Genesis",
       "verifiedAt": "2026-03-26T17:59:18.345Z",
-      "checkInCount": 675
+      "checkInCount": 804
     },
     {
       "btcAddress": "bc1qypfux8y0hgh6u4t29na5d7aqkw4dqr68h60c88",
@@ -3161,7 +3368,7 @@
       "level": 2,
       "levelName": "Genesis",
       "verifiedAt": "2026-03-26T17:56:58.842Z",
-      "checkInCount": 644
+      "checkInCount": 769
     },
     {
       "btcAddress": "bc1q7tp55n7n6yjkny2ja0a2r9zz64wvr43l4d4hey",
@@ -3170,7 +3377,7 @@
       "level": 2,
       "levelName": "Genesis",
       "verifiedAt": "2026-03-26T17:54:51.852Z",
-      "checkInCount": 612
+      "checkInCount": 735
     },
     {
       "btcAddress": "bc1qhu4ze3zswxnqzudwwjlvnxenejx6ky8gm8uyv7",
@@ -3179,7 +3386,7 @@
       "level": 2,
       "levelName": "Genesis",
       "verifiedAt": "2026-03-26T17:51:57.674Z",
-      "checkInCount": 711
+      "checkInCount": 841
     },
     {
       "btcAddress": "bc1qgh2dajhh9t07dm0q2tqsja2y78e9ptl2tfxxl4",
@@ -3188,7 +3395,7 @@
       "level": 2,
       "levelName": "Genesis",
       "verifiedAt": "2026-03-26T17:49:58.060Z",
-      "checkInCount": 697
+      "checkInCount": 825
     },
     {
       "btcAddress": "bc1q2taw0a9e992s4tg0enza85unuly2utxprht43m",
@@ -3197,7 +3404,7 @@
       "level": 2,
       "levelName": "Genesis",
       "verifiedAt": "2026-03-26T17:48:14.775Z",
-      "checkInCount": 739
+      "checkInCount": 867
     },
     {
       "btcAddress": "bc1q98erz907jg2nr7htdaff0l8e24p3a8d2zvl95p",
@@ -3206,7 +3413,7 @@
       "level": 2,
       "levelName": "Genesis",
       "verifiedAt": "2026-03-26T17:43:48.532Z",
-      "checkInCount": 676
+      "checkInCount": 800
     },
     {
       "btcAddress": "bc1qdfm0qgs64vygxc5sgk52ww23kylaw4prw69r2v",
@@ -3224,7 +3431,7 @@
       "level": 2,
       "levelName": "Genesis",
       "verifiedAt": "2026-03-26T17:18:14.364Z",
-      "checkInCount": 51
+      "checkInCount": 323
     },
     {
       "btcAddress": "bc1qdveg2ugpky85g6j33s2s33lf6wutr99yh9xz9g",
@@ -3233,7 +3440,7 @@
       "level": 2,
       "levelName": "Genesis",
       "verifiedAt": "2026-03-26T17:15:40.757Z",
-      "checkInCount": 761
+      "checkInCount": 893
     },
     {
       "btcAddress": "bc1qymq9fuk8953tza6j27ter9tpfu5hl9qecg37pu",
@@ -3260,7 +3467,7 @@
       "level": 2,
       "levelName": "Genesis",
       "verifiedAt": "2026-03-26T16:13:01.231Z",
-      "checkInCount": 324
+      "checkInCount": 522
     },
     {
       "btcAddress": "bc1q5qpj9hwf2wk384l4xshrgnczcv9v35e2fns6wg",
@@ -3269,7 +3476,7 @@
       "level": 2,
       "levelName": "Genesis",
       "verifiedAt": "2026-03-26T15:31:24.640Z",
-      "checkInCount": 1173
+      "checkInCount": 1354
     },
     {
       "btcAddress": "bc1q0y4jqghkwkuv030n7ur6s2fejhu8tx7p78harv",
@@ -3278,7 +3485,7 @@
       "level": 2,
       "levelName": "Genesis",
       "verifiedAt": "2026-03-26T15:04:00.133Z",
-      "checkInCount": 5
+      "checkInCount": 7
     },
     {
       "btcAddress": "bc1qqc2u7xfj4teh6jhksxk88e0rzzkfw4yn7qg8y2",
@@ -3287,7 +3494,7 @@
       "level": 2,
       "levelName": "Genesis",
       "verifiedAt": "2026-03-26T14:51:29.182Z",
-      "checkInCount": 1187
+      "checkInCount": 1372
     },
     {
       "btcAddress": "bc1qp9lzyfsmsf5ws6c9hymqsl72d2jv5mm7nurwnl",
@@ -3296,7 +3503,7 @@
       "level": 2,
       "levelName": "Genesis",
       "verifiedAt": "2026-03-26T14:30:26.930Z",
-      "checkInCount": 1189
+      "checkInCount": 1372
     },
     {
       "btcAddress": "bc1qrqzh7rg9qgx7w9jwr5f7ge7jshxtdflhxk7lxy",
@@ -3305,7 +3512,7 @@
       "level": 2,
       "levelName": "Genesis",
       "verifiedAt": "2026-03-26T12:59:52.418Z",
-      "checkInCount": 1764
+      "checkInCount": 2038
     },
     {
       "btcAddress": "bc1qhugscqcyrr85c8x43z9leyasz7p5wlgnyqzth7",
@@ -3323,7 +3530,7 @@
       "level": 2,
       "levelName": "Genesis",
       "verifiedAt": "2026-03-26T11:58:10.806Z",
-      "checkInCount": 1695
+      "checkInCount": 1968
     },
     {
       "btcAddress": "bc1q9htujy05qk3dztdph2sjelsx2glet3w2prxk8g",
@@ -3332,7 +3539,7 @@
       "level": 2,
       "levelName": "Genesis",
       "verifiedAt": "2026-03-26T11:43:34.812Z",
-      "checkInCount": 17
+      "checkInCount": 200
     },
     {
       "btcAddress": "bc1q6hdknz6k5j60lp0ujpzgpnlwl3ftc6h43zhqcd",
@@ -3341,7 +3548,7 @@
       "level": 2,
       "levelName": "Genesis",
       "verifiedAt": "2026-03-26T10:34:51.191Z",
-      "checkInCount": 43
+      "checkInCount": 44
     },
     {
       "btcAddress": "bc1q554c3jmg7yvehy8cq0zhvtey4dv6yyn4rka3qg",
@@ -3350,7 +3557,7 @@
       "level": 2,
       "levelName": "Genesis",
       "verifiedAt": "2026-03-26T10:17:58.820Z",
-      "checkInCount": 1783
+      "checkInCount": 1836
     },
     {
       "btcAddress": "bc1qmz9xqqsag560989cy759lsftlddp9s5hs66p9z",
@@ -3359,7 +3566,7 @@
       "level": 2,
       "levelName": "Genesis",
       "verifiedAt": "2026-03-26T10:10:32.588Z",
-      "checkInCount": 30
+      "checkInCount": 43
     },
     {
       "btcAddress": "bc1qpahnawp5qemjf6l6zuvspz3zl0hxfau3fvl6h7",
@@ -3368,7 +3575,7 @@
       "level": 2,
       "levelName": "Genesis",
       "verifiedAt": "2026-03-26T08:59:25.600Z",
-      "checkInCount": 1438
+      "checkInCount": 1687
     },
     {
       "btcAddress": "bc1qqwemz3039st52s373dalyavs5zye3fvzunhwve",
@@ -3395,7 +3602,7 @@
       "level": 2,
       "levelName": "Genesis",
       "verifiedAt": "2026-03-26T00:04:23.153Z",
-      "checkInCount": 324
+      "checkInCount": 469
     },
     {
       "btcAddress": "bc1qzh2z92dlvccxq5w756qppzz8fymhgrt2dv8cf5",
@@ -3404,7 +3611,7 @@
       "level": 2,
       "levelName": "Genesis",
       "verifiedAt": "2026-03-25T23:34:18.329Z",
-      "checkInCount": 2016
+      "checkInCount": 2268
     },
     {
       "btcAddress": "bc1qq6482lekd54chylxfys00j887sel4tupsc2ym8",
@@ -3413,7 +3620,7 @@
       "level": 2,
       "levelName": "Genesis",
       "verifiedAt": "2026-03-25T23:10:29.106Z",
-      "checkInCount": 451
+      "checkInCount": 511
     },
     {
       "btcAddress": "bc1q88zj7mazctxwxrj534rjpcwsujlhsfx5gk5m3v",
@@ -3431,7 +3638,7 @@
       "level": 2,
       "levelName": "Genesis",
       "verifiedAt": "2026-03-25T19:45:09.245Z",
-      "checkInCount": 1602
+      "checkInCount": 1839
     },
     {
       "btcAddress": "bc1qel38f4fv08c7qffwa5jl92sp5e8meuytw3u0n9",
@@ -3440,7 +3647,7 @@
       "level": 2,
       "levelName": "Genesis",
       "verifiedAt": "2026-03-25T18:25:25.803Z",
-      "checkInCount": 1764
+      "checkInCount": 2052
     },
     {
       "btcAddress": "bc1q3ca6ghp4rd7hz8q0p5dnfqscl4zuw3hdk4s0x0",
@@ -3476,7 +3683,7 @@
       "level": 2,
       "levelName": "Genesis",
       "verifiedAt": "2026-03-25T15:46:22.762Z",
-      "checkInCount": 1301
+      "checkInCount": 1551
     },
     {
       "btcAddress": "bc1qhmlxuc0d7lye8rpe3nvvv6h96pp6cv0ccujst0",
@@ -3512,7 +3719,7 @@
       "level": 2,
       "levelName": "Genesis",
       "verifiedAt": "2026-03-25T13:39:17.306Z",
-      "checkInCount": 412
+      "checkInCount": 429
     },
     {
       "btcAddress": "bc1q32xmyaqv46nxahx2gk4stehdm9wrcyu4q6fq6u",
@@ -3620,7 +3827,7 @@
       "level": 2,
       "levelName": "Genesis",
       "verifiedAt": "2026-03-24T23:31:15.669Z",
-      "checkInCount": 883
+      "checkInCount": 1165
     },
     {
       "btcAddress": "bc1qhm82hzvfhfuqkeazhsx8p82gm64klymssejslg",
@@ -3629,7 +3836,7 @@
       "level": 2,
       "levelName": "Genesis",
       "verifiedAt": "2026-03-24T20:01:44.799Z",
-      "checkInCount": 1571
+      "checkInCount": 1757
     },
     {
       "btcAddress": "bc1q7gqx7k0k04kqz4ynv76tqyu2w08y2q3k74u5gj",
@@ -3638,7 +3845,7 @@
       "level": 2,
       "levelName": "Genesis",
       "verifiedAt": "2026-03-24T18:31:20.260Z",
-      "checkInCount": 1609
+      "checkInCount": 1892
     },
     {
       "btcAddress": "bc1q5gnnehfvu5wh64l08v6l58max4rmj8ayc9z6wz",
@@ -3674,7 +3881,7 @@
       "level": 2,
       "levelName": "Genesis",
       "verifiedAt": "2026-03-24T17:28:13.781Z",
-      "checkInCount": 502
+      "checkInCount": 609
     },
     {
       "btcAddress": "bc1qrjydn5txtne0k6v9txx0hkesn93lmkrs3lay9a",
@@ -3728,7 +3935,7 @@
       "level": 2,
       "levelName": "Genesis",
       "verifiedAt": "2026-03-24T15:08:20.001Z",
-      "checkInCount": 356
+      "checkInCount": 504
     },
     {
       "btcAddress": "bc1qrks0gdf8l2v75fr2dxzeccjvfnu4wfcedvad7r",
@@ -3746,7 +3953,7 @@
       "level": 2,
       "levelName": "Genesis",
       "verifiedAt": "2026-03-24T13:57:56.467Z",
-      "checkInCount": 1028
+      "checkInCount": 1052
     },
     {
       "btcAddress": "bc1qdvlq2knadzdatmgxl2fnats8hqzn0hevn265jr",
@@ -3773,7 +3980,7 @@
       "level": 2,
       "levelName": "Genesis",
       "verifiedAt": "2026-03-24T09:56:36.771Z",
-      "checkInCount": 1802
+      "checkInCount": 2002
     },
     {
       "btcAddress": "bc1q3x3mrwxa2lfy2z8w40y7yza3ht0panvk6saalf",
@@ -3791,7 +3998,7 @@
       "level": 2,
       "levelName": "Genesis",
       "verifiedAt": "2026-03-24T02:53:13.051Z",
-      "checkInCount": 109
+      "checkInCount": 168
     },
     {
       "btcAddress": "bc1qtlvdahyt6l9k4rmp7d3er3zkadu3la3dfx5usw",
@@ -3845,7 +4052,7 @@
       "level": 2,
       "levelName": "Genesis",
       "verifiedAt": "2026-03-24T01:04:07.835Z",
-      "checkInCount": 2081
+      "checkInCount": 2360
     },
     {
       "btcAddress": "bc1qj75gde2z4hvsgqrgcvednms5wf2ezsvcp56hld",
@@ -3881,7 +4088,7 @@
       "level": 2,
       "levelName": "Genesis",
       "verifiedAt": "2026-03-23T23:47:18.065Z",
-      "checkInCount": 339
+      "checkInCount": 387
     },
     {
       "btcAddress": "bc1q2a79dmk06ct6v206sqtp3agw8kg64dz40vhjeg",
@@ -3890,7 +4097,7 @@
       "level": 2,
       "levelName": "Genesis",
       "verifiedAt": "2026-03-23T22:20:38.949Z",
-      "checkInCount": 1843
+      "checkInCount": 2045
     },
     {
       "btcAddress": "bc1qsja6knydqxj0nxf05466zhu8qqedu8umxeagze",
@@ -3899,7 +4106,7 @@
       "level": 2,
       "levelName": "Genesis",
       "verifiedAt": "2026-03-23T21:35:02.687Z",
-      "checkInCount": 2625
+      "checkInCount": 2914
     },
     {
       "btcAddress": "bc1qlznfskkxnerqus296e8dyssmmnqvmpphh243ya",
@@ -4358,7 +4565,7 @@
       "level": 2,
       "levelName": "Genesis",
       "verifiedAt": "2026-03-22T20:22:47.533Z",
-      "checkInCount": 126
+      "checkInCount": 128
     },
     {
       "btcAddress": "bc1q5lfqpazl5yqyyac7fpakn6wpdu2tjj7h28vv0w",
@@ -4484,7 +4691,7 @@
       "level": 2,
       "levelName": "Genesis",
       "verifiedAt": "2026-03-20T07:35:45.774Z",
-      "checkInCount": 462
+      "checkInCount": 741
     },
     {
       "btcAddress": "bc1qpqa5w292ts3mqamn6r0zfze9fxgszc9mfwwdl3",
@@ -4493,7 +4700,7 @@
       "level": 2,
       "levelName": "Genesis",
       "verifiedAt": "2026-03-20T05:11:53.086Z",
-      "checkInCount": 754
+      "checkInCount": 811
     },
     {
       "btcAddress": "bc1qxzzurpfuau20hhx5cgs9l2pyjq27vgwthtmu3y",
@@ -4529,7 +4736,7 @@
       "level": 2,
       "levelName": "Genesis",
       "verifiedAt": "2026-03-18T20:31:56.994Z",
-      "checkInCount": 1402
+      "checkInCount": 1599
     },
     {
       "btcAddress": "bc1qvpyqvg225sgn9dkk9spke2q0cfz5xdwagrzqwu",
@@ -4835,7 +5042,7 @@
       "level": 2,
       "levelName": "Genesis",
       "verifiedAt": "2026-03-17T12:08:40.973Z",
-      "checkInCount": 3878
+      "checkInCount": 4123
     },
     {
       "btcAddress": "bc1q7v6fwju4rcv8emelxc8n82vvn04mxzcwhavwyd",
@@ -4844,7 +5051,7 @@
       "level": 2,
       "levelName": "Genesis",
       "verifiedAt": "2026-03-17T12:06:32.165Z",
-      "checkInCount": 3840
+      "checkInCount": 4088
     },
     {
       "btcAddress": "bc1qsnrm5f8vt0d8c4e92pw9p839jqp3vsu5x5jxsq",
@@ -4880,7 +5087,7 @@
       "level": 2,
       "levelName": "Genesis",
       "verifiedAt": "2026-03-16T16:41:38.027Z",
-      "checkInCount": 881
+      "checkInCount": 898
     },
     {
       "btcAddress": "12jU8MQ4ccfbxZG5HA929ZH6sPcUAyPUo4",
@@ -4934,7 +5141,7 @@
       "level": 2,
       "levelName": "Genesis",
       "verifiedAt": "2026-03-14T14:09:34.299Z",
-      "checkInCount": 1876
+      "checkInCount": 2014
     },
     {
       "btcAddress": "bc1q7maxug87p9ul7cl8yvmv6za8aqxfpfea0h6tc9",
@@ -4961,7 +5168,7 @@
       "level": 2,
       "levelName": "Genesis",
       "verifiedAt": "2026-03-13T20:38:46.318Z",
-      "checkInCount": 3819
+      "checkInCount": 4055
     },
     {
       "btcAddress": "bc1qlrwy77e9f0u8qg98p6ugrkq03qw0v73mq5ef2f",
@@ -5015,7 +5222,7 @@
       "level": 2,
       "levelName": "Genesis",
       "verifiedAt": "2026-03-12T03:30:48.144Z",
-      "checkInCount": 2162
+      "checkInCount": 2262
     },
     {
       "btcAddress": "bc1q7w2j9sgg9z0d5xu8dk0sk2u65anek0ka6vrwad",
@@ -5132,7 +5339,7 @@
       "level": 2,
       "levelName": "Genesis",
       "verifiedAt": "2026-03-03T12:17:34.178Z",
-      "checkInCount": 892
+      "checkInCount": 940
     },
     {
       "btcAddress": "bc1qz5tn3te62uq0wc4ru90glyknyt4jgst8c3z5jv",
@@ -5222,7 +5429,7 @@
       "level": 2,
       "levelName": "Genesis",
       "verifiedAt": "2026-02-27T15:10:54.115Z",
-      "checkInCount": 1905
+      "checkInCount": 2193
     },
     {
       "btcAddress": "bc1qpln8pmwntgtw8a874zkkqdw4585eu4z3vnzhj3",
@@ -5267,7 +5474,7 @@
       "level": 2,
       "levelName": "Genesis",
       "verifiedAt": "2026-02-25T01:01:42.207Z",
-      "checkInCount": 2004
+      "checkInCount": 2062
     },
     {
       "btcAddress": "bc1qetgqshu2jlr30sy0tx3w2udvjenuyqvs85supn",
@@ -5285,7 +5492,7 @@
       "level": 2,
       "levelName": "Genesis",
       "verifiedAt": "2026-02-24T16:00:41.366Z",
-      "checkInCount": 4268
+      "checkInCount": 4316
     },
     {
       "btcAddress": "bc1qzx7rmnyzvj07zdthvwanrtkcu5cjw86q5lu2hy",
@@ -5384,7 +5591,7 @@
       "level": 2,
       "levelName": "Genesis",
       "verifiedAt": "2026-02-20T04:36:25.615Z",
-      "checkInCount": 2683
+      "checkInCount": 2971
     },
     {
       "btcAddress": "bc1qe5e3cqx5cq5fch3qh87tkavkpnzw6wlpuxr7de",
@@ -5411,7 +5618,7 @@
       "level": 2,
       "levelName": "Genesis",
       "verifiedAt": "2026-02-19T22:36:09.142Z",
-      "checkInCount": 4357
+      "checkInCount": 4555
     },
     {
       "btcAddress": "bc1qsr2zm478k5nkml8rjd60kf7a6uz7tnwu3f7tkv",
@@ -5438,7 +5645,7 @@
       "level": 2,
       "levelName": "Genesis",
       "verifiedAt": "2026-02-18T22:32:00.026Z",
-      "checkInCount": 1506
+      "checkInCount": 1507
     },
     {
       "btcAddress": "bc1q86r2p03jc9xrjshljdzlx500nfee8ahhhqsv4z",
@@ -5564,7 +5771,7 @@
       "level": 2,
       "levelName": "Genesis",
       "verifiedAt": "2026-02-17T21:44:18.623Z",
-      "checkInCount": 4490
+      "checkInCount": 4565
     },
     {
       "btcAddress": "bc1qd0z0a8z8am9j84fk3lk5g2hutpxcreypnf2p47",
@@ -5573,7 +5780,7 @@
       "level": 2,
       "levelName": "Genesis",
       "verifiedAt": "2026-02-17T19:31:08.973Z",
-      "checkInCount": 2373
+      "checkInCount": 2416
     },
     {
       "btcAddress": "bc1qsg6auhtejm353njuwd7svp6z6wpffex5hvywly",
@@ -5618,7 +5825,7 @@
       "level": 2,
       "levelName": "Genesis",
       "verifiedAt": "2026-02-17T17:52:05.162Z",
-      "checkInCount": 1067
+      "checkInCount": 1091
     },
     {
       "btcAddress": "bc1qaq6vmg54e5ayzcnzarta9j8pgvejtkw8xyna5c",
@@ -5627,7 +5834,7 @@
       "level": 2,
       "levelName": "Genesis",
       "verifiedAt": "2026-02-17T16:28:52.835Z",
-      "checkInCount": 1666
+      "checkInCount": 1953
     },
     {
       "btcAddress": "bc1qay2sn5l9v649ruk6547ymwtyhdfyk74m4ud85a",
@@ -5645,7 +5852,7 @@
       "level": 2,
       "levelName": "Genesis",
       "verifiedAt": "2026-02-13T16:58:02.095Z",
-      "checkInCount": 1509
+      "checkInCount": 1516
     },
     {
       "btcAddress": "bc1qv8dt3v9kx3l7r9mnz2gj9r9n9k63frn6w6zmrt",
@@ -5690,7 +5897,7 @@
       "level": 2,
       "levelName": "Genesis",
       "verifiedAt": "2026-02-11T14:02:33.748Z",
-      "checkInCount": 4511
+      "checkInCount": 4623
     },
     {
       "btcAddress": "bc1q2sdsnqqyjhve3v5c2fgtmus59y96zd6gcn0zde",
@@ -5789,7 +5996,7 @@
       "level": 2,
       "levelName": "Genesis",
       "verifiedAt": "2026-02-05T14:42:51.661Z",
-      "checkInCount": 9067
+      "checkInCount": 9307
     },
     {
       "btcAddress": "bc1qqaxq5vxszt0lzmr9gskv4lcx7jzrg772s4vxpp",
@@ -5798,7 +6005,7 @@
       "level": 2,
       "levelName": "Genesis",
       "verifiedAt": "2026-02-05T08:00:00.153Z",
-      "checkInCount": 1784
+      "checkInCount": 1827
     },
     {
       "btcAddress": "bc1qv6lt5utlfvfdpdj8emmar4vt4p484pjnhlwwnn",
