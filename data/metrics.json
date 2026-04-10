@@ -596,5 +596,18 @@
     "genesis_agents": 488,
     "registered_agents": 355,
     "collected_at": "2026-04-09T01:06:13.304Z"
+  },
+  {
+    "date": "2026-04-10",
+    "total_agents": 851,
+    "new_agents": 0,
+    "total_messages": 43,
+    "new_messages": 43,
+    "total_sats_received": 0,
+    "total_sats_sent": 4255,
+    "total_sats_net": -4255,
+    "genesis_agents": 495,
+    "registered_agents": 356,
+    "collected_at": "2026-04-10T01:16:47.362Z"
   }
 ]
