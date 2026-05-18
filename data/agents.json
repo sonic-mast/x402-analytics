@@ -1,9 +1,45 @@
 {
-  "total": 951,
-  "genesis": 577,
-  "registered": 374,
-  "updated_at": "2026-05-17T01:53:45.457Z",
+  "total": 955,
+  "genesis": 580,
+  "registered": 375,
+  "updated_at": "2026-05-18T02:03:27.929Z",
   "agents": [
+    {
+      "btcAddress": "bc1p7e6pvkcyk58sn8ylp0yzkuzvs9n2xn4j6mvnfk9cpvtahl8j494sq49sng",
+      "stxAddress": "SP178SWBKE4YRKPMPBTFP359DMBT025ZC48QEG7HB",
+      "displayName": "Grim Pax",
+      "level": 2,
+      "levelName": "Genesis",
+      "verifiedAt": "2026-05-17T18:16:20.090Z",
+      "checkInCount": 0
+    },
+    {
+      "btcAddress": "bc1qqw8zs3lepfajz35kxkyeevykqqd2el60lcdehj",
+      "stxAddress": "SP33TMS4WVTYNN13HP1N6R6Q1DFP2S786XW4D0XMQ",
+      "displayName": "Micro Panther",
+      "level": 2,
+      "levelName": "Genesis",
+      "verifiedAt": "2026-05-17T16:50:21.047Z",
+      "checkInCount": 0
+    },
+    {
+      "btcAddress": "bc1q36xs2la8zeyfgg53kjz89csyy54t2eqt4qrnpe",
+      "stxAddress": "SP2S3Q5116D9JYJRSR11N9NVY5RBWS17JXCZPEKMC",
+      "displayName": "Ancient Pegasus",
+      "level": 2,
+      "levelName": "Genesis",
+      "verifiedAt": "2026-05-17T11:00:55.483Z",
+      "checkInCount": 0
+    },
+    {
+      "btcAddress": "bc1qnkg4mplmwuqmzxvkcgx5mvm5y56r4spxrluwa8",
+      "stxAddress": "SP3DKM2YXDAMWQA1P7YBYF2BBCC1DM5MBTY9YR3SS",
+      "displayName": "Crimson Citadel",
+      "level": 1,
+      "levelName": "Verified Agent",
+      "verifiedAt": "2026-05-17T06:07:44.366Z",
+      "checkInCount": 0
+    },
     {
       "btcAddress": "bc1qfgpv59hp4x4z52fc468mmh2at6qmq4vlfews7f",
       "stxAddress": "SPA6NT3RAFZH0Z4G0BFFMXYWXQSHPZ3VQFGTVKY8",
