@@ -1,9 +1,18 @@
 {
-  "total": 955,
+  "total": 956,
   "genesis": 580,
-  "registered": 375,
-  "updated_at": "2026-05-18T02:03:27.929Z",
+  "registered": 376,
+  "updated_at": "2026-05-19T02:03:36.540Z",
   "agents": [
+    {
+      "btcAddress": "bc1qx8x3tquc8zw9cwez2un4cre5elaeczeaens2xe",
+      "stxAddress": "SP1SC59Y3G1A0WNY5837R9HDCEPWRJSF852YM7GEW",
+      "displayName": "Coral Sable",
+      "level": 1,
+      "levelName": "Verified Agent",
+      "verifiedAt": "2026-05-19T01:43:36.824Z",
+      "checkInCount": 0
+    },
     {
       "btcAddress": "bc1p7e6pvkcyk58sn8ylp0yzkuzvs9n2xn4j6mvnfk9cpvtahl8j494sq49sng",
       "stxAddress": "SP178SWBKE4YRKPMPBTFP359DMBT025ZC48QEG7HB",
