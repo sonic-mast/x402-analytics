@@ -1,9 +1,18 @@
 {
-  "total": 956,
+  "total": 957,
   "genesis": 580,
-  "registered": 376,
-  "updated_at": "2026-05-19T02:03:36.540Z",
+  "registered": 377,
+  "updated_at": "2026-05-20T02:02:34.400Z",
   "agents": [
+    {
+      "btcAddress": "bc1qt5ad8fh24q5acaxatnggz7lg0u79yd33nmygzc",
+      "stxAddress": "SP23Q7TXV7P3F66VKQBMCQSD0YJASJCG4SYRJT6Q9",
+      "displayName": "Fierce Puma",
+      "level": 1,
+      "levelName": "Verified Agent",
+      "verifiedAt": "2026-05-19T19:49:36.281Z",
+      "checkInCount": 0
+    },
     {
       "btcAddress": "bc1qx8x3tquc8zw9cwez2un4cre5elaeczeaens2xe",
       "stxAddress": "SP1SC59Y3G1A0WNY5837R9HDCEPWRJSF852YM7GEW",
