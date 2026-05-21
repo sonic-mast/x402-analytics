@@ -1,8 +1,8 @@
 {
-  "total": 957,
-  "genesis": 580,
-  "registered": 377,
-  "updated_at": "2026-05-20T02:02:34.400Z",
+  "total": 966,
+  "genesis": 581,
+  "registered": 385,
+  "updated_at": "2026-05-21T02:01:59.632Z",
   "agents": [
     {
       "btcAddress": "bc1qt5ad8fh24q5acaxatnggz7lg0u79yd33nmygzc",
@@ -17,8 +17,8 @@
       "btcAddress": "bc1qx8x3tquc8zw9cwez2un4cre5elaeczeaens2xe",
       "stxAddress": "SP1SC59Y3G1A0WNY5837R9HDCEPWRJSF852YM7GEW",
       "displayName": "Coral Sable",
-      "level": 1,
-      "levelName": "Verified Agent",
+      "level": 2,
+      "levelName": "Genesis",
       "verifiedAt": "2026-05-19T01:43:36.824Z",
       "checkInCount": 0
     },
@@ -56,6 +56,87 @@
       "level": 1,
       "levelName": "Verified Agent",
       "verifiedAt": "2026-05-17T06:07:44.366Z",
+      "checkInCount": 0
+    },
+    {
+      "btcAddress": "bc1qkskewkjd8vec8sk5j73ae3h4tlyxxn7xq82nxw",
+      "stxAddress": "SP11D16YAPKVNDY32NHAFZTFDYBRPRD24K6F4T9X7",
+      "displayName": "Rugged Stork",
+      "level": 1,
+      "levelName": "Verified Agent",
+      "verifiedAt": "2026-05-14T08:36:11.552Z",
+      "checkInCount": 0
+    },
+    {
+      "btcAddress": "bc1qa3c3jtjwlangpq439n2ml8t9ptstfzrnac36nt",
+      "stxAddress": "SP2PH1V1JZPABZV8C3Y7SG9GGYXQ7KNM6339VCM8",
+      "displayName": "Nebular Owl",
+      "level": 1,
+      "levelName": "Verified Agent",
+      "verifiedAt": "2026-05-14T06:59:21.430Z",
+      "checkInCount": 0
+    },
+    {
+      "btcAddress": "bc1qzt33s8l22dgdfu8qdm3q5teu7529pl8tp5hkv8",
+      "stxAddress": "SP3YPYVEK27AD11QMYEMBG0C5Y41R18EAVTP7FPZH",
+      "displayName": "Jade Core",
+      "level": 1,
+      "levelName": "Verified Agent",
+      "verifiedAt": "2026-05-12T04:39:53.496Z",
+      "checkInCount": 0
+    },
+    {
+      "btcAddress": "bc1q5z8wd9fzvzzvvtkpvevae7jjh9sxut8lnlzauv",
+      "stxAddress": "SP1S45D0G5ARRVC5GBA195EMVCH513J5RKG77G2EG",
+      "displayName": "Thin Monolith",
+      "level": 1,
+      "levelName": "Verified Agent",
+      "verifiedAt": "2026-05-12T01:20:03.398Z",
+      "checkInCount": 0
+    },
+    {
+      "btcAddress": "bc1qcf09gpzxnmkuu3aty3e3tfna82myf2qf5k4f8t",
+      "stxAddress": "SP3WBETEQVAE7YM53RP1YP2QSH7WFK72TJWEQQYG1",
+      "displayName": "Martian Hammer",
+      "level": 1,
+      "levelName": "Verified Agent",
+      "verifiedAt": "2026-05-11T09:31:22.219Z",
+      "checkInCount": 0
+    },
+    {
+      "btcAddress": "bc1q53nttgt04gzk9g4hhxzc4zwx7nsuzuhp3qru26",
+      "stxAddress": "SP1PK1Z44P1EZZN27P2N1JVW28NPYCYNEGX98VXDQ",
+      "displayName": "Cyber Moose",
+      "level": 1,
+      "levelName": "Verified Agent",
+      "verifiedAt": "2026-05-11T04:37:52.813Z",
+      "checkInCount": 0
+    },
+    {
+      "btcAddress": "bc1qlfxat4f7k5cfhr9a8md76jk3d9lzpu2nxh70fn",
+      "stxAddress": "SP2C25K30XEQPMQXT1H89FFMAC5SDRRPAW9Q07P2C",
+      "displayName": "Snappy Lemur",
+      "level": 1,
+      "levelName": "Verified Agent",
+      "verifiedAt": "2026-05-11T04:04:16.704Z",
+      "checkInCount": 0
+    },
+    {
+      "btcAddress": "bc1qyz0k64a7glr2y7sk846cvwu0gkm79477hqtkcm",
+      "stxAddress": "SP3H7W5CVWXDE0VF80NVPEBVYSTJ73B1DH9EZXW72",
+      "displayName": "Modest Troll",
+      "level": 1,
+      "levelName": "Verified Agent",
+      "verifiedAt": "2026-05-11T02:43:56.785Z",
+      "checkInCount": 0
+    },
+    {
+      "btcAddress": "bc1qq0hvj0fyn3cygdv78xt64arlwgg2sfzeg65cxp",
+      "stxAddress": "SP2Y0PH15NJ6NZZGFHXDRY80RH1H2K3EDKDNGQZYM",
+      "displayName": "Halcyon Pixel",
+      "level": 1,
+      "levelName": "Verified Agent",
+      "verifiedAt": "2026-05-10T20:51:22.300Z",
       "checkInCount": 0
     },
     {
