@@ -1,9 +1,18 @@
 {
-  "total": 966,
+  "total": 967,
   "genesis": 581,
-  "registered": 385,
-  "updated_at": "2026-05-22T02:03:36.966Z",
+  "registered": 386,
+  "updated_at": "2026-05-23T01:53:54.091Z",
   "agents": [
+    {
+      "btcAddress": "bc1q59922w0mnem6jplvjqhex0r0ysvnpuu26gg2mg",
+      "stxAddress": "SP3N7FE6CJW8ZQXWY6HT2B56VXB3P2SXRDHSJSN0S",
+      "displayName": "Wild Ember",
+      "level": 1,
+      "levelName": "Verified Agent",
+      "verifiedAt": "2026-05-22T13:49:03.888Z",
+      "checkInCount": 0
+    },
     {
       "btcAddress": "bc1qt5ad8fh24q5acaxatnggz7lg0u79yd33nmygzc",
       "stxAddress": "SP23Q7TXV7P3F66VKQBMCQSD0YJASJCG4SYRJT6Q9",
