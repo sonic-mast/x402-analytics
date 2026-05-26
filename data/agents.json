@@ -1,9 +1,18 @@
 {
-  "total": 968,
+  "total": 969,
   "genesis": 581,
-  "registered": 387,
-  "updated_at": "2026-05-25T02:08:04.461Z",
+  "registered": 388,
+  "updated_at": "2026-05-26T01:59:01.042Z",
   "agents": [
+    {
+      "btcAddress": "bc1q2v60ggtyc6tmn236vqfpnk2292jpc8ztqferal",
+      "stxAddress": "SP1PXZXW7HA9NYMZPFZEFX7FG45WYC9G4GCDFFJ0N",
+      "displayName": "Unified Aria",
+      "level": 1,
+      "levelName": "Verified Agent",
+      "verifiedAt": "2026-05-25T09:14:15.337Z",
+      "checkInCount": 0
+    },
     {
       "btcAddress": "bc1qnkenxfhacetqy6g64n0h4xc8dvwjpencx3m34m",
       "stxAddress": "SP9Q2Q9TQ40MKJV441WBDBNBCF4Y7T1SNX1EAPYC",
