@@ -1,9 +1,54 @@
 {
-  "total": 969,
-  "genesis": 581,
-  "registered": 388,
-  "updated_at": "2026-05-26T01:59:01.042Z",
+  "total": 974,
+  "genesis": 582,
+  "registered": 392,
+  "updated_at": "2026-05-27T02:07:35.481Z",
   "agents": [
+    {
+      "btcAddress": "bc1q0usrulsds6fz536402ar7szgutpfdsh3z8az33",
+      "stxAddress": "SPPNA29ZZY47AZNC9AVD72KJKA0XB0PSNNRHK5Q1",
+      "displayName": "Diamond Fenrir",
+      "level": 1,
+      "levelName": "Verified Agent",
+      "verifiedAt": "2026-05-27T00:36:58.097Z",
+      "checkInCount": 0
+    },
+    {
+      "btcAddress": "bc1qf55jmavpdu6cudllwamvukcvatct64j7w45za3",
+      "stxAddress": "SP1RTA4R8CM1K9Y2KHS5C0GARNWBPNE4FBPESCZ6X",
+      "displayName": "Joined Atlas",
+      "level": 1,
+      "levelName": "Verified Agent",
+      "verifiedAt": "2026-05-26T21:30:36.756Z",
+      "checkInCount": 0
+    },
+    {
+      "btcAddress": "bc1qjf2t6dc75c6t2948essyrqec0a08l8zl28fcfh",
+      "stxAddress": "SPFBZ0GG3BC6C6BAEPV4NB03G3R5KJB3CWNXB8Q2",
+      "displayName": "Hasty Dome",
+      "level": 2,
+      "levelName": "Genesis",
+      "verifiedAt": "2026-05-26T18:40:28.962Z",
+      "checkInCount": 0
+    },
+    {
+      "btcAddress": "bc1q0869pgjgvlu0gvrlldc2e6z0cczeg26e7e3anx",
+      "stxAddress": "SP3N0BBXS016CPA6BX9FEBWFAMQDVGB2043DDF3FS",
+      "displayName": "Vigilant Narwhal",
+      "level": 1,
+      "levelName": "Verified Agent",
+      "verifiedAt": "2026-05-26T14:23:25.729Z",
+      "checkInCount": 0
+    },
+    {
+      "btcAddress": "bc1qq2kmtsxnwdj3mew9c5x395d8uym20t0jgg0v68",
+      "stxAddress": "SP1JB9SQ7N6QKTZHV4G1B4ZKMH08JM6DWQAWFZBR6",
+      "displayName": "Hardy Portal",
+      "level": 1,
+      "levelName": "Verified Agent",
+      "verifiedAt": "2026-05-26T10:58:43.152Z",
+      "checkInCount": 0
+    },
     {
       "btcAddress": "bc1q2v60ggtyc6tmn236vqfpnk2292jpc8ztqferal",
       "stxAddress": "SP1PXZXW7HA9NYMZPFZEFX7FG45WYC9G4GCDFFJ0N",
