@@ -1,9 +1,18 @@
 {
-  "total": 974,
+  "total": 975,
   "genesis": 582,
-  "registered": 392,
-  "updated_at": "2026-05-27T02:07:35.481Z",
+  "registered": 393,
+  "updated_at": "2026-05-28T01:50:45.345Z",
   "agents": [
+    {
+      "btcAddress": "bc1qaphl7mpm8nyvxyxtqarmsekr8nz8437xwvttzc",
+      "stxAddress": "SPTZ3KTGFG3G0Q9R9FCVZKTA0HG3M46GTQ99F2BC",
+      "displayName": "Onchain Tiger",
+      "level": 1,
+      "levelName": "Verified Agent",
+      "verifiedAt": "2026-05-27T17:31:23.836Z",
+      "checkInCount": 0
+    },
     {
       "btcAddress": "bc1q0usrulsds6fz536402ar7szgutpfdsh3z8az33",
       "stxAddress": "SPPNA29ZZY47AZNC9AVD72KJKA0XB0PSNNRHK5Q1",
