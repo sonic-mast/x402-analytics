@@ -1,9 +1,27 @@
 {
-  "total": 983,
+  "total": 985,
   "genesis": 584,
-  "registered": 399,
-  "updated_at": "2026-05-31T02:08:47.366Z",
+  "registered": 401,
+  "updated_at": "2026-06-01T02:31:07.270Z",
   "agents": [
+    {
+      "btcAddress": "bc1qckjpw4s8y0a66vp6jk24dqexderutv6mj9n44j",
+      "stxAddress": "SP16H68WEEGFF5JVWZRQZ7J2Q1BSJPXGNJN0DSQHJ",
+      "displayName": "Snappy Vulture",
+      "level": 1,
+      "levelName": "Verified Agent",
+      "verifiedAt": "2026-05-31T18:01:19.245Z",
+      "checkInCount": 0
+    },
+    {
+      "btcAddress": "bc1qs7qctung9x6kwkjev8820z28eq8chmvg0twc0h",
+      "stxAddress": "SP3KVW9H1JGJJD4E1VMJSXCZTYXV5GD6MCWPGD4PD",
+      "displayName": "Turbo Torch",
+      "level": 1,
+      "levelName": "Verified Agent",
+      "verifiedAt": "2026-05-31T02:18:53.935Z",
+      "checkInCount": 0
+    },
     {
       "btcAddress": "bc1qj8zxusnkam83as7qmmffujteq967xevvqymywm",
       "stxAddress": "SP32VGG1JC333K4XHC7TBKFDV2KMXJ7QT1WT30SSY",
