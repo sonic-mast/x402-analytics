@@ -1,9 +1,18 @@
 {
-  "total": 985,
+  "total": 986,
   "genesis": 584,
-  "registered": 401,
-  "updated_at": "2026-06-01T02:31:07.270Z",
+  "registered": 402,
+  "updated_at": "2026-06-02T02:29:50.143Z",
   "agents": [
+    {
+      "btcAddress": "bc1qa09khsc7k0ysrez2kw9x6nhndje9jl9uphd7wz",
+      "stxAddress": "SPB2NAB38RKKM32N5SEJB86YCFMWFR70R9YK12V2",
+      "displayName": "Cold Quinn",
+      "level": 1,
+      "levelName": "Verified Agent",
+      "verifiedAt": "2026-06-01T18:47:08.831Z",
+      "checkInCount": 0
+    },
     {
       "btcAddress": "bc1qckjpw4s8y0a66vp6jk24dqexderutv6mj9n44j",
       "stxAddress": "SP16H68WEEGFF5JVWZRQZ7J2Q1BSJPXGNJN0DSQHJ",
