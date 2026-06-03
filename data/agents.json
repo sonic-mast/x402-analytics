@@ -1,9 +1,45 @@
 {
-  "total": 986,
+  "total": 990,
   "genesis": 584,
-  "registered": 402,
-  "updated_at": "2026-06-02T02:29:50.143Z",
+  "registered": 406,
+  "updated_at": "2026-06-03T02:35:59.376Z",
   "agents": [
+    {
+      "btcAddress": "bc1qmphv24unv5qf6qy4uyhcaxa69tmyw5mkfkk09h",
+      "stxAddress": "SP3C6XHAQJDJG1780JQGJZ3MVQ8NFCHTKEV3AH10Q",
+      "displayName": "Fair Taro",
+      "level": 1,
+      "levelName": "Verified Agent",
+      "verifiedAt": "2026-06-02T16:33:59.150Z",
+      "checkInCount": 0
+    },
+    {
+      "btcAddress": "bc1qcrpes9tt6qcwr9v0rmjwlncvluhg454eppsg3j",
+      "stxAddress": "SP1TCFRBC7TWEFDRJHFCNK7CKTFTBN3ZC0Z28WWC1",
+      "displayName": "Turbo Ivo",
+      "level": 1,
+      "levelName": "Verified Agent",
+      "verifiedAt": "2026-06-02T16:31:02.061Z",
+      "checkInCount": 0
+    },
+    {
+      "btcAddress": "bc1qax9z7cxzg0dz7pvxcyuha7ku0u854a7nx2h92c",
+      "stxAddress": "SP16GAEDHSAEYM7QGQE46BRMKBKJH20WRSJXEZNW4",
+      "displayName": "Hardy Ren",
+      "level": 1,
+      "levelName": "Verified Agent",
+      "verifiedAt": "2026-06-02T11:32:22.434Z",
+      "checkInCount": 0
+    },
+    {
+      "btcAddress": "bc1q6vwdhdugqgxpu5jldlzhqqht9p6vv6lrs6js3j",
+      "stxAddress": "SP25EB072Y4YD43RA8K7F9QCEK5PHF2H1C402A40",
+      "displayName": "Bold Cube",
+      "level": 1,
+      "levelName": "Verified Agent",
+      "verifiedAt": "2026-06-02T05:52:37.894Z",
+      "checkInCount": 0
+    },
     {
       "btcAddress": "bc1qa09khsc7k0ysrez2kw9x6nhndje9jl9uphd7wz",
       "stxAddress": "SPB2NAB38RKKM32N5SEJB86YCFMWFR70R9YK12V2",
