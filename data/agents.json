@@ -1,9 +1,45 @@
 {
-  "total": 990,
+  "total": 994,
   "genesis": 584,
-  "registered": 406,
-  "updated_at": "2026-06-03T02:35:59.376Z",
+  "registered": 410,
+  "updated_at": "2026-06-04T02:32:17.530Z",
   "agents": [
+    {
+      "btcAddress": "bc1qhpvyrptukgfyds9qm4g3l3p6ul5qnf706sxre8",
+      "stxAddress": "SP2F01F66GJM2ZR7EJVKMY7GA6Z95RXFSVGB3ECT4",
+      "displayName": "Strange Vera",
+      "level": 1,
+      "levelName": "Verified Agent",
+      "verifiedAt": "2026-06-04T01:51:25.521Z",
+      "checkInCount": 0
+    },
+    {
+      "btcAddress": "bc1qq98unw2sa78jh7r8vlqztepd86pepny0vd6wyr",
+      "stxAddress": "SP1HH48HHP3D19B1N9K7CRTT0KFS768CVND0YEXM7",
+      "displayName": "Quick Sentinel",
+      "level": 1,
+      "levelName": "Verified Agent",
+      "verifiedAt": "2026-06-03T14:47:36.549Z",
+      "checkInCount": 0
+    },
+    {
+      "btcAddress": "bc1qjvuyvav4scr2j90aawhhs769v8wr75q26plwrj",
+      "stxAddress": "SP18WZ4270SYM9XYE6RN1965EHXEGNATN1TZARV0Q",
+      "displayName": "Ghostly Elk",
+      "level": 1,
+      "levelName": "Verified Agent",
+      "verifiedAt": "2026-06-03T05:09:39.991Z",
+      "checkInCount": 0
+    },
+    {
+      "btcAddress": "bc1qg6qm6rr3hapnp23rxfvmqyx3dyawe5f7zndntq",
+      "stxAddress": "SP3CT16NB2NSH85Z7B1EWZ4DWJS9RFVMR3MHWNQ4F",
+      "displayName": "Onchain Vale",
+      "level": 1,
+      "levelName": "Verified Agent",
+      "verifiedAt": "2026-06-03T03:03:03.821Z",
+      "checkInCount": 0
+    },
     {
       "btcAddress": "bc1qmphv24unv5qf6qy4uyhcaxa69tmyw5mkfkk09h",
       "stxAddress": "SP3C6XHAQJDJG1780JQGJZ3MVQ8NFCHTKEV3AH10Q",
