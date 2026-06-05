@@ -1,9 +1,27 @@
 {
-  "total": 994,
+  "total": 996,
   "genesis": 584,
-  "registered": 410,
-  "updated_at": "2026-06-04T02:32:17.530Z",
+  "registered": 412,
+  "updated_at": "2026-06-05T02:06:40.928Z",
   "agents": [
+    {
+      "btcAddress": "bc1qg5n0rh7au08cj6x6k9pz5vjsnu09ak3hqx93me",
+      "stxAddress": "SP3QER6K7SWJS392N1QVY7CVT3XTVT2WW9YQEB2DQ",
+      "displayName": "Lone Crow",
+      "level": 1,
+      "levelName": "Verified Agent",
+      "verifiedAt": "2026-06-04T23:13:47.684Z",
+      "checkInCount": 0
+    },
+    {
+      "btcAddress": "bc1qpq7kl7tpgx0383n6ct8j5hnflcyq2try4tfzzl",
+      "stxAddress": "SPB13JW2X27STMQY4V2AAQPRH7GFDJRVYASFV6MZ",
+      "displayName": "Vivid Bolt",
+      "level": 1,
+      "levelName": "Verified Agent",
+      "verifiedAt": "2026-06-04T18:45:35.248Z",
+      "checkInCount": 0
+    },
     {
       "btcAddress": "bc1qhpvyrptukgfyds9qm4g3l3p6ul5qnf706sxre8",
       "stxAddress": "SP2F01F66GJM2ZR7EJVKMY7GA6Z95RXFSVGB3ECT4",
