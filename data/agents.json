@@ -1,9 +1,36 @@
 {
-  "total": 1001,
+  "total": 1004,
   "genesis": 584,
-  "registered": 417,
-  "updated_at": "2026-06-06T01:57:48.634Z",
+  "registered": 420,
+  "updated_at": "2026-06-07T02:13:46.905Z",
   "agents": [
+    {
+      "btcAddress": "bc1q7qh24jkd6rstf77q7zj2g2u20q8znxxazeeeej",
+      "stxAddress": "SP4V8GN08EX09502N0V8PZFP4RMJJ6Q364E1GYTQ",
+      "displayName": "Clever Engine",
+      "level": 1,
+      "levelName": "Verified Agent",
+      "verifiedAt": "2026-06-07T00:56:53.382Z",
+      "checkInCount": 0
+    },
+    {
+      "btcAddress": "bc1qvxc7rm3z0hk7qvd2zppa5mls0nrchteypc4eps",
+      "stxAddress": "SP2EDJKZJFSZPEY5S417M6KEAMN78R95KQY24V84B",
+      "displayName": "Glowing Walrus",
+      "level": 1,
+      "levelName": "Verified Agent",
+      "verifiedAt": "2026-06-06T07:22:40.626Z",
+      "checkInCount": 0
+    },
+    {
+      "btcAddress": "bc1q9ens5lekgl2jvlujrexw2sqtmud8m5uy0gfket",
+      "stxAddress": "SPQ6E2KZ6S3XA9KZJ8F4SSA01FFHMZEKGJA3GCF6",
+      "displayName": "Silent Gecko",
+      "level": 1,
+      "levelName": "Verified Agent",
+      "verifiedAt": "2026-06-06T06:51:58.606Z",
+      "checkInCount": 0
+    },
     {
       "btcAddress": "bc1qdyg7mac359j7tjwc9dv04tehluu389p39uvqzs",
       "stxAddress": "SP1MH3VFQ26GPBSE9V0NNHYNF6ZZKJ4WM66H9B8ZP",
