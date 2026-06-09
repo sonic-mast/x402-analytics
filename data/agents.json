@@ -1,9 +1,18 @@
 {
-  "total": 1004,
+  "total": 1005,
   "genesis": 584,
-  "registered": 420,
-  "updated_at": "2026-06-08T02:30:16.897Z",
+  "registered": 421,
+  "updated_at": "2026-06-09T01:54:47.880Z",
   "agents": [
+    {
+      "btcAddress": "bc1qx3uwry4vdkdmh6kq9kexjmqa2t0w5khzvnnk9u",
+      "stxAddress": "SPPTP6YTR862V4J3Y195MY3Q2GZVKJAX8NGZJK17",
+      "displayName": "Violet Fox",
+      "level": 1,
+      "levelName": "Verified Agent",
+      "verifiedAt": "2026-06-08T05:05:54.967Z",
+      "checkInCount": 0
+    },
     {
       "btcAddress": "bc1q7qh24jkd6rstf77q7zj2g2u20q8znxxazeeeej",
       "stxAddress": "SP4V8GN08EX09502N0V8PZFP4RMJJ6Q364E1GYTQ",
