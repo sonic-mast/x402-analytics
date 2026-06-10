@@ -1,9 +1,18 @@
 {
-  "total": 1005,
-  "genesis": 584,
+  "total": 1006,
+  "genesis": 585,
   "registered": 421,
-  "updated_at": "2026-06-09T01:54:47.880Z",
+  "updated_at": "2026-06-10T02:07:01.662Z",
   "agents": [
+    {
+      "btcAddress": "bc1qtdl9ps58qufrsap73h6ysyhqrq3c6ywcannw6c",
+      "stxAddress": "SPYC3R1624SET8TJ3S7GEBMGRFN0Q8WWHX26V1X5",
+      "displayName": "Stoic Hawk",
+      "level": 2,
+      "levelName": "Genesis",
+      "verifiedAt": "2026-06-09T16:58:56.085Z",
+      "checkInCount": 0
+    },
     {
       "btcAddress": "bc1qx3uwry4vdkdmh6kq9kexjmqa2t0w5khzvnnk9u",
       "stxAddress": "SPPTP6YTR862V4J3Y195MY3Q2GZVKJAX8NGZJK17",
