@@ -10,6 +10,7 @@ const path = require('path');
 
 const AIBTC_API = 'https://aibtc.com/api';
 const DATA_DIR = path.join(__dirname, '..', 'data');
+const COHORT_FILE = path.join(DATA_DIR, 'sample-cohort.json');
 
 async function fetchAllAgents() {
   console.log('Fetching agents...');
@@ -32,10 +33,58 @@ async function fetchAllAgents() {
   return agents;
 }
 
-async function sampleInboxMetrics(agents, sampleSize = 20) {
+function selectStableSample(agents, sampleSize = 20, cohortAddresses = []) {
+  const agentsByAddress = new Map(
+    agents
+      .filter(agent => agent.btcAddress)
+      .map(agent => [agent.btcAddress, agent])
+  );
+  const selectedAddresses = [];
+  const seen = new Set();
+
+  for (const address of cohortAddresses) {
+    if (agentsByAddress.has(address) && !seen.has(address)) {
+      selectedAddresses.push(address);
+      seen.add(address);
+    }
+    if (selectedAddresses.length >= sampleSize) break;
+  }
+
+  const stableAddresses = [...agentsByAddress.keys()]
+    .filter(address => !seen.has(address))
+    .sort();
+
+  for (const address of stableAddresses) {
+    selectedAddresses.push(address);
+    if (selectedAddresses.length >= sampleSize) break;
+  }
+
+  return selectedAddresses
+    .map(address => agentsByAddress.get(address))
+    .filter(Boolean);
+}
+
+function readSampleCohort() {
+  if (!fs.existsSync(COHORT_FILE)) {
+    return [];
+  }
+
+  const cohort = JSON.parse(fs.readFileSync(COHORT_FILE, 'utf8'));
+  return Array.isArray(cohort.btcAddresses) ? cohort.btcAddresses : [];
+}
+
+function writeSampleCohort(sample, sampleSize) {
+  fs.writeFileSync(COHORT_FILE, JSON.stringify({
+    sampleSize,
+    updated_at: new Date().toISOString(),
+    btcAddresses: sample.map(agent => agent.btcAddress)
+  }, null, 2));
+}
+
+async function sampleInboxMetrics(agents, sampleSize = 20, cohortAddresses = []) {
   console.log(`Sampling ${sampleSize} agent inboxes...`);
-  const sample = agents.slice(0, sampleSize);
-  
+  const sample = selectStableSample(agents, sampleSize, cohortAddresses);
+
   let totalMessages = 0;
   let totalSatsReceived = 0;
   let totalSatsSent = 0;
@@ -53,13 +102,23 @@ async function sampleInboxMetrics(agents, sampleSize = 20) {
       console.error(`Failed to fetch inbox for ${agent.btcAddress}:`, err.message);
     }
   }
-  
+
+  if (!sample.length) {
+    return {
+      totalMessages: 0,
+      totalSatsReceived: 0,
+      totalSatsSent: 0,
+      sample
+    };
+  }
+
   // Extrapolate to full network
   const scaleFactor = agents.length / sample.length;
   return {
     totalMessages: Math.round(totalMessages * scaleFactor),
     totalSatsReceived: Math.round(totalSatsReceived * scaleFactor),
     totalSatsSent: Math.round(totalSatsSent * scaleFactor),
+    sample
   };
 }
 
@@ -75,7 +134,8 @@ async function main() {
     const registeredCount = agents.filter(a => a.level === 1).length;
     
     // Sample inbox metrics
-    const inboxMetrics = await sampleInboxMetrics(agents);
+    const sampleCohort = readSampleCohort();
+    const inboxMetrics = await sampleInboxMetrics(agents, 20, sampleCohort);
     
     // Count new agents today
     const newAgentsCount = agents.filter(a => {
@@ -125,6 +185,7 @@ async function main() {
     // Write latest snapshot for quick access
     const latestFile = path.join(DATA_DIR, 'latest.json');
     fs.writeFileSync(latestFile, JSON.stringify(todayMetrics, null, 2));
+    writeSampleCohort(inboxMetrics.sample, 20);
     
     // Write agent list
     const agentsFile = path.join(DATA_DIR, 'agents.json');
@@ -152,4 +213,11 @@ async function main() {
   }
 }
 
-main();
+if (require.main === module) {
+  main();
+}
+
+module.exports = {
+  selectStableSample,
+  sampleInboxMetrics
+};
