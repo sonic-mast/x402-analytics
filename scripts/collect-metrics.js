@@ -11,6 +11,7 @@ const path = require('path');
 const AIBTC_API = 'https://aibtc.com/api';
 const DATA_DIR = path.join(__dirname, '..', 'data');
 const COHORT_FILE = path.join(DATA_DIR, 'sample-cohort.json');
+const DEFAULT_SAMPLE_SIZE = 20;
 
 async function fetchAllAgents() {
   console.log('Fetching agents...');
@@ -33,7 +34,7 @@ async function fetchAllAgents() {
   return agents;
 }
 
-function selectStableSample(agents, sampleSize = 20, cohortAddresses = []) {
+function selectStableSample(agents, sampleSize = DEFAULT_SAMPLE_SIZE, cohortAddresses = []) {
   const agentsByAddress = new Map(
     agents
       .filter(agent => agent.btcAddress)
@@ -69,8 +70,18 @@ function readSampleCohort() {
     return [];
   }
 
-  const cohort = JSON.parse(fs.readFileSync(COHORT_FILE, 'utf8'));
-  return Array.isArray(cohort.btcAddresses) ? cohort.btcAddresses : [];
+  try {
+    const contents = fs.readFileSync(COHORT_FILE, 'utf8').trim();
+    if (!contents) {
+      return [];
+    }
+
+    const cohort = JSON.parse(contents);
+    return Array.isArray(cohort.btcAddresses) ? cohort.btcAddresses : [];
+  } catch (error) {
+    console.warn(`Ignoring unreadable sample cohort: ${error.message}`);
+    return [];
+  }
 }
 
 function writeSampleCohort(sample, sampleSize) {
@@ -81,7 +92,7 @@ function writeSampleCohort(sample, sampleSize) {
   }, null, 2));
 }
 
-async function sampleInboxMetrics(agents, sampleSize = 20, cohortAddresses = []) {
+async function sampleInboxMetrics(agents, sampleSize = DEFAULT_SAMPLE_SIZE, cohortAddresses = []) {
   console.log(`Sampling ${sampleSize} agent inboxes...`);
   const sample = selectStableSample(agents, sampleSize, cohortAddresses);
 
@@ -135,7 +146,7 @@ async function main() {
     
     // Sample inbox metrics
     const sampleCohort = readSampleCohort();
-    const inboxMetrics = await sampleInboxMetrics(agents, 20, sampleCohort);
+    const inboxMetrics = await sampleInboxMetrics(agents, DEFAULT_SAMPLE_SIZE, sampleCohort);
     
     // Count new agents today
     const newAgentsCount = agents.filter(a => {
@@ -185,7 +196,7 @@ async function main() {
     // Write latest snapshot for quick access
     const latestFile = path.join(DATA_DIR, 'latest.json');
     fs.writeFileSync(latestFile, JSON.stringify(todayMetrics, null, 2));
-    writeSampleCohort(inboxMetrics.sample, 20);
+    writeSampleCohort(inboxMetrics.sample, DEFAULT_SAMPLE_SIZE);
     
     // Write agent list
     const agentsFile = path.join(DATA_DIR, 'agents.json');
