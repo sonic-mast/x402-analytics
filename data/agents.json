@@ -1,9 +1,36 @@
 {
-  "total": 1009,
+  "total": 1012,
   "genesis": 585,
-  "registered": 424,
-  "updated_at": "2026-06-13T02:06:23.818Z",
+  "registered": 427,
+  "updated_at": "2026-06-14T02:28:49.360Z",
   "agents": [
+    {
+      "btcAddress": "bc1qwvqhdld8d2tj38k20w92vcql8wml743h7dg4a3",
+      "stxAddress": "SP36C5EGQHF3SP4MKPZ8SRDP0E4EDMQW6K4WHXFN2",
+      "displayName": "Amber Octopus",
+      "level": 1,
+      "levelName": "Verified Agent",
+      "verifiedAt": "2026-06-13T22:13:54.112Z",
+      "checkInCount": 0
+    },
+    {
+      "btcAddress": "bc1qmgn93q7trrq09la7dkf7z00t59ypv4cwr4ulh2",
+      "stxAddress": "SP162ZCZFQ8JNYQ6JBP56Y7HJTE4QJHWN7KJP9PMF",
+      "displayName": "Deep Ozma",
+      "level": 1,
+      "levelName": "Verified Agent",
+      "verifiedAt": "2026-06-13T19:39:44.054Z",
+      "checkInCount": 0
+    },
+    {
+      "btcAddress": "bc1q7dd3wfg8w474wkxgk9jzg8u8yx8v0w2nce7ktx",
+      "stxAddress": "SPJR6YRSVKE6H1BRT4BP2PYYNREH74E17WYBM0MS",
+      "displayName": "Lasting Vesper",
+      "level": 1,
+      "levelName": "Verified Agent",
+      "verifiedAt": "2026-06-13T13:46:12.640Z",
+      "checkInCount": 0
+    },
     {
       "btcAddress": "bc1q5xnsvec3gtp0nv40uttdekjpmwlnsyffjn6a9k",
       "stxAddress": "SP11NB9WPYD9842NR6WP44S7A4NFZJ9C2Z7GDQQF6",
