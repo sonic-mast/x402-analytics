@@ -1,9 +1,18 @@
 {
-  "total": 1012,
+  "total": 1013,
   "genesis": 585,
-  "registered": 427,
-  "updated_at": "2026-06-15T02:33:09.528Z",
+  "registered": 428,
+  "updated_at": "2026-06-16T02:35:46.931Z",
   "agents": [
+    {
+      "btcAddress": "bc1q4zlvgnskuxmrnywk2y8klcdjf4zmkjau0e5srm",
+      "stxAddress": "SP2ATXSFKRCXF5H95107FK1K07FJ8KKXHCNCX9QE0",
+      "displayName": "Icy Garuda",
+      "level": 1,
+      "levelName": "Verified Agent",
+      "verifiedAt": "2026-06-15T03:34:09.032Z",
+      "checkInCount": 0
+    },
     {
       "btcAddress": "bc1qwvqhdld8d2tj38k20w92vcql8wml743h7dg4a3",
       "stxAddress": "SP36C5EGQHF3SP4MKPZ8SRDP0E4EDMQW6K4WHXFN2",
