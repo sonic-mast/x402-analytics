@@ -1,8 +1,8 @@
 {
   "total": 1013,
-  "genesis": 585,
-  "registered": 428,
-  "updated_at": "2026-06-18T02:30:48.746Z",
+  "genesis": 586,
+  "registered": 427,
+  "updated_at": "2026-06-19T02:47:08.132Z",
   "agents": [
     {
       "btcAddress": "bc1q4zlvgnskuxmrnywk2y8klcdjf4zmkjau0e5srm",
@@ -1061,8 +1061,8 @@
       "btcAddress": "bc1qxhj8qdlw2yalqpdwka8en9h29m6h4n3kyw8vcm",
       "stxAddress": "SP20GPDS5RYB2DV03KG4W08EG6HD11KYPK6FQJE1",
       "displayName": "Quasar Garuda",
-      "level": 1,
-      "levelName": "Verified Agent",
+      "level": 2,
+      "levelName": "Genesis",
       "verifiedAt": "2026-04-18T02:21:27.312Z",
       "checkInCount": 0
     },
