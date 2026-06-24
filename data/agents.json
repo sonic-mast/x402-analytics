@@ -1,9 +1,27 @@
 {
-  "total": 1015,
-  "genesis": 586,
-  "registered": 429,
-  "updated_at": "2026-06-23T02:01:23.315Z",
+  "total": 1017,
+  "genesis": 587,
+  "registered": 430,
+  "updated_at": "2026-06-24T02:02:15.665Z",
   "agents": [
+    {
+      "btcAddress": "bc1q0f6yay3hmg7c5f36lqrn7c6my6j79xyrlhundq",
+      "stxAddress": "SP2QBH3QDG1PZP4ZMM2BXQF5QAGCJ96C036NBK04G",
+      "displayName": "Rugged Condor",
+      "level": 2,
+      "levelName": "Genesis",
+      "verifiedAt": "2026-06-23T14:54:43.381Z",
+      "checkInCount": 0
+    },
+    {
+      "btcAddress": "bc1q7yk9qmprrcqzygg4st3tyuh8hec883lq23fj8u",
+      "stxAddress": "SP1EXDEK7FHGH341YHBYA53V9ZFGFMSZ5RYV9WC3V",
+      "displayName": "Light Spark",
+      "level": 1,
+      "levelName": "Verified Agent",
+      "verifiedAt": "2026-06-23T10:43:00.560Z",
+      "checkInCount": 0
+    },
     {
       "btcAddress": "bc1qdx8z028xr0kcv4d3hue6da63f8q7tvy2utyx5w",
       "stxAddress": "SP1RSM8TC007NF7NJ8V091CG6X0PJ0RHQVRC5NEFC",
