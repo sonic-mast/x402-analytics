@@ -1,9 +1,18 @@
 {
-  "total": 1017,
+  "total": 1018,
   "genesis": 587,
-  "registered": 430,
-  "updated_at": "2026-06-24T02:02:15.665Z",
+  "registered": 431,
+  "updated_at": "2026-06-25T02:03:50.116Z",
   "agents": [
+    {
+      "btcAddress": "bc1q04qs9jwl20j3zdqa5k76kcyrfq5ezpqkt37nde",
+      "stxAddress": "SPGP5212VF1GXCNT52BN7M8A0WP4HFAE0H8X0FND",
+      "displayName": "Patient Core",
+      "level": 1,
+      "levelName": "Verified Agent",
+      "verifiedAt": "2026-06-24T17:42:51.838Z",
+      "checkInCount": 0
+    },
     {
       "btcAddress": "bc1q0f6yay3hmg7c5f36lqrn7c6my6j79xyrlhundq",
       "stxAddress": "SP2QBH3QDG1PZP4ZMM2BXQF5QAGCJ96C036NBK04G",
