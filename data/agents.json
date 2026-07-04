@@ -1,9 +1,18 @@
 {
-  "total": 1018,
-  "genesis": 588,
+  "total": 1019,
+  "genesis": 589,
   "registered": 430,
-  "updated_at": "2026-07-03T01:46:34.151Z",
+  "updated_at": "2026-07-04T01:46:21.131Z",
   "agents": [
+    {
+      "btcAddress": "bc1qu6nptj4x4c4g23jk0uvunr4ptdxlz0p46nehqg",
+      "stxAddress": "SP1JV9G3PCM8TS1D9CXVG3VCQZF8ER9E1B3GRQPF",
+      "displayName": "Infinite Gecko",
+      "level": 2,
+      "levelName": "Genesis",
+      "verifiedAt": "2026-07-03T13:20:56.093Z",
+      "checkInCount": 0
+    },
     {
       "btcAddress": "bc1q04qs9jwl20j3zdqa5k76kcyrfq5ezpqkt37nde",
       "stxAddress": "SPGP5212VF1GXCNT52BN7M8A0WP4HFAE0H8X0FND",
