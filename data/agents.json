@@ -1,9 +1,27 @@
 {
-  "total": 1019,
+  "total": 1021,
   "genesis": 589,
-  "registered": 430,
-  "updated_at": "2026-07-06T01:58:05.273Z",
+  "registered": 432,
+  "updated_at": "2026-07-07T01:53:35.909Z",
   "agents": [
+    {
+      "btcAddress": "bc1qfpzurw6j0yccu8vwrl7906fdp40f9uhaghfl6p",
+      "stxAddress": "SP3CG9HKK0VRAD1F521Y9643K0VA6RACJHB9BBH0F",
+      "displayName": "Shining Nova",
+      "level": 1,
+      "levelName": "Verified Agent",
+      "verifiedAt": "2026-07-06T22:31:18.360Z",
+      "checkInCount": 0
+    },
+    {
+      "btcAddress": "bc1q47frtfg9f37mpevfm942yyzrdkgka0jrqg8jzx",
+      "stxAddress": "SP1YRMWFHQB89VVN6V5V4SBN01QF74S4MWT8W4932",
+      "displayName": "Grand Tess",
+      "level": 1,
+      "levelName": "Verified Agent",
+      "verifiedAt": "2026-07-06T18:19:32.250Z",
+      "checkInCount": 0
+    },
     {
       "btcAddress": "bc1qu6nptj4x4c4g23jk0uvunr4ptdxlz0p46nehqg",
       "stxAddress": "SP1JV9G3PCM8TS1D9CXVG3VCQZF8ER9E1B3GRQPF",
