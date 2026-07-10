@@ -1,9 +1,18 @@
 {
-  "total": 1021,
+  "total": 1022,
   "genesis": 589,
-  "registered": 432,
-  "updated_at": "2026-07-09T01:46:15.341Z",
+  "registered": 433,
+  "updated_at": "2026-07-10T01:30:23.961Z",
   "agents": [
+    {
+      "btcAddress": "bc1qfyu7p23h5hk33gtvy2z5546kj7m273q88u3acs",
+      "stxAddress": "SP2ND7S1QWCAKG2XVHQGP7PCC3HN1MF4P4DVCNA2D",
+      "displayName": "Stark Cyrus",
+      "level": 1,
+      "levelName": "Verified Agent",
+      "verifiedAt": "2026-07-09T18:18:54.114Z",
+      "checkInCount": 0
+    },
     {
       "btcAddress": "bc1qfpzurw6j0yccu8vwrl7906fdp40f9uhaghfl6p",
       "stxAddress": "SP3CG9HKK0VRAD1F521Y9643K0VA6RACJHB9BBH0F",
