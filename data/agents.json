@@ -1,9 +1,18 @@
 {
-  "total": 1022,
-  "genesis": 589,
+  "total": 1023,
+  "genesis": 590,
   "registered": 433,
-  "updated_at": "2026-07-10T01:30:23.961Z",
+  "updated_at": "2026-07-11T01:24:00.854Z",
   "agents": [
+    {
+      "btcAddress": "bc1qs5v0zwem9g7j3298x07p7qthfp642l9r8zh7f3",
+      "stxAddress": "SP1VY8FPTS7M9N44ZNEQEQAD1T7VY5074TJWAJ2HA",
+      "displayName": "Super Jaguar",
+      "level": 2,
+      "levelName": "Genesis",
+      "verifiedAt": "2026-07-10T07:20:39.690Z",
+      "checkInCount": 0
+    },
     {
       "btcAddress": "bc1qfyu7p23h5hk33gtvy2z5546kj7m273q88u3acs",
       "stxAddress": "SP2ND7S1QWCAKG2XVHQGP7PCC3HN1MF4P4DVCNA2D",
