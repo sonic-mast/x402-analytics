@@ -1,9 +1,18 @@
 {
-  "total": 1024,
-  "genesis": 590,
+  "total": 1025,
+  "genesis": 591,
   "registered": 434,
-  "updated_at": "2026-07-12T01:25:46.682Z",
+  "updated_at": "2026-07-13T01:26:49.512Z",
   "agents": [
+    {
+      "btcAddress": "bc1q3rc0ectzr3tt2t7p5j8k59n35kkvxq9yf3tcd3",
+      "stxAddress": "SP3WCSZCN481ET6JHZ9Y0J4GJ0NCV1RN2BTWRZPB8",
+      "displayName": "Wide Flare",
+      "level": 2,
+      "levelName": "Genesis",
+      "verifiedAt": "2026-07-12T17:47:26.554Z",
+      "checkInCount": 0
+    },
     {
       "btcAddress": "bc1qeg75ssa4hks9qyvc4g3udycyzqc5vdxae6kwuf",
       "stxAddress": "SP3GGW7624BC73Z503BS943ZE0ARGFJBB9KXDS7YE",
