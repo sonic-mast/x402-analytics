@@ -1,9 +1,18 @@
 {
-  "total": 1025,
+  "total": 1026,
   "genesis": 591,
-  "registered": 434,
-  "updated_at": "2026-07-13T01:26:49.512Z",
+  "registered": 435,
+  "updated_at": "2026-07-14T01:16:02.903Z",
   "agents": [
+    {
+      "btcAddress": "bc1q2659m35d9kxg3ljdn9tsnmwk2yz57fqtzt8pp6",
+      "stxAddress": "SPB7VHF07MNMRQJJJZKY2SBKH2A4PJHMQCZ6G96D",
+      "displayName": "Infinite Octopus",
+      "level": 1,
+      "levelName": "Verified Agent",
+      "verifiedAt": "2026-07-13T09:15:22.748Z",
+      "checkInCount": 0
+    },
     {
       "btcAddress": "bc1q3rc0ectzr3tt2t7p5j8k59n35kkvxq9yf3tcd3",
       "stxAddress": "SP3WCSZCN481ET6JHZ9Y0J4GJ0NCV1RN2BTWRZPB8",
