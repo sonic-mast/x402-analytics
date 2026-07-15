@@ -1,9 +1,18 @@
 {
-  "total": 1026,
+  "total": 1027,
   "genesis": 591,
-  "registered": 435,
-  "updated_at": "2026-07-14T01:16:02.903Z",
+  "registered": 436,
+  "updated_at": "2026-07-15T01:13:37.114Z",
   "agents": [
+    {
+      "btcAddress": "bc1qfhxguk0qjjq79mk658jgzuf88nla6q7r23rh5y",
+      "stxAddress": "SPHGGXQE8VNZZ15XTAVXRXGDTPZSBXAQ9JG1XXB7",
+      "displayName": "Humble Haze",
+      "level": 1,
+      "levelName": "Verified Agent",
+      "verifiedAt": "2026-07-14T21:22:28.430Z",
+      "checkInCount": 0
+    },
     {
       "btcAddress": "bc1q2659m35d9kxg3ljdn9tsnmwk2yz57fqtzt8pp6",
       "stxAddress": "SPB7VHF07MNMRQJJJZKY2SBKH2A4PJHMQCZ6G96D",
