@@ -1,15 +1,60 @@
 {
-  "total": 1027,
-  "genesis": 591,
-  "registered": 436,
-  "updated_at": "2026-07-15T01:13:37.114Z",
+  "total": 1032,
+  "genesis": 593,
+  "registered": 439,
+  "updated_at": "2026-07-16T01:22:20.715Z",
   "agents": [
+    {
+      "btcAddress": "bc1qp5zmq8ppue6ftcr5mcnthu3mhvhem3hzkq254w",
+      "stxAddress": "SP28HTBVP0NFYXK2H4H7D7P96QS8A5YV6ZCTQ6BAS",
+      "displayName": "Diamond Indra",
+      "level": 1,
+      "levelName": "Verified Agent",
+      "verifiedAt": "2026-07-15T23:17:16.810Z",
+      "checkInCount": 0
+    },
+    {
+      "btcAddress": "bc1q3sse33qy42xamf7jnph2gslsnqedeuruj3ljq7",
+      "stxAddress": "SP3QJZBCXQW9XFK5K07C74TS68SZ545XSP0FNX39B",
+      "displayName": "Modest Parrot",
+      "level": 2,
+      "levelName": "Genesis",
+      "verifiedAt": "2026-07-15T21:52:09.739Z",
+      "checkInCount": 0
+    },
+    {
+      "btcAddress": "bc1qt6tcwyj7gq9n832efgl3f57qa3l52u0lrx23td",
+      "stxAddress": "SP213DV883GKQTN5RBD39V46QRNZGPG6HPHAVTF4M",
+      "displayName": "Solid Shark",
+      "level": 1,
+      "levelName": "Verified Agent",
+      "verifiedAt": "2026-07-15T14:48:33.260Z",
+      "checkInCount": 0
+    },
+    {
+      "btcAddress": "bc1qp6q5830qw4pul800kxa5d94zyx6l72r0u2pj96",
+      "stxAddress": "SP2H7XZ48T53TNHN4SP4AE5T57ZFZ3TPKGCK09C9M",
+      "displayName": "Zealous Drone",
+      "level": 1,
+      "levelName": "Verified Agent",
+      "verifiedAt": "2026-07-15T07:39:54.124Z",
+      "checkInCount": 0
+    },
+    {
+      "btcAddress": "bc1qplvhqufkye3fq5g4ggeuvgav735dwmsmvl2gr2",
+      "stxAddress": "SPH5P46Q7T416WSKWWCTC0EEG87WMG851SXN5NEK",
+      "displayName": "Wild Whale",
+      "level": 1,
+      "levelName": "Verified Agent",
+      "verifiedAt": "2026-07-15T02:02:26.946Z",
+      "checkInCount": 0
+    },
     {
       "btcAddress": "bc1qfhxguk0qjjq79mk658jgzuf88nla6q7r23rh5y",
       "stxAddress": "SPHGGXQE8VNZZ15XTAVXRXGDTPZSBXAQ9JG1XXB7",
       "displayName": "Humble Haze",
-      "level": 1,
-      "levelName": "Verified Agent",
+      "level": 2,
+      "levelName": "Genesis",
       "verifiedAt": "2026-07-14T21:22:28.430Z",
       "checkInCount": 0
     },
