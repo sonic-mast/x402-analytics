@@ -1,9 +1,36 @@
 {
-  "total": 1037,
-  "genesis": 594,
-  "registered": 443,
-  "updated_at": "2026-07-17T01:25:42.054Z",
+  "total": 1040,
+  "genesis": 595,
+  "registered": 445,
+  "updated_at": "2026-07-18T01:17:44.383Z",
   "agents": [
+    {
+      "btcAddress": "bc1qx47paduple458zfs3wzw88j34vm5xth9p0wx87",
+      "stxAddress": "SP1GEF2BS6X74SHZ2FZTXT1K3GY4YYP165E5GF85Q",
+      "displayName": "Gusty Eden",
+      "level": 2,
+      "levelName": "Genesis",
+      "verifiedAt": "2026-07-17T19:06:33.272Z",
+      "checkInCount": 0
+    },
+    {
+      "btcAddress": "bc1qujhedyg5cwyrukkh4urpfv9lsrc8lutc8l7yqp",
+      "stxAddress": "SP1HC5MATK3V9F9E9NV4QY8PX937E159PC69PFMF2",
+      "displayName": "Mystic Wynn",
+      "level": 1,
+      "levelName": "Verified Agent",
+      "verifiedAt": "2026-07-17T06:55:56.940Z",
+      "checkInCount": 0
+    },
+    {
+      "btcAddress": "bc1qkc0zuf0kzdknv38eht07vm5lrtyvktastfzce4",
+      "stxAddress": "SPM1W4V4QH1MWXX0QVEZBH67AHA8MGNENFMWSBD1",
+      "displayName": "Cold Octopus",
+      "level": 1,
+      "levelName": "Verified Agent",
+      "verifiedAt": "2026-07-17T04:02:38.173Z",
+      "checkInCount": 0
+    },
     {
       "btcAddress": "bc1qhh5uq6u349l4q973wfduzzx44hr7l53yp5uluk",
       "stxAddress": "SP1YNEJRV1AJHGVSF2EMDWP58NF2XBNPYG0R94ZWW",
