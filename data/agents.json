@@ -1,9 +1,18 @@
 {
-  "total": 1040,
+  "total": 1041,
   "genesis": 595,
-  "registered": 445,
-  "updated_at": "2026-07-18T01:17:44.383Z",
+  "registered": 446,
+  "updated_at": "2026-07-19T01:23:32.307Z",
   "agents": [
+    {
+      "btcAddress": "bc1qnpr0nqgkl4jtvsr0qggtgm89zpk77kgdqey076",
+      "stxAddress": "SPJEMVXA9VZHMP8D1XE2665F11MGFT69FH91WMVA",
+      "displayName": "Calm Halo",
+      "level": 1,
+      "levelName": "Verified Agent",
+      "verifiedAt": "2026-07-18T18:44:07.231Z",
+      "checkInCount": 0
+    },
     {
       "btcAddress": "bc1qx47paduple458zfs3wzw88j34vm5xth9p0wx87",
       "stxAddress": "SP1GEF2BS6X74SHZ2FZTXT1K3GY4YYP165E5GF85Q",
