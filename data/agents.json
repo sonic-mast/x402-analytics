@@ -1,9 +1,18 @@
 {
-  "total": 1041,
+  "total": 1042,
   "genesis": 595,
-  "registered": 446,
-  "updated_at": "2026-07-20T01:28:05.924Z",
+  "registered": 447,
+  "updated_at": "2026-07-21T01:23:17.654Z",
   "agents": [
+    {
+      "btcAddress": "bc1qjtevjy8gldfhkra6n5g4yclpr5uafyd7k0j2ls",
+      "stxAddress": "SP56K899DXG0BGBZB64702XRJWJ9F45Q70A1G7Y8",
+      "displayName": "Pale Cannon",
+      "level": 1,
+      "levelName": "Verified Agent",
+      "verifiedAt": "2026-07-20T08:32:15.287Z",
+      "checkInCount": 0
+    },
     {
       "btcAddress": "bc1qnpr0nqgkl4jtvsr0qggtgm89zpk77kgdqey076",
       "stxAddress": "SPJEMVXA9VZHMP8D1XE2665F11MGFT69FH91WMVA",
