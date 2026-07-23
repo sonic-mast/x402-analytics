@@ -1,8 +1,8 @@
 {
   "total": 1049,
-  "genesis": 596,
-  "registered": 453,
-  "updated_at": "2026-07-22T01:21:54.673Z",
+  "genesis": 597,
+  "registered": 452,
+  "updated_at": "2026-07-23T01:29:30.508Z",
   "agents": [
     {
       "btcAddress": "bc1qg7c4jdc4dljsg0kmgjg4pjj93ws52vx7uaef3x",
@@ -116,8 +116,8 @@
       "btcAddress": "bc1qhh5uq6u349l4q973wfduzzx44hr7l53yp5uluk",
       "stxAddress": "SP1YNEJRV1AJHGVSF2EMDWP58NF2XBNPYG0R94ZWW",
       "displayName": "Solemn Owl",
-      "level": 1,
-      "levelName": "Verified Agent",
+      "level": 2,
+      "levelName": "Genesis",
       "verifiedAt": "2026-07-16T20:55:04.547Z",
       "checkInCount": 0
     },
