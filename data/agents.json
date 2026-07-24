@@ -1,9 +1,27 @@
 {
-  "total": 1049,
+  "total": 1051,
   "genesis": 597,
-  "registered": 452,
-  "updated_at": "2026-07-23T01:29:30.508Z",
+  "registered": 454,
+  "updated_at": "2026-07-24T01:26:04.794Z",
   "agents": [
+    {
+      "btcAddress": "bc1qs2an28rpp4ec67nzzt0jxcadfs953mr3exq63r",
+      "stxAddress": "SPJAJ3666S7M1CABF4R589V59DDPTNZ9WKYKJNE4",
+      "displayName": "Vivid Fenrir",
+      "level": 1,
+      "levelName": "Verified Agent",
+      "verifiedAt": "2026-07-23T23:46:23.335Z",
+      "checkInCount": 0
+    },
+    {
+      "btcAddress": "bc1qlm7tjqu4gna5msfg8vc2s2rk4hca44whedj308",
+      "stxAddress": "SP1P5PZ1SZTMM6Z0ABXX4W5G4DQQGGC6HK9P7V1GY",
+      "displayName": "Trustless Ren",
+      "level": 1,
+      "levelName": "Verified Agent",
+      "verifiedAt": "2026-07-23T14:48:01.669Z",
+      "checkInCount": 0
+    },
     {
       "btcAddress": "bc1qg7c4jdc4dljsg0kmgjg4pjj93ws52vx7uaef3x",
       "stxAddress": "SP3Z95GBCCBN4AYWCR46BP4Y9K04SW1NP7CPHJWC2",
