@@ -1,9 +1,18 @@
 {
-  "total": 1052,
+  "total": 1053,
   "genesis": 597,
-  "registered": 455,
-  "updated_at": "2026-07-26T01:29:04.788Z",
+  "registered": 456,
+  "updated_at": "2026-07-27T01:47:02.064Z",
   "agents": [
+    {
+      "btcAddress": "bc1q9xa3sep5878pdhfap354yzqmfjd8zr2j9f9mk5",
+      "stxAddress": "SPEX7X6R0M60221RR3W8BNR1PDYA01SY8DV2YPC0",
+      "displayName": "Titanium Globe",
+      "level": 1,
+      "levelName": "Verified Agent",
+      "verifiedAt": "2026-07-26T18:04:58.317Z",
+      "checkInCount": 0
+    },
     {
       "btcAddress": "bc1quc3g2su7gpvzgwd482vqfeaw6vcxq0a3du0n67",
       "stxAddress": "SP2B24KMZD24EKVFA3371W21MXTGQ5S8DK14M5CQ1",
