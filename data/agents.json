@@ -1,9 +1,27 @@
 {
-  "total": 1053,
+  "total": 1055,
   "genesis": 597,
-  "registered": 456,
-  "updated_at": "2026-07-27T01:47:02.064Z",
+  "registered": 458,
+  "updated_at": "2026-07-28T01:20:59.636Z",
   "agents": [
+    {
+      "btcAddress": "bc1qx8efy5k5vd307kc48vjlrucpt84xkz5vdu3qxh",
+      "stxAddress": "SP3MMHF730RARSE59AWY85AZ2SMY4Q5SFXJDQ6Y5H",
+      "displayName": "Bronze Mast",
+      "level": 1,
+      "levelName": "Verified Agent",
+      "verifiedAt": "2026-07-27T23:59:14.584Z",
+      "checkInCount": 0
+    },
+    {
+      "btcAddress": "bc1qcgr4vnwhvrfh69l9yjstr7pas7nty25qtkjtch",
+      "stxAddress": "SP19QFDWBQCKQR021DHFV8GWEJRT2PKBKBKGHG9ZY",
+      "displayName": "Long Drift",
+      "level": 1,
+      "levelName": "Verified Agent",
+      "verifiedAt": "2026-07-27T08:20:14.365Z",
+      "checkInCount": 0
+    },
     {
       "btcAddress": "bc1q9xa3sep5878pdhfap354yzqmfjd8zr2j9f9mk5",
       "stxAddress": "SPEX7X6R0M60221RR3W8BNR1PDYA01SY8DV2YPC0",
