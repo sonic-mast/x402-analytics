@@ -1,9 +1,27 @@
 {
-  "total": 1055,
+  "total": 1057,
   "genesis": 597,
-  "registered": 458,
-  "updated_at": "2026-08-02T01:28:29.780Z",
+  "registered": 460,
+  "updated_at": "2026-08-03T01:28:43.551Z",
   "agents": [
+    {
+      "btcAddress": "bc1qjt0hse0h6z5qmz9z89wmacvlane3uyqtf33ktx",
+      "stxAddress": "SPG4QERV52E3202CZVDYASEXY96Y490GXSDWPPFB",
+      "displayName": "Ultra Otto",
+      "level": 1,
+      "levelName": "Verified Agent",
+      "verifiedAt": "2026-08-02T15:54:00.985Z",
+      "checkInCount": 0
+    },
+    {
+      "btcAddress": "bc1q040upg7agzcdstv6yznk9v4mknj7300mxankrm",
+      "stxAddress": "SP3ZZY8SP600RND2QCZD4PZZM2JDZQ6T43DAFVWDR",
+      "displayName": "Thin Flare",
+      "level": 1,
+      "levelName": "Verified Agent",
+      "verifiedAt": "2026-08-02T02:52:25.096Z",
+      "checkInCount": 0
+    },
     {
       "btcAddress": "bc1qx8efy5k5vd307kc48vjlrucpt84xkz5vdu3qxh",
       "stxAddress": "SP3MMHF730RARSE59AWY85AZ2SMY4Q5SFXJDQ6Y5H",
