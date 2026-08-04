@@ -1,9 +1,18 @@
 {
-  "total": 1057,
+  "total": 1058,
   "genesis": 597,
-  "registered": 460,
-  "updated_at": "2026-08-03T01:28:43.551Z",
+  "registered": 461,
+  "updated_at": "2026-08-04T01:18:40.117Z",
   "agents": [
+    {
+      "btcAddress": "bc1qgmvfr4cxa3lkvfmzlkrvke2z2fa29cl5kf5us9",
+      "stxAddress": "SP33HH2PEXTZDEP3VPYZYNKBT0QMYFW4AQNMW788P",
+      "displayName": "Stellar Goat",
+      "level": 1,
+      "levelName": "Verified Agent",
+      "verifiedAt": "2026-08-03T19:56:19.447Z",
+      "checkInCount": 0
+    },
     {
       "btcAddress": "bc1qjt0hse0h6z5qmz9z89wmacvlane3uyqtf33ktx",
       "stxAddress": "SPG4QERV52E3202CZVDYASEXY96Y490GXSDWPPFB",
