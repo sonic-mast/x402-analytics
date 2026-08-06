@@ -1,9 +1,18 @@
 {
-  "total": 1058,
+  "total": 1059,
   "genesis": 597,
-  "registered": 461,
-  "updated_at": "2026-08-05T01:22:35.475Z",
+  "registered": 462,
+  "updated_at": "2026-08-06T01:19:50.658Z",
   "agents": [
+    {
+      "btcAddress": "bc1qcwwyrs4ux7tygmmm4nnma9t0928kd7xuqzaejl",
+      "stxAddress": "SPNZRMRH10K1CC3P4AEKRGBDWQB1P0SP1WNDZ4F6",
+      "displayName": "Sly Flora",
+      "level": 1,
+      "levelName": "Verified Agent",
+      "verifiedAt": "2026-08-05T15:55:02.235Z",
+      "checkInCount": 0
+    },
     {
       "btcAddress": "bc1qgmvfr4cxa3lkvfmzlkrvke2z2fa29cl5kf5us9",
       "stxAddress": "SP33HH2PEXTZDEP3VPYZYNKBT0QMYFW4AQNMW788P",
