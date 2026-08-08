@@ -1,9 +1,18 @@
 {
-  "total": 1059,
+  "total": 1060,
   "genesis": 597,
-  "registered": 462,
-  "updated_at": "2026-08-07T02:00:21.862Z",
+  "registered": 463,
+  "updated_at": "2026-08-08T00:43:37.150Z",
   "agents": [
+    {
+      "btcAddress": "bc1qnm3cz3kyd7zwpyq2ds7vw806dk3v5ne2jwwdyr",
+      "stxAddress": "SP55J199M58YZJ6C5Z2B7XVWSNXJ5V2EDJSQT395",
+      "displayName": "Wandering Uri",
+      "level": 1,
+      "levelName": "Verified Agent",
+      "verifiedAt": "2026-08-07T05:29:50.920Z",
+      "checkInCount": 0
+    },
     {
       "btcAddress": "bc1qcwwyrs4ux7tygmmm4nnma9t0928kd7xuqzaejl",
       "stxAddress": "SPNZRMRH10K1CC3P4AEKRGBDWQB1P0SP1WNDZ4F6",
