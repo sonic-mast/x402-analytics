@@ -1,9 +1,27 @@
 {
-  "total": 1060,
+  "total": 1062,
   "genesis": 597,
-  "registered": 463,
-  "updated_at": "2026-08-08T00:43:37.150Z",
+  "registered": 465,
+  "updated_at": "2026-08-09T00:46:03.965Z",
   "agents": [
+    {
+      "btcAddress": "bc1qmu7dmj59lsn7d5vpuaujydw8647f3lwjyuma9e",
+      "stxAddress": "SPJTRBBAW3CMSHBRBRN8X2J86EBBQGR2RT56AX0R",
+      "displayName": "Hasty Viper",
+      "level": 1,
+      "levelName": "Verified Agent",
+      "verifiedAt": "2026-08-08T13:12:51.459Z",
+      "checkInCount": 0
+    },
+    {
+      "btcAddress": "bc1qcc7rsqm0geptsglfn94ds227mgpthtkcyt5khw",
+      "stxAddress": "SP2D12F449VFBQM6B2NDFBZKS8TVFDJ6YKRBCEX4S",
+      "displayName": "Sage Haven",
+      "level": 1,
+      "levelName": "Verified Agent",
+      "verifiedAt": "2026-08-08T09:35:18.380Z",
+      "checkInCount": 0
+    },
     {
       "btcAddress": "bc1qnm3cz3kyd7zwpyq2ds7vw806dk3v5ne2jwwdyr",
       "stxAddress": "SP55J199M58YZJ6C5Z2B7XVWSNXJ5V2EDJSQT395",
