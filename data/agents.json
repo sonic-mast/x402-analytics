@@ -1,9 +1,18 @@
 {
-  "total": 1062,
+  "total": 1063,
   "genesis": 597,
-  "registered": 465,
-  "updated_at": "2026-08-09T00:46:03.965Z",
+  "registered": 466,
+  "updated_at": "2026-08-10T00:49:35.609Z",
   "agents": [
+    {
+      "btcAddress": "bc1qqj0fy6quyev3pa89sz8n380e765e45zcmvlu96",
+      "stxAddress": "SP1TPXFVZ0AW170JFR9F3128FHGREW7R41MHD3WSS",
+      "displayName": "Regal Hawk",
+      "level": 1,
+      "levelName": "Verified Agent",
+      "verifiedAt": "2026-08-09T23:20:34.643Z",
+      "checkInCount": 0
+    },
     {
       "btcAddress": "bc1qmu7dmj59lsn7d5vpuaujydw8647f3lwjyuma9e",
       "stxAddress": "SPJTRBBAW3CMSHBRBRN8X2J86EBBQGR2RT56AX0R",
