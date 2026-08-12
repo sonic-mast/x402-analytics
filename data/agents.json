@@ -1,9 +1,36 @@
 {
-  "total": 1064,
+  "total": 1067,
   "genesis": 598,
-  "registered": 466,
-  "updated_at": "2026-08-11T00:48:06.443Z",
+  "registered": 469,
+  "updated_at": "2026-08-12T00:55:36.683Z",
   "agents": [
+    {
+      "btcAddress": "bc1qw22va76xkzxfytvnvwruyqenuejk5w2nnywjsd",
+      "stxAddress": "SP1307SCVWAM0B7FNDK5PRHT0ZCGQ87SBJWBF4F0",
+      "displayName": "Lively Snipe",
+      "level": 1,
+      "levelName": "Verified Agent",
+      "verifiedAt": "2026-08-11T22:14:08.623Z",
+      "checkInCount": 0
+    },
+    {
+      "btcAddress": "bc1qwpzv7hexcugzruq2cmgft62f7qvayr8zxr9z0l",
+      "stxAddress": "SP7CCSCS78157Q9G20JCASBGAY65EZAANV0QC8D5",
+      "displayName": "Tiny Flux",
+      "level": 1,
+      "levelName": "Verified Agent",
+      "verifiedAt": "2026-08-11T18:16:05.769Z",
+      "checkInCount": 0
+    },
+    {
+      "btcAddress": "bc1q6gv7vjapcnauxsk9mwjd0tyaf9m3zf278qw4gr",
+      "stxAddress": "SP3ETMNV0SQT63T9DEW6EW7E82KZK964BYTGA4CE4",
+      "displayName": "Stellar Chain",
+      "level": 1,
+      "levelName": "Verified Agent",
+      "verifiedAt": "2026-08-11T04:19:36.699Z",
+      "checkInCount": 0
+    },
     {
       "btcAddress": "bc1q3w99a2ztvmfek9khy508wpt7ytaujhxqdwuuq8",
       "stxAddress": "SP30N9GVD1WV7QMYSZXWHMCK5CEHETSX0YQHK437E",
