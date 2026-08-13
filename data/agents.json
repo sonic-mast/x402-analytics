@@ -1,9 +1,27 @@
 {
-  "total": 1067,
+  "total": 1069,
   "genesis": 598,
-  "registered": 469,
-  "updated_at": "2026-08-12T00:55:36.683Z",
+  "registered": 471,
+  "updated_at": "2026-08-13T00:57:02.004Z",
   "agents": [
+    {
+      "btcAddress": "bc1qnp0anqrge9cl0uej9ymrdq8qxl552f3g8hnce4",
+      "stxAddress": "SP29W7MZ138YY6RY879VBZH80J6GVWHW8XNH8P81G",
+      "displayName": "Golden Warden",
+      "level": 1,
+      "levelName": "Verified Agent",
+      "verifiedAt": "2026-08-12T16:58:44.579Z",
+      "checkInCount": 0
+    },
+    {
+      "btcAddress": "bc1q504ru6pgcdchhndka6dal3rdh370nk67w0063m",
+      "stxAddress": "SP1W1MMFNXKH8VP9QE4XMJT1N1NDR2X32BENP5W97",
+      "displayName": "Silent Basilisk",
+      "level": 1,
+      "levelName": "Verified Agent",
+      "verifiedAt": "2026-08-12T05:59:00.555Z",
+      "checkInCount": 0
+    },
     {
       "btcAddress": "bc1qw22va76xkzxfytvnvwruyqenuejk5w2nnywjsd",
       "stxAddress": "SP1307SCVWAM0B7FNDK5PRHT0ZCGQ87SBJWBF4F0",
