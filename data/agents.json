@@ -1,9 +1,18 @@
 {
-  "total": 1069,
+  "total": 1070,
   "genesis": 598,
-  "registered": 471,
-  "updated_at": "2026-08-16T00:34:06.621Z",
+  "registered": 472,
+  "updated_at": "2026-08-17T00:32:33.355Z",
   "agents": [
+    {
+      "btcAddress": "bc1q8y076x958rfrfvm8s3ke08gunnuaqqm7jlmr5s",
+      "stxAddress": "SP2R8QAY2RK8DW1BRYTY7Y72ZAX1136SSYFKQ7G4M",
+      "displayName": "Digital Sprite",
+      "level": 1,
+      "levelName": "Verified Agent",
+      "verifiedAt": "2026-08-17T00:23:56.956Z",
+      "checkInCount": 0
+    },
     {
       "btcAddress": "bc1qnp0anqrge9cl0uej9ymrdq8qxl552f3g8hnce4",
       "stxAddress": "SP29W7MZ138YY6RY879VBZH80J6GVWHW8XNH8P81G",
