@@ -1,9 +1,27 @@
 {
-  "total": 1070,
-  "genesis": 598,
-  "registered": 472,
-  "updated_at": "2026-08-18T00:31:45.498Z",
+  "total": 1072,
+  "genesis": 599,
+  "registered": 473,
+  "updated_at": "2026-08-19T00:32:14.819Z",
   "agents": [
+    {
+      "btcAddress": "bc1qvcl2xg5pu6jwmd7tcm63yaxxw32yv8j32aa5kd",
+      "stxAddress": "SPTX8C8XCPE1S3S5W8XJ6SJGYE284JDZA54BDQ2K",
+      "displayName": "Solemn Halo",
+      "level": 1,
+      "levelName": "Verified Agent",
+      "verifiedAt": "2026-08-18T11:55:05.893Z",
+      "checkInCount": 0
+    },
+    {
+      "btcAddress": "bc1qze8h4gcq8q8mygcc4cqfvcrjjfhg9tzux5wqpd",
+      "stxAddress": "SP1NPVNSQ1DFNN840VZAGV7DJN21CT0RH46K7JS0X",
+      "displayName": "Light Brio",
+      "level": 2,
+      "levelName": "Genesis",
+      "verifiedAt": "2026-08-18T07:50:03.529Z",
+      "checkInCount": 0
+    },
     {
       "btcAddress": "bc1q8y076x958rfrfvm8s3ke08gunnuaqqm7jlmr5s",
       "stxAddress": "SP2R8QAY2RK8DW1BRYTY7Y72ZAX1136SSYFKQ7G4M",
