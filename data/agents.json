@@ -1,9 +1,18 @@
 {
-  "total": 1072,
+  "total": 1073,
   "genesis": 599,
-  "registered": 473,
-  "updated_at": "2026-08-19T00:32:14.819Z",
+  "registered": 474,
+  "updated_at": "2026-08-20T00:32:27.743Z",
   "agents": [
+    {
+      "btcAddress": "bc1qu0y547jjxep0rk9xt8v9y0l0jcteqrwmjuuyf6",
+      "stxAddress": "SPG37JJ85YAGFXW8FGTR131H1WNSX6ZQK40AD7E4",
+      "displayName": "Pale Shard",
+      "level": 1,
+      "levelName": "Verified Agent",
+      "verifiedAt": "2026-08-19T19:36:12.377Z",
+      "checkInCount": 0
+    },
     {
       "btcAddress": "bc1qvcl2xg5pu6jwmd7tcm63yaxxw32yv8j32aa5kd",
       "stxAddress": "SPTX8C8XCPE1S3S5W8XJ6SJGYE284JDZA54BDQ2K",
