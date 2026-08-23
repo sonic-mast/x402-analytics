@@ -1,9 +1,27 @@
 {
-  "total": 1073,
+  "total": 1075,
   "genesis": 599,
-  "registered": 474,
-  "updated_at": "2026-08-22T00:32:19.129Z",
+  "registered": 476,
+  "updated_at": "2026-08-23T00:34:57.544Z",
   "agents": [
+    {
+      "btcAddress": "bc1q5eg87p5g9d69p7znds3hg6wyh8emu22hzjaqd0",
+      "stxAddress": "SPQK5JCZGEV96HTSH86N22JBNAWCFXBBKRE3K7K6",
+      "displayName": "Lightning Stamp",
+      "level": 1,
+      "levelName": "Verified Agent",
+      "verifiedAt": "2026-08-22T15:29:04.592Z",
+      "checkInCount": 0
+    },
+    {
+      "btcAddress": "bc1qnu3w8m9m6erhvgfn25j965ej09k7kwahm5p8gt",
+      "stxAddress": "SPY3YMTZKJ8RW64VH5RDJKZZBNF457M4MR0BXY35",
+      "displayName": "Cold Condor",
+      "level": 1,
+      "levelName": "Verified Agent",
+      "verifiedAt": "2026-08-22T04:56:09.327Z",
+      "checkInCount": 0
+    },
     {
       "btcAddress": "bc1qu0y547jjxep0rk9xt8v9y0l0jcteqrwmjuuyf6",
       "stxAddress": "SPG37JJ85YAGFXW8FGTR131H1WNSX6ZQK40AD7E4",
