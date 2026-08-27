@@ -1,5 +1,5 @@
 {
-  "date": "2026-08-26",
+  "date": "2026-08-27",
   "total_agents": 1075,
   "new_agents": 0,
   "total_messages": 806,
@@ -9,5 +9,5 @@
   "total_sats_net": 80625,
   "genesis_agents": 599,
   "registered_agents": 476,
-  "collected_at": "2026-08-26T00:34:27.905Z"
+  "collected_at": "2026-08-27T05:28:03.126Z"
 }
