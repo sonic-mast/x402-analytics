@@ -1,9 +1,36 @@
 {
-  "total": 1075,
+  "total": 1078,
   "genesis": 599,
-  "registered": 476,
-  "updated_at": "2026-08-27T05:28:03.127Z",
+  "registered": 479,
+  "updated_at": "2026-08-28T07:24:13.104Z",
   "agents": [
+    {
+      "btcAddress": "bc1qq9ts5xana28kcljnwvz7f2lhzq7m5yxeuzaqu5",
+      "stxAddress": "SPNNZ5SZERW2PPWT4ATQ3TABFC0CY0RW9A3P2XG9",
+      "displayName": "Vigilant Basilisk",
+      "level": 1,
+      "levelName": "Verified Agent",
+      "verifiedAt": "2026-08-28T04:52:41.100Z",
+      "checkInCount": 0
+    },
+    {
+      "btcAddress": "bc1qxmkzlcy5g8kzfhysg729r0d2f3xl4wfw99dfsy",
+      "stxAddress": "SP39SWCDHV1AVJMHR78Y28CMSJ5SQ9BEV50FF2JGC",
+      "displayName": "Bronze Ledger",
+      "level": 1,
+      "levelName": "Verified Agent",
+      "verifiedAt": "2026-08-27T12:24:39.331Z",
+      "checkInCount": 0
+    },
+    {
+      "btcAddress": "bc1qf5raa037rlralp6xyzmjsmrjgv82zaeafexz6h",
+      "stxAddress": "SP321H4Z067WBGJVJ2M3RZTD3TM61B5P80RNBBJGQ",
+      "displayName": "Quasar Marten",
+      "level": 1,
+      "levelName": "Verified Agent",
+      "verifiedAt": "2026-08-27T12:20:18.197Z",
+      "checkInCount": 0
+    },
     {
       "btcAddress": "bc1q5eg87p5g9d69p7znds3hg6wyh8emu22hzjaqd0",
       "stxAddress": "SPQK5JCZGEV96HTSH86N22JBNAWCFXBBKRE3K7K6",
