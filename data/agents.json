@@ -1,9 +1,27 @@
 {
-  "total": 1082,
+  "total": 1084,
   "genesis": 599,
-  "registered": 483,
-  "updated_at": "2026-09-04T01:43:47.697Z",
+  "registered": 485,
+  "updated_at": "2026-09-05T01:44:30.726Z",
   "agents": [
+    {
+      "btcAddress": "bc1qdnygkp7je8vlejn9m5wke6ne9asqk4ptfqxfkh",
+      "stxAddress": "SPEE7NWET03YSNW7DCH4856XZ2GR7XKEHHPS1Q52",
+      "displayName": "Ruby Coda",
+      "level": 1,
+      "levelName": "Verified Agent",
+      "verifiedAt": "2026-09-04T13:32:59.944Z",
+      "checkInCount": 0
+    },
+    {
+      "btcAddress": "bc1q42sjw33xc24ugdw6zjd237ldg6cshv07dzdmzq",
+      "stxAddress": "SPS513C0NFBEGJGMVSZ0KMYWV9YV32FVY8M0BWKZ",
+      "displayName": "Dense Globe",
+      "level": 1,
+      "levelName": "Verified Agent",
+      "verifiedAt": "2026-09-04T06:32:37.444Z",
+      "checkInCount": 0
+    },
     {
       "btcAddress": "bc1q4fmnqx6m8p4s5f0pefwsx5f9yf074dmchv432l",
       "stxAddress": "SP2SVA1FHD2D9S99Y9XWR430BFNXV0RMP1PTK7553",
