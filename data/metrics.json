@@ -1,18 +1,5 @@
 [
   {
-    "date": "2026-07-08",
-    "total_agents": 1021,
-    "new_agents": 0,
-    "total_messages": 459,
-    "new_messages": 0,
-    "total_sats_received": 45945,
-    "total_sats_sent": 15315,
-    "total_sats_net": 30630,
-    "genesis_agents": 589,
-    "registered_agents": 432,
-    "collected_at": "2026-07-08T01:24:27.273Z"
-  },
-  {
     "date": "2026-07-09",
     "total_agents": 1021,
     "new_agents": 0,
@@ -778,5 +765,18 @@
     "genesis_agents": 599,
     "registered_agents": 485,
     "collected_at": "2026-09-05T01:44:30.725Z"
+  },
+  {
+    "date": "2026-09-06",
+    "total_agents": 1085,
+    "new_agents": 0,
+    "total_messages": 977,
+    "new_messages": 0,
+    "total_sats_received": 97650,
+    "total_sats_sent": 0,
+    "total_sats_net": 97650,
+    "genesis_agents": 600,
+    "registered_agents": 485,
+    "collected_at": "2026-09-06T01:38:32.879Z"
   }
 ]

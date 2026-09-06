@@ -1,9 +1,18 @@
 {
-  "total": 1084,
-  "genesis": 599,
+  "total": 1085,
+  "genesis": 600,
   "registered": 485,
-  "updated_at": "2026-09-05T01:44:30.726Z",
+  "updated_at": "2026-09-06T01:38:32.880Z",
   "agents": [
+    {
+      "btcAddress": "bc1qczkh6f0ce0yhx9clv6qj0gefsuj6ffhgf9nwuh",
+      "stxAddress": "SP1M90Q7D3TG5C6KW2P5KJ4Z2P0SZMDPPCYRMN9S4",
+      "displayName": "Jagged Whale",
+      "level": 2,
+      "levelName": "Genesis",
+      "verifiedAt": "2026-09-05T10:06:11.672Z",
+      "checkInCount": 0
+    },
     {
       "btcAddress": "bc1qdnygkp7je8vlejn9m5wke6ne9asqk4ptfqxfkh",
       "stxAddress": "SPEE7NWET03YSNW7DCH4856XZ2GR7XKEHHPS1Q52",
