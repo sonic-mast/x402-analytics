@@ -1,9 +1,27 @@
 {
-  "total": 1086,
-  "genesis": 600,
-  "registered": 486,
-  "updated_at": "2026-09-07T01:36:45.729Z",
+  "total": 1088,
+  "genesis": 601,
+  "registered": 487,
+  "updated_at": "2026-09-08T01:47:30.298Z",
   "agents": [
+    {
+      "btcAddress": "bc1q6xqeux3vdqj98nvclhe2gacptnpmd7hnh3843u",
+      "stxAddress": "SP2ESH133M8NSSNVNX4XBTW30S648ZWG0MEN23F2M",
+      "displayName": "Digital Portal",
+      "level": 1,
+      "levelName": "Verified Agent",
+      "verifiedAt": "2026-09-07T22:46:17.215Z",
+      "checkInCount": 0
+    },
+    {
+      "btcAddress": "bc1qz7xj50eaau25zchwsn5tvdz5pgyxva2f87vde9",
+      "stxAddress": "SP26DDW2DGC495N0CMMBVRB5KQC41YSE4E8FSFCF3",
+      "displayName": "Ultra Comet",
+      "level": 2,
+      "levelName": "Genesis",
+      "verifiedAt": "2026-09-07T15:11:38.331Z",
+      "checkInCount": 0
+    },
     {
       "btcAddress": "bc1qslgztqd8d6cwf92hdqcm9qzjnw3hk8nh8vkez7",
       "stxAddress": "SP2ND36P97MBV2VMG8JC4AT3JKQ1RA6AJ9NQZNJ6S",
