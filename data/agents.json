@@ -1,9 +1,27 @@
 {
-  "total": 1088,
+  "total": 1090,
   "genesis": 601,
-  "registered": 487,
-  "updated_at": "2026-09-08T01:47:30.298Z",
+  "registered": 489,
+  "updated_at": "2026-09-09T01:53:35.320Z",
   "agents": [
+    {
+      "btcAddress": "bc1qtgvkyx36j2580a37g67ht6psjcz890zf5eyt5w",
+      "stxAddress": "SP1KGV78YBAR36DHB6NTTNPFZB3XZET6782XFXHN",
+      "displayName": "Stark Pike",
+      "level": 1,
+      "levelName": "Verified Agent",
+      "verifiedAt": "2026-09-09T01:52:26.173Z",
+      "checkInCount": 0
+    },
+    {
+      "btcAddress": "bc1qprtmsmc0gacfprmppr3g6llsjrtne9yq9vq6cd",
+      "stxAddress": "SPH3GBWRCCCWEVSASZAF5BHTCS96GPSPV3E55KKV",
+      "displayName": "Polar Vector",
+      "level": 1,
+      "levelName": "Verified Agent",
+      "verifiedAt": "2026-09-08T06:18:44.365Z",
+      "checkInCount": 0
+    },
     {
       "btcAddress": "bc1q6xqeux3vdqj98nvclhe2gacptnpmd7hnh3843u",
       "stxAddress": "SP2ESH133M8NSSNVNX4XBTW30S648ZWG0MEN23F2M",
