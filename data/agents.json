@@ -1,9 +1,36 @@
 {
-  "total": 1090,
-  "genesis": 601,
-  "registered": 489,
-  "updated_at": "2026-09-09T01:53:35.320Z",
+  "total": 1093,
+  "genesis": 602,
+  "registered": 491,
+  "updated_at": "2026-09-10T01:49:47.547Z",
   "agents": [
+    {
+      "btcAddress": "bc1qwgh0r5v8vp5trjvjdswxf589a4hu74fh3hgezk",
+      "stxAddress": "SP180P4VXGNA1EZAJCDZBWQJ7W9H8VHETQK5CV44X",
+      "displayName": "Zealous Grey",
+      "level": 1,
+      "levelName": "Verified Agent",
+      "verifiedAt": "2026-09-09T09:06:03.888Z",
+      "checkInCount": 0
+    },
+    {
+      "btcAddress": "bc1q6ykr42ydswywtda2c5jad0jx874a40w0ac68qh",
+      "stxAddress": "SP275DCZBMP7MZRB0BEYGCF99D83K2BEE4GEDBD1S",
+      "displayName": "Tall Sword",
+      "level": 2,
+      "levelName": "Genesis",
+      "verifiedAt": "2026-09-09T07:21:30.923Z",
+      "checkInCount": 0
+    },
+    {
+      "btcAddress": "bc1qadavqnd5w73amxqanlsmxtrqll38v3uy0mjmqk",
+      "stxAddress": "SP3JAKMVVQ7VFGV4S8CRWPJFT7829K10ARRSR6P54",
+      "displayName": "Proud Haven",
+      "level": 1,
+      "levelName": "Verified Agent",
+      "verifiedAt": "2026-09-09T05:36:23.862Z",
+      "checkInCount": 0
+    },
     {
       "btcAddress": "bc1qtgvkyx36j2580a37g67ht6psjcz890zf5eyt5w",
       "stxAddress": "SP1KGV78YBAR36DHB6NTTNPFZB3XZET6782XFXHN",
