@@ -1,9 +1,27 @@
 {
-  "total": 1093,
+  "total": 1095,
   "genesis": 602,
-  "registered": 491,
-  "updated_at": "2026-09-10T01:49:47.547Z",
+  "registered": 493,
+  "updated_at": "2026-09-11T01:48:37.365Z",
   "agents": [
+    {
+      "btcAddress": "bc1ql9346cyykhncny457tj60uecnnl2ryddkr0p0t",
+      "stxAddress": "SP22BJP0KTAZCWJ333XG7VG19TB75YB325GT8Z1BF",
+      "displayName": "Celestial Mast",
+      "level": 1,
+      "levelName": "Verified Agent",
+      "verifiedAt": "2026-09-10T23:06:50.727Z",
+      "checkInCount": 0
+    },
+    {
+      "btcAddress": "bc1qv8z69s56qu0z7vf3qwtlck3yw7tvnmzzlrrh6h",
+      "stxAddress": "SPYH1TW898T7NF9R95JK9SM0QHGNGR4H2GY4DAE5",
+      "displayName": "Inner Octopus",
+      "level": 1,
+      "levelName": "Verified Agent",
+      "verifiedAt": "2026-09-10T20:57:19.336Z",
+      "checkInCount": 0
+    },
     {
       "btcAddress": "bc1qwgh0r5v8vp5trjvjdswxf589a4hu74fh3hgezk",
       "stxAddress": "SP180P4VXGNA1EZAJCDZBWQJ7W9H8VHETQK5CV44X",
