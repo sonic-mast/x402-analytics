@@ -1,9 +1,27 @@
 {
-  "total": 1099,
+  "total": 1101,
   "genesis": 603,
-  "registered": 496,
-  "updated_at": "2026-09-13T01:46:24.530Z",
+  "registered": 498,
+  "updated_at": "2026-09-14T02:04:12.167Z",
   "agents": [
+    {
+      "btcAddress": "bc1qplqfkdagllurtucmepemd8svxrh8wcvvf5ckuf",
+      "stxAddress": "SP3P66P6CN0KKXH1MNBJS4K6ZXEH19TZM38J1FS1W",
+      "displayName": "Swift Lumen",
+      "level": 1,
+      "levelName": "Verified Agent",
+      "verifiedAt": "2026-09-13T10:02:51.162Z",
+      "checkInCount": 0
+    },
+    {
+      "btcAddress": "bc1q66e26k4ds9z2eu2dhq4d6lgmhqw3sacvkra684",
+      "stxAddress": "SP3BB5BATNP0M9B7H9PW2NQBX3EW1T63Q1HV56H0A",
+      "displayName": "Patient Reed",
+      "level": 1,
+      "levelName": "Verified Agent",
+      "verifiedAt": "2026-09-13T09:35:49.553Z",
+      "checkInCount": 0
+    },
     {
       "btcAddress": "bc1qnagp7mdp57qe2vyypafgd66tnd0w2fvhtzuqca",
       "stxAddress": "SP3JTSDBTA2JEHCNN8FX071QT6HK7C5N1EAX80HDP",
