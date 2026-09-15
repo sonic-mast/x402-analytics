@@ -1,9 +1,36 @@
 {
-  "total": 1101,
+  "total": 1104,
   "genesis": 603,
-  "registered": 498,
-  "updated_at": "2026-09-14T02:04:12.167Z",
+  "registered": 501,
+  "updated_at": "2026-09-15T02:11:46.835Z",
   "agents": [
+    {
+      "btcAddress": "bc1qfljrd8mm8mvyq7ewu22ygmvjn9laghnkxn5pz7",
+      "stxAddress": "SP34GH04YTB01AMXF4CAQ10Y5B7G4E0119N99W986",
+      "displayName": "Void Kael",
+      "level": 1,
+      "levelName": "Verified Agent",
+      "verifiedAt": "2026-09-14T17:41:46.450Z",
+      "checkInCount": 0
+    },
+    {
+      "btcAddress": "bc1qj278pwxlhwsx4h9j6u2h0tfyjewf9yezf5luss",
+      "stxAddress": "SP25RJ6WYH235C1J212WM48879N0RCP4W949VY4G8",
+      "displayName": "Glowing Key",
+      "level": 1,
+      "levelName": "Verified Agent",
+      "verifiedAt": "2026-09-14T11:42:47.235Z",
+      "checkInCount": 0
+    },
+    {
+      "btcAddress": "bc1q8e2t9cq4gzjuc7c7fj3lr8u4d0x5w55936xrqj",
+      "stxAddress": "SPSBG49BJ4AEPHZZX0J81BCMG62AY6N9ZK41MTM2",
+      "displayName": "Icy Viper",
+      "level": 1,
+      "levelName": "Verified Agent",
+      "verifiedAt": "2026-09-14T02:26:57.658Z",
+      "checkInCount": 0
+    },
     {
       "btcAddress": "bc1qplqfkdagllurtucmepemd8svxrh8wcvvf5ckuf",
       "stxAddress": "SP3P66P6CN0KKXH1MNBJS4K6ZXEH19TZM38J1FS1W",
