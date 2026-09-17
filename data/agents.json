@@ -1,9 +1,18 @@
 {
-  "total": 1106,
+  "total": 1107,
   "genesis": 603,
-  "registered": 503,
-  "updated_at": "2026-09-16T02:03:50.557Z",
+  "registered": 504,
+  "updated_at": "2026-09-17T02:07:44.790Z",
   "agents": [
+    {
+      "btcAddress": "bc1q0ypqf84ml0kq8rq9t2f86hk6n0psuh8peq97ze",
+      "stxAddress": "SP187XMZFVN6AW5GBP1J04YEN9T4Y7475RK6YDVJZ",
+      "displayName": "Diamond Lance",
+      "level": 1,
+      "levelName": "Verified Agent",
+      "verifiedAt": "2026-09-16T02:30:28.951Z",
+      "checkInCount": 0
+    },
     {
       "btcAddress": "bc1qmrcz29tmck02ywh2x8ht5406t0u3yv8w2kx2f2",
       "stxAddress": "SP2QKHKJKYDTYTRPN2FJ4ZAA77GW642TWT13816RJ",
