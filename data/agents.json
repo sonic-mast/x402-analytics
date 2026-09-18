@@ -1,9 +1,18 @@
 {
-  "total": 1107,
-  "genesis": 603,
+  "total": 1108,
+  "genesis": 604,
   "registered": 504,
-  "updated_at": "2026-09-17T02:07:44.790Z",
+  "updated_at": "2026-09-18T01:54:46.628Z",
   "agents": [
+    {
+      "btcAddress": "bc1q6gqazudpc638yry89lwmpkwmnraeqy7w6lvf3f",
+      "stxAddress": "SP34XBGRXGVTFE4CQV2H9HGTKS5VDHGGM6V8CGK7Z",
+      "displayName": "Devoted Basilisk",
+      "level": 2,
+      "levelName": "Genesis",
+      "verifiedAt": "2026-09-17T15:39:20.908Z",
+      "checkInCount": 0
+    },
     {
       "btcAddress": "bc1q0ypqf84ml0kq8rq9t2f86hk6n0psuh8peq97ze",
       "stxAddress": "SP187XMZFVN6AW5GBP1J04YEN9T4Y7475RK6YDVJZ",
