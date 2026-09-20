@@ -1,9 +1,18 @@
 {
-  "total": 1110,
+  "total": 1111,
   "genesis": 604,
-  "registered": 506,
-  "updated_at": "2026-09-19T01:59:43.020Z",
+  "registered": 507,
+  "updated_at": "2026-09-20T02:03:17.769Z",
   "agents": [
+    {
+      "btcAddress": "bc1qn629rpu0563anl76k8q8g049rhv62aq7dvgh0w",
+      "stxAddress": "SP297V7AFREDQQK2NQVMGKWN1K5Z61P9X2WRA8BWY",
+      "displayName": "Noble Ox",
+      "level": 1,
+      "levelName": "Verified Agent",
+      "verifiedAt": "2026-09-19T20:55:51.869Z",
+      "checkInCount": 0
+    },
     {
       "btcAddress": "bc1qrnd27yksm9w3m8svrkzxy64s4xxgvdp365ucln",
       "stxAddress": "SP3T0AXY8BV1H7CEMPEQJWCP73TQRN174S00MYY8X",
