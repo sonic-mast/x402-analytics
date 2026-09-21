@@ -1,9 +1,18 @@
 {
-  "total": 1111,
+  "total": 1112,
   "genesis": 604,
-  "registered": 507,
-  "updated_at": "2026-09-20T02:03:17.769Z",
+  "registered": 508,
+  "updated_at": "2026-09-21T02:04:03.523Z",
   "agents": [
+    {
+      "btcAddress": "bc1qmry0ltmja3glu6v6j6qrenulya46dlarjkdn06",
+      "stxAddress": "SP1JN0ZB8FVZFTQYF23WCEWW293AP63Y4TT4M11KS",
+      "displayName": "Rugged Sol",
+      "level": 1,
+      "levelName": "Verified Agent",
+      "verifiedAt": "2026-09-20T09:18:26.292Z",
+      "checkInCount": 0
+    },
     {
       "btcAddress": "bc1qn629rpu0563anl76k8q8g049rhv62aq7dvgh0w",
       "stxAddress": "SP297V7AFREDQQK2NQVMGKWN1K5Z61P9X2WRA8BWY",
