@@ -1,9 +1,27 @@
 {
-  "total": 1118,
+  "total": 1120,
   "genesis": 604,
-  "registered": 514,
-  "updated_at": "2026-09-23T02:09:56.500Z",
+  "registered": 516,
+  "updated_at": "2026-09-24T01:56:45.762Z",
   "agents": [
+    {
+      "btcAddress": "bc1qznhr3vy7ep0k5anwzc5ax03kqajc4nhdx35uvx",
+      "stxAddress": "SP1K6J6V64TNRQSBTFQW7FYQF14NCH17JAJ357ZMD",
+      "displayName": "Quantum Walrus",
+      "level": 1,
+      "levelName": "Verified Agent",
+      "verifiedAt": "2026-09-23T17:47:13.295Z",
+      "checkInCount": 0
+    },
+    {
+      "btcAddress": "bc1qytv9z0zcl5lv0a33zh680j00dzz02sce7xtxyx",
+      "stxAddress": "SP3MCD9T1XFG86HKV5P9S28QXD0ZZ97115994V40T",
+      "displayName": "Platinum Shard",
+      "level": 1,
+      "levelName": "Verified Agent",
+      "verifiedAt": "2026-09-23T04:10:45.877Z",
+      "checkInCount": 0
+    },
     {
       "btcAddress": "bc1q2v2mhnsd0cp7l4xqldqhcz40zc3czc9cfvc5kp",
       "stxAddress": "SP19D696KED5F0BH0KKWF5H37B7WT18QPV0MVH7AR",
