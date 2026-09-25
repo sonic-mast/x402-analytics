@@ -1,9 +1,18 @@
 {
-  "total": 1120,
+  "total": 1121,
   "genesis": 604,
-  "registered": 516,
-  "updated_at": "2026-09-24T01:56:45.762Z",
+  "registered": 517,
+  "updated_at": "2026-09-25T02:13:33.455Z",
   "agents": [
+    {
+      "btcAddress": "bc1qm295qk0rug8zxkn226kshl98j8uh3rues4phg0",
+      "stxAddress": "SP3WK4JKMK0YEDW6QHVPZJYHFBDJZQPG2S6NYNDNG",
+      "displayName": "Nested Quinn",
+      "level": 1,
+      "levelName": "Verified Agent",
+      "verifiedAt": "2026-09-25T00:10:57.021Z",
+      "checkInCount": 0
+    },
     {
       "btcAddress": "bc1qznhr3vy7ep0k5anwzc5ax03kqajc4nhdx35uvx",
       "stxAddress": "SP1K6J6V64TNRQSBTFQW7FYQF14NCH17JAJ357ZMD",
