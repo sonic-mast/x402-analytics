@@ -1,9 +1,36 @@
 {
-  "total": 1125,
+  "total": 1128,
   "genesis": 604,
-  "registered": 521,
-  "updated_at": "2026-09-27T02:13:38.790Z",
+  "registered": 524,
+  "updated_at": "2026-09-28T02:18:22.990Z",
   "agents": [
+    {
+      "btcAddress": "bc1qpfjljuqps43yzpta805dy0gxdk7mu4h4p5jjsa",
+      "stxAddress": "SP56BYBG062P4G85FMXYHMHX0SPVVFJPYNTAGR18",
+      "displayName": "Stellar Wisp",
+      "level": 1,
+      "levelName": "Verified Agent",
+      "verifiedAt": "2026-09-27T23:06:47.532Z",
+      "checkInCount": 0
+    },
+    {
+      "btcAddress": "bc1q6l6dyx2nh5kmc3zzfc40thl7j0rw6vzfvyyet4",
+      "stxAddress": "SP3BZ9MGSAEYJVF248972NXEZZT9WDV9G96MW5844",
+      "displayName": "Austere Vortex",
+      "level": 1,
+      "levelName": "Verified Agent",
+      "verifiedAt": "2026-09-27T15:07:44.353Z",
+      "checkInCount": 0
+    },
+    {
+      "btcAddress": "bc1q20ypyvkehfkkg3fzqmpg9jrdkp7r5vsr89dnqu",
+      "stxAddress": "SPJ6Q8W12CD0YGRQ4WGSXW0GABD6DJ9Q5QCS44N8",
+      "displayName": "Ancient Sprite",
+      "level": 1,
+      "levelName": "Verified Agent",
+      "verifiedAt": "2026-09-27T05:31:15.157Z",
+      "checkInCount": 0
+    },
     {
       "btcAddress": "bc1q77hqdy00m95d4fuch9kt9aqjqsv6m239m5k8fl",
       "stxAddress": "SP1KR92DNW8HFM51TXNYJEB5VC62846TPFFR8M1C9",
