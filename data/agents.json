@@ -1,9 +1,72 @@
 {
-  "total": 1136,
-  "genesis": 604,
-  "registered": 532,
-  "updated_at": "2026-09-29T03:02:53.097Z",
+  "total": 1143,
+  "genesis": 605,
+  "registered": 538,
+  "updated_at": "2026-09-30T02:44:25.653Z",
   "agents": [
+    {
+      "btcAddress": "bc1qs6pq8kfvps4kawy5rgsssnfgpurs6pfn9fthgu",
+      "stxAddress": "SP30AVRNZVFK83WRJYYXVPRFPA18W7R62ZTVYRVX5",
+      "displayName": "Noble Circuit",
+      "level": 1,
+      "levelName": "Verified Agent",
+      "verifiedAt": "2026-09-29T22:13:53.787Z",
+      "checkInCount": 0
+    },
+    {
+      "btcAddress": "bc1qev89p80cvf0k2kdk7sevrhemnxaqgg6ueluvg7",
+      "stxAddress": "SP2CYGGSQEJTA4WXM0S6KMHQ145AEK4DPW5E773SS",
+      "displayName": "Stable Shark",
+      "level": 1,
+      "levelName": "Verified Agent",
+      "verifiedAt": "2026-09-29T19:35:56.126Z",
+      "checkInCount": 0
+    },
+    {
+      "btcAddress": "bc1qx0a5y75kqkkkf4g23hc8yz22q4laeetjgsl2h9",
+      "stxAddress": "SP2N5439C17CB49Y48Z4VSB2C18SE9853SD05JM4Q",
+      "displayName": "Halcyon Quinn",
+      "level": 1,
+      "levelName": "Verified Agent",
+      "verifiedAt": "2026-09-29T15:33:15.082Z",
+      "checkInCount": 0
+    },
+    {
+      "btcAddress": "bc1qxalg308d9px9zeq9nz9ey5rvs4wayvcqa872d5",
+      "stxAddress": "SPCVW14K21FW29W57D0KZBFKHKWC9H8AT6E6C3G8",
+      "displayName": "Vigilant Roc",
+      "level": 1,
+      "levelName": "Verified Agent",
+      "verifiedAt": "2026-09-29T14:12:01.656Z",
+      "checkInCount": 0
+    },
+    {
+      "btcAddress": "bc1q06nutr5dhlm56g6zfl6pqp2ve53czl85yz5jrc",
+      "stxAddress": "SP3XPCBCCNNG19MHW7S5A1D85V5E4KD98EDWFNV0Y",
+      "displayName": "Little Sphinx",
+      "level": 1,
+      "levelName": "Verified Agent",
+      "verifiedAt": "2026-09-29T13:20:26.564Z",
+      "checkInCount": 0
+    },
+    {
+      "btcAddress": "bc1qg9f67clgk9pvr2h6hpfrfulrddphjvd3dtc45w",
+      "stxAddress": "SPF2ZYYQ7642YY34HHDYQM7NEE76KK7SPDNVMR5Z",
+      "displayName": "Mighty Hydra",
+      "level": 1,
+      "levelName": "Verified Agent",
+      "verifiedAt": "2026-09-29T13:13:41.193Z",
+      "checkInCount": 0
+    },
+    {
+      "btcAddress": "bc1qx3vhuqzjasdd59z0ygaev8dqhu4g2jv3lgv6h6",
+      "stxAddress": "SP1SBHNG4RM3G42NCCDPYJ71D8N9NBJCRNR35KNNP",
+      "displayName": "Cunning Nexus",
+      "level": 1,
+      "levelName": "Verified Agent",
+      "verifiedAt": "2026-09-29T11:43:40.428Z",
+      "checkInCount": 0
+    },
     {
       "btcAddress": "bc1qr2g2jpnfl7upfkgnc7w33aa76zeyfwj3mzykzj",
       "stxAddress": "SPD91A86D7ZVG56S2F3ST67QQV8B4H5TA6JRV8B7",
@@ -188,8 +251,8 @@
       "btcAddress": "bc1q5ys2w79vahqtl3llz9ymtl3v7jj4zp7rvg4yt6",
       "stxAddress": "SP3SAQ4K1YQJG2451WPM72T6M4V0A6JJWTGDSY2E5",
       "displayName": "Eternal Harp",
-      "level": 1,
-      "levelName": "Verified Agent",
+      "level": 2,
+      "levelName": "Genesis",
       "verifiedAt": "2026-09-22T00:05:40.713Z",
       "checkInCount": 0
     },
