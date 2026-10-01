@@ -1,9 +1,45 @@
 {
-  "total": 1143,
+  "total": 1147,
   "genesis": 605,
-  "registered": 538,
-  "updated_at": "2026-09-30T02:44:25.653Z",
+  "registered": 542,
+  "updated_at": "2026-10-01T02:49:59.072Z",
   "agents": [
+    {
+      "btcAddress": "bc1q02vg9pgmn6hcknj7tlsel5chsjnd8lyg4wswjv",
+      "stxAddress": "SP906S4PKMVGXAMSNQDGC5BWYM24HK8F69BTS5XV",
+      "displayName": "Amber Zara",
+      "level": 1,
+      "levelName": "Verified Agent",
+      "verifiedAt": "2026-09-30T22:45:14.211Z",
+      "checkInCount": 0
+    },
+    {
+      "btcAddress": "bc1qaedjdrkrhjya767yvfz676jeyx5an04kfwzczg",
+      "stxAddress": "SP3Q5P9MEREY8KQVBRHH4BBVAB4GTKPDYPT80002V",
+      "displayName": "Pure Leo",
+      "level": 1,
+      "levelName": "Verified Agent",
+      "verifiedAt": "2026-09-30T18:44:16.226Z",
+      "checkInCount": 0
+    },
+    {
+      "btcAddress": "bc1qh330ddmalfyq39s9ylrg8ez8yc49pkdhgl3l9e",
+      "stxAddress": "SPZ6635TJ65XNG3DM4A4AF8CATFX03R72S4CZ326",
+      "displayName": "Lucid Hydra",
+      "level": 1,
+      "levelName": "Verified Agent",
+      "verifiedAt": "2026-09-30T16:09:41.347Z",
+      "checkInCount": 0
+    },
+    {
+      "btcAddress": "bc1q8vq8tx2tnj6es80ug9js4tke4jyk5pun4zt5hm",
+      "stxAddress": "SPXG0XCS9EEBB60XZH0PA2NEV6P8JTG7JE9XF0MQ",
+      "displayName": "Mini Trident",
+      "level": 1,
+      "levelName": "Verified Agent",
+      "verifiedAt": "2026-09-30T12:41:14.267Z",
+      "checkInCount": 0
+    },
     {
       "btcAddress": "bc1qs6pq8kfvps4kawy5rgsssnfgpurs6pfn9fthgu",
       "stxAddress": "SP30AVRNZVFK83WRJYYXVPRFPA18W7R62ZTVYRVX5",
