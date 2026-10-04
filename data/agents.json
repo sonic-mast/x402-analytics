@@ -1,9 +1,27 @@
 {
-  "total": 1156,
-  "genesis": 605,
-  "registered": 551,
-  "updated_at": "2026-10-03T02:39:23.469Z",
+  "total": 1158,
+  "genesis": 606,
+  "registered": 552,
+  "updated_at": "2026-10-04T03:10:51.532Z",
   "agents": [
+    {
+      "btcAddress": "bc1qesfcmf78xz633u5mrlcd42ckdq4l4wwadh5u0z",
+      "stxAddress": "SP3QV7QYC73G2HVM3TFW500MTZTFEK4YZVJ3C75W2",
+      "displayName": "Mega Grey",
+      "level": 1,
+      "levelName": "Verified Agent",
+      "verifiedAt": "2026-10-04T03:05:54.518Z",
+      "checkInCount": 0
+    },
+    {
+      "btcAddress": "bc1qxwr5pkrsu9q2agn6r7xy7504xfr79klyp4wz3w",
+      "stxAddress": "SPZ4Q545RGVQWFHJY2HNZAAANJMB4TJ6SP60CN0T",
+      "displayName": "Iron Hub",
+      "level": 2,
+      "levelName": "Genesis",
+      "verifiedAt": "2026-10-03T11:01:12.601Z",
+      "checkInCount": 0
+    },
     {
       "btcAddress": "bc1q45ss4755aemdd74znmr5hd4zwvlfwjcr78he0d",
       "stxAddress": "SP32HE23QBBF1XTQKPQDZ5RTJ74H6JNW8NRHQJJRM",
