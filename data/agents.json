@@ -1,9 +1,45 @@
 {
-  "total": 1158,
+  "total": 1162,
   "genesis": 606,
-  "registered": 552,
-  "updated_at": "2026-10-04T03:10:51.532Z",
+  "registered": 556,
+  "updated_at": "2026-10-05T02:45:05.183Z",
   "agents": [
+    {
+      "btcAddress": "bc1qma3tyypv3sf4jjzualhw4g3q2ph88futqvrw49",
+      "stxAddress": "SP3GCF2VFS0MZ1VJ42AXTKRE39GQ2P572QSJ9HJXE",
+      "displayName": "Ghostly Unicorn",
+      "level": 1,
+      "levelName": "Verified Agent",
+      "verifiedAt": "2026-10-04T22:33:04.140Z",
+      "checkInCount": 0
+    },
+    {
+      "btcAddress": "bc1qrwl6c5nxfykzcjdsdrmmmvrljg2kqulhmxyfjn",
+      "stxAddress": "SPTPTQ143SP04SPSAHG2BM8REN1NTN647QEQKCT3",
+      "displayName": "Emerald Torch",
+      "level": 1,
+      "levelName": "Verified Agent",
+      "verifiedAt": "2026-10-04T22:21:22.579Z",
+      "checkInCount": 0
+    },
+    {
+      "btcAddress": "bc1qxhq2msf5drrmufh8kx8w834j0tjdfp02j92p7t",
+      "stxAddress": "SP23BWFXARNV6HYP265SZNBG4Z24GV91S9ZZ4VMXC",
+      "displayName": "Atomic Orbit",
+      "level": 1,
+      "levelName": "Verified Agent",
+      "verifiedAt": "2026-10-04T14:08:52.003Z",
+      "checkInCount": 0
+    },
+    {
+      "btcAddress": "bc1qlxdzrx7pgjrsdj2p7uplrytzda4ja34sg58u97",
+      "stxAddress": "SPZBD709TNQRRJK6PGTH6619XNSPR0KGGAJQPQ08",
+      "displayName": "Nebular Turbine",
+      "level": 1,
+      "levelName": "Verified Agent",
+      "verifiedAt": "2026-10-04T08:11:55.471Z",
+      "checkInCount": 0
+    },
     {
       "btcAddress": "bc1qesfcmf78xz633u5mrlcd42ckdq4l4wwadh5u0z",
       "stxAddress": "SP3QV7QYC73G2HVM3TFW500MTZTFEK4YZVJ3C75W2",
