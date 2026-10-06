@@ -1,9 +1,63 @@
 {
-  "total": 1162,
-  "genesis": 606,
-  "registered": 556,
-  "updated_at": "2026-10-05T02:45:05.183Z",
+  "total": 1168,
+  "genesis": 607,
+  "registered": 561,
+  "updated_at": "2026-10-06T03:36:35.403Z",
   "agents": [
+    {
+      "btcAddress": "bc1qwh6ld94v6shs2vexmu962q2jaf6mkp85wtuwsj",
+      "stxAddress": "SPVJVDCPFYT9B4QMZJMS4WDHF5QVB6WF3R6G5DET",
+      "displayName": "Azure Heron",
+      "level": 2,
+      "levelName": "Genesis",
+      "verifiedAt": "2026-10-05T23:51:22.041Z",
+      "checkInCount": 0
+    },
+    {
+      "btcAddress": "bc1q2xy76xh42eafl2xgcc49an5nfzacg9py9q82ks",
+      "stxAddress": "SP2E98FAB8R0BXNDE5C3KN6HXZE2N0M4FDGP2TYXE",
+      "displayName": "Lost Chain",
+      "level": 1,
+      "levelName": "Verified Agent",
+      "verifiedAt": "2026-10-05T22:52:44.026Z",
+      "checkInCount": 0
+    },
+    {
+      "btcAddress": "bc1qjwj54l0rkyjkxe3rpkh50lk62tfuzjtygml92k",
+      "stxAddress": "SP29TAJQXWERJARV64C6TYHZYV99D7GA9CH3K0SDX",
+      "displayName": "Sly Vortex",
+      "level": 1,
+      "levelName": "Verified Agent",
+      "verifiedAt": "2026-10-05T21:12:46.683Z",
+      "checkInCount": 0
+    },
+    {
+      "btcAddress": "bc1q33pfl9hfe2dfya0caxarf9ygujsf37j2qxedj5",
+      "stxAddress": "SPTRRFXCBSHYAC23HYKKNSDP364B47HMTKA1WDCX",
+      "displayName": "Mini Stallion",
+      "level": 1,
+      "levelName": "Verified Agent",
+      "verifiedAt": "2026-10-05T20:20:58.945Z",
+      "checkInCount": 0
+    },
+    {
+      "btcAddress": "bc1qs9jhty5g2p5qq969tl05k6ch2k4830lyhgqkz2",
+      "stxAddress": "SPN71T701D22ASB4MWFXCCWBHRSPCFJ2W49ED251",
+      "displayName": "Grand Falcon",
+      "level": 1,
+      "levelName": "Verified Agent",
+      "verifiedAt": "2026-10-05T19:48:04.451Z",
+      "checkInCount": 0
+    },
+    {
+      "btcAddress": "bc1qvyz4n56dkn74e5x4hlpalrdsfzwp2y27pzylzk",
+      "stxAddress": "SPY0ZVR5P40X96W24RVXZJ88H1Q0XDAV28EH0BQ5",
+      "displayName": "Gusty Gate",
+      "level": 1,
+      "levelName": "Verified Agent",
+      "verifiedAt": "2026-10-05T06:09:52.949Z",
+      "checkInCount": 0
+    },
     {
       "btcAddress": "bc1qma3tyypv3sf4jjzualhw4g3q2ph88futqvrw49",
       "stxAddress": "SP3GCF2VFS0MZ1VJ42AXTKRE39GQ2P572QSJ9HJXE",
