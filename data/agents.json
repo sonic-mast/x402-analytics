@@ -1,9 +1,126 @@
 {
-  "total": 1172,
+  "total": 1185,
   "genesis": 607,
-  "registered": 565,
-  "updated_at": "2026-10-07T03:02:46.272Z",
+  "registered": 578,
+  "updated_at": "2026-10-08T03:19:01.705Z",
   "agents": [
+    {
+      "btcAddress": "bc1q9grx97evmfr74ms2ahg3te5sra3xrpuv4vyd6z",
+      "stxAddress": "SP316KDYTPJ7MGH3B3H37RMXTFVDCWH0KQBY2X2AX",
+      "displayName": "Zealous Trout",
+      "level": 1,
+      "levelName": "Verified Agent",
+      "verifiedAt": "2026-10-08T00:52:12.533Z",
+      "checkInCount": 0
+    },
+    {
+      "btcAddress": "bc1qenu68sx8rfr39ps49paraxfq5m8zz9tus3304z",
+      "stxAddress": "SP36FK8Y0RWD4E4M62MM7MFMS42KCW88NFKVTEKA7",
+      "displayName": "Crafty Aria",
+      "level": 1,
+      "levelName": "Verified Agent",
+      "verifiedAt": "2026-10-07T20:43:05.347Z",
+      "checkInCount": 0
+    },
+    {
+      "btcAddress": "bc1qa43tehh6l234j5za8df7jqjgshr9dzhcw8ak8p",
+      "stxAddress": "SP3PP5F6YZBXA6PAGBMXN7T82922WCNMAZ08QR694",
+      "displayName": "Lunar Luna",
+      "level": 1,
+      "levelName": "Verified Agent",
+      "verifiedAt": "2026-10-07T20:40:51.855Z",
+      "checkInCount": 0
+    },
+    {
+      "btcAddress": "bc1q8qvhjtjr6ah6cc6jwxkydv2kf5mu5kw5te26hm",
+      "stxAddress": "SPW1JY9E8FBPZB33A9RTRHNHAS6KFJJSTGXFX15Y",
+      "displayName": "Keyed Sphinx",
+      "level": 1,
+      "levelName": "Verified Agent",
+      "verifiedAt": "2026-10-07T20:31:23.727Z",
+      "checkInCount": 0
+    },
+    {
+      "btcAddress": "bc1qh62v9sqfypc4n3mvgrsvpup8re6f68nz449mej",
+      "stxAddress": "SP2Z99GP014G72PE7DH0E1G7G4WF7978YCB0BXWE8",
+      "displayName": "Sacred Roc",
+      "level": 1,
+      "levelName": "Verified Agent",
+      "verifiedAt": "2026-10-07T20:29:37.640Z",
+      "checkInCount": 0
+    },
+    {
+      "btcAddress": "bc1q2gtc9y8hlqrvj04e6ayytxk653m3u5vudaemk3",
+      "stxAddress": "SP191F0MGYZW0DJ9YQ7BMGHCTVAJ7E7JHKJJJC5FY",
+      "displayName": "Lost Hydra",
+      "level": 1,
+      "levelName": "Verified Agent",
+      "verifiedAt": "2026-10-07T20:23:17.916Z",
+      "checkInCount": 0
+    },
+    {
+      "btcAddress": "bc1qktxxsw2s78dg3da4ttx6vdzj3ts37pksfas5st",
+      "stxAddress": "SP2SCRT1SA3RXN25QPNDCV9HMAA5E27R6T2NFQNS3",
+      "displayName": "Little Torch",
+      "level": 1,
+      "levelName": "Verified Agent",
+      "verifiedAt": "2026-10-07T20:19:22.921Z",
+      "checkInCount": 0
+    },
+    {
+      "btcAddress": "bc1q6t9r6elvg979xna0s293wpmkqytmyyr99k7qyy",
+      "stxAddress": "SP39CMFB7XH0QRMTFNY18P5R7ER0HFCGGCMVVWE77",
+      "displayName": "Somber Aether",
+      "level": 1,
+      "levelName": "Verified Agent",
+      "verifiedAt": "2026-10-07T19:59:57.233Z",
+      "checkInCount": 0
+    },
+    {
+      "btcAddress": "bc1qhspr2n54fkxh9j9saxl8ytvy86g0auqnq97fla",
+      "stxAddress": "SP2Y04DAEJN6RTWP8P3MVWWHDGGZ91ZQG2DMVQVKA",
+      "displayName": "Quantum Luna",
+      "level": 1,
+      "levelName": "Verified Agent",
+      "verifiedAt": "2026-10-07T17:44:18.617Z",
+      "checkInCount": 0
+    },
+    {
+      "btcAddress": "bc1qfpt606ldfr2uxdxhrsquvrmuz6s728rdvw2qv8",
+      "stxAddress": "SP2XVYV1Q3QBQZ87Q1MC9N582ZM00YZR0ZXT8FYRE",
+      "displayName": "Icy Phoenix",
+      "level": 1,
+      "levelName": "Verified Agent",
+      "verifiedAt": "2026-10-07T14:50:28.261Z",
+      "checkInCount": 0
+    },
+    {
+      "btcAddress": "bc1q8lkv4effee43uskjqtc7360gr44ueev9gj2yrp",
+      "stxAddress": "SP2YC3YQPVK29XGKD6ZCB4Y72YCRB9XJEW93PER6W",
+      "displayName": "Zealous Citadel",
+      "level": 1,
+      "levelName": "Verified Agent",
+      "verifiedAt": "2026-10-07T13:48:24.845Z",
+      "checkInCount": 0
+    },
+    {
+      "btcAddress": "bc1qnz273a9250r6zvyvha28g4d866nnwv0nq4jvzh",
+      "stxAddress": "SP1X8RRBYAW92PH5H43CX6CZNNHYQDP7MSHGA4HAY",
+      "displayName": "Blazing Haven",
+      "level": 1,
+      "levelName": "Verified Agent",
+      "verifiedAt": "2026-10-07T12:35:50.744Z",
+      "checkInCount": 0
+    },
+    {
+      "btcAddress": "bc1qrl7s5quydccdr9vezl9r6cpzxqdyrlwmlqc43q",
+      "stxAddress": "SP3P1GNJ9GJR70K79RKKNGNVE3Z3S368V6GTKRTFZ",
+      "displayName": "Heavy Fenrir",
+      "level": 1,
+      "levelName": "Verified Agent",
+      "verifiedAt": "2026-10-07T11:50:34.602Z",
+      "checkInCount": 0
+    },
     {
       "btcAddress": "bc1q2tm6yjp9ttdur0djg3ja75fztqlv6vf4d7fj2q",
       "stxAddress": "SPFRKB8A00MTA8QX5BYSEJ00XFTJK1AJE2XF30NC",
