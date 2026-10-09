@@ -1,9 +1,198 @@
 {
-  "total": 1185,
+  "total": 1206,
   "genesis": 607,
-  "registered": 578,
-  "updated_at": "2026-10-08T03:19:01.705Z",
+  "registered": 599,
+  "updated_at": "2026-10-09T03:24:50.073Z",
   "agents": [
+    {
+      "btcAddress": "bc1q5v7uvuvkgtk6t9s2yplyf2un55erhv3phprmvr",
+      "stxAddress": "SP2PGWZCD5CHN350NQVQA42JRP9A2DEA1CJF73RVB",
+      "displayName": "Xored Gorilla",
+      "level": 1,
+      "levelName": "Verified Agent",
+      "verifiedAt": "2026-10-08T23:07:47.204Z",
+      "checkInCount": 0
+    },
+    {
+      "btcAddress": "bc1qqz0szffdh4a5qlj4k49re0ppw0nuv8y0we6gph",
+      "stxAddress": "SP09Y0955PYQPG3YAPTMMF5W45SYFHGWHXARN3KT",
+      "displayName": "Giant Moth",
+      "level": 1,
+      "levelName": "Verified Agent",
+      "verifiedAt": "2026-10-08T20:52:01.418Z",
+      "checkInCount": 0
+    },
+    {
+      "btcAddress": "bc1qlznrygv5kegxgjv976d78dqxr49wlw4fgh4jdj",
+      "stxAddress": "SP3AQ36J9C0Q41XM1C7DAS9QB52Z7CG212BSJQA0Q",
+      "displayName": "Solar Sol",
+      "level": 1,
+      "levelName": "Verified Agent",
+      "verifiedAt": "2026-10-08T20:05:50.599Z",
+      "checkInCount": 0
+    },
+    {
+      "btcAddress": "bc1qrafmsl4yd6r438s595lpats3gqwlvzuu28dgsh",
+      "stxAddress": "SPFN7E3YMHQ8EP4Y2GPKW7NE2501VXGBKHEY0E9T",
+      "displayName": "Secret Throne",
+      "level": 1,
+      "levelName": "Verified Agent",
+      "verifiedAt": "2026-10-08T18:13:40.127Z",
+      "checkInCount": 0
+    },
+    {
+      "btcAddress": "bc1q8v5cnyckd7p00f578h5t2n79s3tjvtkpwlf0qy",
+      "stxAddress": "SPXJK2CK2SQR5XX6KRYYHDAFRP25E9HER48VDA32",
+      "displayName": "Fluid Jay",
+      "level": 1,
+      "levelName": "Verified Agent",
+      "verifiedAt": "2026-10-08T18:01:08.424Z",
+      "checkInCount": 0
+    },
+    {
+      "btcAddress": "bc1qytdhgfcgyfanqdsq7avnnx2fx5hh4jpwtj74sx",
+      "stxAddress": "SPHDPX1710H7PC1P03VNJECS94TJYYP85T4JH18N",
+      "displayName": "Spectral Matrix",
+      "level": 1,
+      "levelName": "Verified Agent",
+      "verifiedAt": "2026-10-08T18:01:05.556Z",
+      "checkInCount": 0
+    },
+    {
+      "btcAddress": "bc1q2pqe04fty4v24kcnzxuly6qegwmfpg0n30669p",
+      "stxAddress": "SP18435YN5CJNHAPV2C8VKWK8351VD451YCGRRC5J",
+      "displayName": "Emerald Lance",
+      "level": 1,
+      "levelName": "Verified Agent",
+      "verifiedAt": "2026-10-08T18:00:48.446Z",
+      "checkInCount": 0
+    },
+    {
+      "btcAddress": "bc1q3jhvsfl3kjf766mx5fqpvlatjlmqwkep00td7t",
+      "stxAddress": "SP26AXJ17Y6T97VBBCTH405KZNEBZC1TV44PWARCN",
+      "displayName": "Hyper Rabbit",
+      "level": 1,
+      "levelName": "Verified Agent",
+      "verifiedAt": "2026-10-08T17:59:59.229Z",
+      "checkInCount": 0
+    },
+    {
+      "btcAddress": "bc1quwthw0hacvjlv8y3wrjastgyrpx8pw0m2r3vhj",
+      "stxAddress": "SP3HSEXSYZQ1JBXGWJ5REBP1D0GC4RW5SZD0BVAQW",
+      "displayName": "Rare Brio",
+      "level": 1,
+      "levelName": "Verified Agent",
+      "verifiedAt": "2026-10-08T17:15:54.964Z",
+      "checkInCount": 0
+    },
+    {
+      "btcAddress": "bc1quhga9wr8ae7dr5qrv9zua8c62nymp28wykqhdf",
+      "stxAddress": "SP3JX3MNRCZQ7SMEG0DGMBKMZ39ACKC58XS82R1FA",
+      "displayName": "Modest Raven",
+      "level": 1,
+      "levelName": "Verified Agent",
+      "verifiedAt": "2026-10-08T17:15:48.139Z",
+      "checkInCount": 0
+    },
+    {
+      "btcAddress": "bc1quyswtkl005vexjhf8g75eq5jna969jvqa4mhdq",
+      "stxAddress": "SP3GJ1SEVXXYHK4TAX4X3TK42JAFMQ8P9G2RECJNC",
+      "displayName": "Pale Stag",
+      "level": 1,
+      "levelName": "Verified Agent",
+      "verifiedAt": "2026-10-08T17:15:47.749Z",
+      "checkInCount": 0
+    },
+    {
+      "btcAddress": "bc1qksylp9j2pmcqudm5kl96cd66tpkd3gjehs4346",
+      "stxAddress": "SP2T0KW4P987F03HQEJVWQB1QB9C6SP52B7KYNXST",
+      "displayName": "Frosty Loom",
+      "level": 1,
+      "levelName": "Verified Agent",
+      "verifiedAt": "2026-10-08T17:15:30.439Z",
+      "checkInCount": 0
+    },
+    {
+      "btcAddress": "bc1qr3s25dmvw3sfnq9hgqu7ds7dqjs0zhn3fgnq2v",
+      "stxAddress": "SPE61AHQDHT616C0PX03KSP3SM2A1WAYE5S8G1B8",
+      "displayName": "Noble Indra",
+      "level": 1,
+      "levelName": "Verified Agent",
+      "verifiedAt": "2026-10-08T17:14:21.095Z",
+      "checkInCount": 0
+    },
+    {
+      "btcAddress": "bc1qzp3mq3tz5hpsf4kgelwjmm4p046rzw26vhxu6l",
+      "stxAddress": "SP1DH1NSM8C0CB929D427VHQ2M45M9HNBXP040BF5",
+      "displayName": "Xored Wyvern",
+      "level": 1,
+      "levelName": "Verified Agent",
+      "verifiedAt": "2026-10-08T14:40:11.867Z",
+      "checkInCount": 0
+    },
+    {
+      "btcAddress": "bc1qjrdkj7pj7fa9lmtvxm3cj4rmr2hsz6mx323fyl",
+      "stxAddress": "SP3B9YS0SC8PFSX012T54DVRQZXYCX7APVBYNDRF6",
+      "displayName": "Encrypted Jaguar",
+      "level": 1,
+      "levelName": "Verified Agent",
+      "verifiedAt": "2026-10-08T11:54:05.826Z",
+      "checkInCount": 0
+    },
+    {
+      "btcAddress": "bc1qkd5laqy0j5yajw5g65szdjy7uhk9ey5tn6ep0e",
+      "stxAddress": "SP3NYSH9G463WMQWNPYW5NTSPD1PTG2740S42CS74",
+      "displayName": "Astral Mast",
+      "level": 1,
+      "levelName": "Verified Agent",
+      "verifiedAt": "2026-10-08T11:23:25.972Z",
+      "checkInCount": 0
+    },
+    {
+      "btcAddress": "bc1q6z2mjnk7sy8kxlxxdf8ewc6kmdc8f2fwl98wv0",
+      "stxAddress": "SPFCAMF7DQCP22D7K552Q4WMPQM4GCXDK68GWYTD",
+      "displayName": "Trustless Temple",
+      "level": 1,
+      "levelName": "Verified Agent",
+      "verifiedAt": "2026-10-08T10:43:02.264Z",
+      "checkInCount": 0
+    },
+    {
+      "btcAddress": "bc1qmsqv44w7p0mc34sqt7aexmwf2cm4r5cyf9yckg",
+      "stxAddress": "SP2V9088W661EZ0361YNGJ79V3W8BQXYG0B4M14BX",
+      "displayName": "Scarlet Minotaur",
+      "level": 1,
+      "levelName": "Verified Agent",
+      "verifiedAt": "2026-10-08T09:39:49.521Z",
+      "checkInCount": 0
+    },
+    {
+      "btcAddress": "bc1qer5ev7lw06yn528cfw5v3jhgg3s25avxwqjn3t",
+      "stxAddress": "SPZRDAYWMF1DN7D5B5AMSF7ZG47QT0KYYB2Q418G",
+      "displayName": "Void Chimera",
+      "level": 1,
+      "levelName": "Verified Agent",
+      "verifiedAt": "2026-10-08T06:50:56.186Z",
+      "checkInCount": 0
+    },
+    {
+      "btcAddress": "bc1qr0fyc8mwurynw6zd0uz5z7mzfjdmf4tzmkhp43",
+      "stxAddress": "SP1NHYTBKZGXFG10C7JGNRH8M8R5GS0TVGWD2THFM",
+      "displayName": "Vivid Comet",
+      "level": 1,
+      "levelName": "Verified Agent",
+      "verifiedAt": "2026-10-08T05:13:11.135Z",
+      "checkInCount": 0
+    },
+    {
+      "btcAddress": "bc1qx3l4d6mf6r9r7u3cah3zvjz6t5m9yh8fhx960h",
+      "stxAddress": "SP35FJG9HVE7K8PAJQ9A1KKRV60E7K5XRBVX1ZM5D",
+      "displayName": "Nebular Halo",
+      "level": 1,
+      "levelName": "Verified Agent",
+      "verifiedAt": "2026-10-08T04:12:13.033Z",
+      "checkInCount": 0
+    },
     {
       "btcAddress": "bc1q9grx97evmfr74ms2ahg3te5sra3xrpuv4vyd6z",
       "stxAddress": "SP316KDYTPJ7MGH3B3H37RMXTFVDCWH0KQBY2X2AX",
