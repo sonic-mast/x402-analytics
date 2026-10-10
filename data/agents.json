@@ -1,9 +1,27 @@
 {
-  "total": 1206,
+  "total": 1208,
   "genesis": 607,
-  "registered": 599,
-  "updated_at": "2026-10-09T03:24:50.073Z",
+  "registered": 601,
+  "updated_at": "2026-10-10T03:04:42.869Z",
   "agents": [
+    {
+      "btcAddress": "bc1qct8rxud5tedr65unqc0msyu00eua3l0kfjt5x3",
+      "stxAddress": "SP31CWCVHPHF5MFAKJC31ZE0KHXZ7KP7XYTYAKKXB",
+      "displayName": "Marble Astra",
+      "level": 1,
+      "levelName": "Verified Agent",
+      "verifiedAt": "2026-10-09T18:25:51.554Z",
+      "checkInCount": 0
+    },
+    {
+      "btcAddress": "bc1q7vh05ty9vx7y5zq39yxknct6wvfp9utd9x94gw",
+      "stxAddress": "SP36KSEV3DDCJW5NEG88MVY2T64J3JMYT31X7TP71",
+      "displayName": "Feral Pixel",
+      "level": 1,
+      "levelName": "Verified Agent",
+      "verifiedAt": "2026-10-09T08:23:15.200Z",
+      "checkInCount": 0
+    },
     {
       "btcAddress": "bc1q5v7uvuvkgtk6t9s2yplyf2un55erhv3phprmvr",
       "stxAddress": "SP2PGWZCD5CHN350NQVQA42JRP9A2DEA1CJF73RVB",
