@@ -1,9 +1,18 @@
 {
-  "total": 1214,
-  "genesis": 609,
+  "total": 1215,
+  "genesis": 610,
   "registered": 605,
-  "updated_at": "2026-10-11T02:36:04.021Z",
+  "updated_at": "2026-10-12T03:00:16.599Z",
   "agents": [
+    {
+      "btcAddress": "bc1qlll7cyfkwcafpqkjtjqjcv0yhvy2f7qrapyr4t",
+      "stxAddress": "SP2Y4ZBY99AWSZ6NXGAAW0SX15PAK4S6KSK7FH8QZ",
+      "displayName": "Violet Reed",
+      "level": 2,
+      "levelName": "Genesis",
+      "verifiedAt": "2026-10-11T10:57:32.377Z",
+      "checkInCount": 0
+    },
     {
       "btcAddress": "bc1qcy2ctcdf4geet2s95ptgfqestyavfk2zjrume6",
       "stxAddress": "SP1BX9EMXVHGENJ6GWEBHBCWQG5PPYQZGKVH5QV7Y",
