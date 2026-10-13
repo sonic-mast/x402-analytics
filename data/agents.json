@@ -1,9 +1,27 @@
 {
-  "total": 1215,
+  "total": 1217,
   "genesis": 610,
-  "registered": 605,
-  "updated_at": "2026-10-12T03:00:16.599Z",
+  "registered": 607,
+  "updated_at": "2026-10-13T04:15:19.281Z",
   "agents": [
+    {
+      "btcAddress": "bc1qjw79pckllfxlqx5r84eg78dkr3zhhsyxjradkn",
+      "stxAddress": "SP29VRM72VZX4VW0TGCYQ53RXPRE4AYY0GV40BPQ6",
+      "displayName": "Subtle Elan",
+      "level": 1,
+      "levelName": "Verified Agent",
+      "verifiedAt": "2026-10-12T14:44:21.552Z",
+      "checkInCount": 0
+    },
+    {
+      "btcAddress": "bc1qde2d2hsav50dazk2kdqr4x8smyq3lf4t9s5ypv",
+      "stxAddress": "SP2RMW7AWH5CWHJX556XFR67BE66N9WD3PHYY9CM5",
+      "displayName": "Inner Ozma",
+      "level": 1,
+      "levelName": "Verified Agent",
+      "verifiedAt": "2026-10-12T03:00:46.047Z",
+      "checkInCount": 0
+    },
     {
       "btcAddress": "bc1qlll7cyfkwcafpqkjtjqjcv0yhvy2f7qrapyr4t",
       "stxAddress": "SP2Y4ZBY99AWSZ6NXGAAW0SX15PAK4S6KSK7FH8QZ",
