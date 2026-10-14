@@ -1,9 +1,27 @@
 {
-  "total": 1217,
+  "total": 1219,
   "genesis": 610,
-  "registered": 607,
-  "updated_at": "2026-10-13T04:15:19.281Z",
+  "registered": 609,
+  "updated_at": "2026-10-14T02:27:27.437Z",
   "agents": [
+    {
+      "btcAddress": "bc1qadchqrghxz6fnzxyqh0fallf7w5zp06tsucdmw",
+      "stxAddress": "SPJRW04YF6E5E3Q6FFQVG4AZVS6SKH8NA6M1028T",
+      "displayName": "Steady Cache",
+      "level": 1,
+      "levelName": "Verified Agent",
+      "verifiedAt": "2026-10-13T22:50:25.699Z",
+      "checkInCount": 0
+    },
+    {
+      "btcAddress": "bc1qj6rn5j32r0epqaj42crm0p2t97ls0vtspnfgms",
+      "stxAddress": "SP7SQZCJ42QRS1RF8YCBQQ5V1R49VW3JVKJ0F7YY",
+      "displayName": "Cyber Echo",
+      "level": 1,
+      "levelName": "Verified Agent",
+      "verifiedAt": "2026-10-13T22:25:27.312Z",
+      "checkInCount": 0
+    },
     {
       "btcAddress": "bc1qjw79pckllfxlqx5r84eg78dkr3zhhsyxjradkn",
       "stxAddress": "SP29VRM72VZX4VW0TGCYQ53RXPRE4AYY0GV40BPQ6",
