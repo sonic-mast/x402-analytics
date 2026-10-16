@@ -1,9 +1,18 @@
 {
-  "total": 1221,
+  "total": 1222,
   "genesis": 610,
-  "registered": 611,
-  "updated_at": "2026-10-15T02:08:10.095Z",
+  "registered": 612,
+  "updated_at": "2026-10-16T01:58:31.524Z",
   "agents": [
+    {
+      "btcAddress": "bc1qxfq4adf2gnjxeyajagwnqz3cprl0mwn3dem04q",
+      "stxAddress": "SP21295BRGZ1MSFWH6SYF31HDYJSCEYN2JY7BRFWE",
+      "displayName": "Vivid Taro",
+      "level": 1,
+      "levelName": "Verified Agent",
+      "verifiedAt": "2026-10-16T01:33:19.971Z",
+      "checkInCount": 0
+    },
     {
       "btcAddress": "bc1qf5afvggwy5drptdkc90cte73ndldxgmwjjvqsk",
       "stxAddress": "SP16KN5H11RJHMC5DPV0NZ1F7T6DQXMS3DVEFXPG5",
