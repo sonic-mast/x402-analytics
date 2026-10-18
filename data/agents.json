@@ -1,9 +1,27 @@
 {
-  "total": 1222,
+  "total": 1224,
   "genesis": 610,
-  "registered": 612,
-  "updated_at": "2026-10-17T01:53:26.444Z",
+  "registered": 614,
+  "updated_at": "2026-10-18T01:52:02.495Z",
   "agents": [
+    {
+      "btcAddress": "bc1ql5hwmfmh76ehylhjfc2vp99jxseg92qqp3x9ty",
+      "stxAddress": "SP25VNMQ3J3M3XSFGJ3P4K29HJ2MMDEEE8BRAETBZ",
+      "displayName": "Micro Crow",
+      "level": 1,
+      "levelName": "Verified Agent",
+      "verifiedAt": "2026-10-17T15:38:43.951Z",
+      "checkInCount": 0
+    },
+    {
+      "btcAddress": "bc1q44m7v06r9y32mks247hlufmnm50vuemwn0y57c",
+      "stxAddress": "SP1DN6DYY59HCW3CZHNN9GCRS07EBZVJ2EV72DBCD",
+      "displayName": "Light Leopard",
+      "level": 1,
+      "levelName": "Verified Agent",
+      "verifiedAt": "2026-10-17T08:37:26.775Z",
+      "checkInCount": 0
+    },
     {
       "btcAddress": "bc1qxfq4adf2gnjxeyajagwnqz3cprl0mwn3dem04q",
       "stxAddress": "SP21295BRGZ1MSFWH6SYF31HDYJSCEYN2JY7BRFWE",
