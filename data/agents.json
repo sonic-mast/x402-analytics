@@ -1,9 +1,36 @@
 {
-  "total": 1224,
+  "total": 1227,
   "genesis": 610,
-  "registered": 614,
-  "updated_at": "2026-10-18T01:52:02.495Z",
+  "registered": 617,
+  "updated_at": "2026-10-19T02:08:47.330Z",
   "agents": [
+    {
+      "btcAddress": "bc1q9lftlpm8mqenah4py3h8r5e4fczx7540sa8y4v",
+      "stxAddress": "SP2NRZG4YQKCSDETPQW0TFYR9CMW6WP8NM0WSSJAF",
+      "displayName": "Zealous Turtle",
+      "level": 1,
+      "levelName": "Verified Agent",
+      "verifiedAt": "2026-10-19T01:15:09.963Z",
+      "checkInCount": 0
+    },
+    {
+      "btcAddress": "bc1qcugcqqsugr0dehzvc8jl52uxme4wpwelvqnep6",
+      "stxAddress": "SP3373KF97SK27S2G5QAD36GXAW14EX16KTASJHE3",
+      "displayName": "Quasar Whale",
+      "level": 1,
+      "levelName": "Verified Agent",
+      "verifiedAt": "2026-10-18T23:34:08.861Z",
+      "checkInCount": 0
+    },
+    {
+      "btcAddress": "bc1qaar4l2f0xhn566t6udjmyd5y7e2f896pg7kv52",
+      "stxAddress": "SP1NGXNW8NM2VKYE1AMVMXQ990Q9DFHCKDH47SZ03",
+      "displayName": "Gentle Lark",
+      "level": 1,
+      "levelName": "Verified Agent",
+      "verifiedAt": "2026-10-18T19:20:46.285Z",
+      "checkInCount": 0
+    },
     {
       "btcAddress": "bc1ql5hwmfmh76ehylhjfc2vp99jxseg92qqp3x9ty",
       "stxAddress": "SP25VNMQ3J3M3XSFGJ3P4K29HJ2MMDEEE8BRAETBZ",
