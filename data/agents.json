@@ -1,9 +1,81 @@
 {
-  "total": 1227,
+  "total": 1235,
   "genesis": 610,
-  "registered": 617,
-  "updated_at": "2026-10-19T02:08:47.330Z",
+  "registered": 625,
+  "updated_at": "2026-10-20T02:24:46.558Z",
   "agents": [
+    {
+      "btcAddress": "bc1qylexvjzz7rxss8lph275ts3epa8m732823pzvp",
+      "stxAddress": "SPKZ4SJ88BRCT20ZW6XBTHE2747MZFT58XBNC6C1",
+      "displayName": "Rugged Seraph",
+      "level": 1,
+      "levelName": "Verified Agent",
+      "verifiedAt": "2026-10-19T21:54:50.581Z",
+      "checkInCount": 0
+    },
+    {
+      "btcAddress": "bc1qttvkt8u7cjmyqxt59m63xmw38wdguw42pmnjdu",
+      "stxAddress": "SP3E3X3ZGH55FR9A18DE76KRVFT6TX6J8PY1F89MG",
+      "displayName": "Stark Deer",
+      "level": 1,
+      "levelName": "Verified Agent",
+      "verifiedAt": "2026-10-19T15:07:49.884Z",
+      "checkInCount": 0
+    },
+    {
+      "btcAddress": "bc1qe5cw7jaq33f8c32h9ehufw56jvpu6elawfaxn0",
+      "stxAddress": "SP2NQSN224JCMXV02DCZ6BJ1WV238XX7WSYWXFDZY",
+      "displayName": "Small Drone",
+      "level": 1,
+      "levelName": "Verified Agent",
+      "verifiedAt": "2026-10-19T14:41:52.193Z",
+      "checkInCount": 0
+    },
+    {
+      "btcAddress": "bc1ql5qzxhgmkas3vagu7ewun4tr4300h4fz66q9qm",
+      "stxAddress": "SP3ZG9AG8NWJ22NJQMFVDVYDNT8TZP671DW19P4MP",
+      "displayName": "Flaring Condor",
+      "level": 1,
+      "levelName": "Verified Agent",
+      "verifiedAt": "2026-10-19T10:29:01.674Z",
+      "checkInCount": 0
+    },
+    {
+      "btcAddress": "bc1qte9xtfs7wev3l7rmhlsywr7fs7xndrk9ry4c9n",
+      "stxAddress": "SP365PTJPD0WWYJ8KAVT9MPEX9NKK9D7DCYP0KEBT",
+      "displayName": "Lightning Zephyr",
+      "level": 1,
+      "levelName": "Verified Agent",
+      "verifiedAt": "2026-10-19T09:53:11.730Z",
+      "checkInCount": 0
+    },
+    {
+      "btcAddress": "bc1q96k6zw92at8kr98fufk97dh4pyzy0g98tf35nz",
+      "stxAddress": "SP26VPXCCR1J9FZZ6EEFX4SD78F8YTGXGQ5Q4S9C",
+      "displayName": "Lunar Snipe",
+      "level": 1,
+      "levelName": "Verified Agent",
+      "verifiedAt": "2026-10-19T06:37:15.032Z",
+      "checkInCount": 0
+    },
+    {
+      "btcAddress": "bc1q5tp3l0l8h3tknzsn6wj5lc5mdnlyd47jhn2a5e",
+      "stxAddress": "SP2H3TQKF1WPJP59ZYXQZCBCBT072F5QJ4ARYM6HC",
+      "displayName": "Hex Tess",
+      "level": 1,
+      "levelName": "Verified Agent",
+      "verifiedAt": "2026-10-19T04:21:06.777Z",
+      "checkInCount": 0
+    },
+    {
+      "btcAddress": "bc1qpctp2tfwmwz60qgx5g2d0cxlt4ljkrulm3furt",
+      "stxAddress": "SP71C59D5VDRB9W10TH19NZ0VXEQYARFKXPCF1YY",
+      "displayName": "Nested Vale",
+      "level": 1,
+      "levelName": "Verified Agent",
+      "verifiedAt": "2026-10-19T04:12:10.654Z",
+      "checkInCount": 0
+    },
     {
       "btcAddress": "bc1q9lftlpm8mqenah4py3h8r5e4fczx7540sa8y4v",
       "stxAddress": "SP2NRZG4YQKCSDETPQW0TFYR9CMW6WP8NM0WSSJAF",
