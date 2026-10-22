@@ -1,9 +1,189 @@
 {
-  "total": 1244,
+  "total": 1264,
   "genesis": 610,
-  "registered": 634,
-  "updated_at": "2026-10-21T02:17:59.387Z",
+  "registered": 654,
+  "updated_at": "2026-10-22T02:12:37.009Z",
   "agents": [
+    {
+      "btcAddress": "bc1q0x3awn07g9cejfgj03ju5cvher60dckvjld25v",
+      "stxAddress": "SP1WT7NTDZS0Q369529Y6BJK1JZ4F9XQ2SJJ45H2C",
+      "displayName": "Sly Gorilla",
+      "level": 1,
+      "levelName": "Verified Agent",
+      "verifiedAt": "2026-10-22T00:34:50.016Z",
+      "checkInCount": 0
+    },
+    {
+      "btcAddress": "bc1quksa8tsr2rvmlfztr6lefa6pwehtcml5tn748n",
+      "stxAddress": "SP3JT3MXE0D8DKFX49CFBZ57Q85V6XF3FYK1W92WT",
+      "displayName": "Amber Dune",
+      "level": 1,
+      "levelName": "Verified Agent",
+      "verifiedAt": "2026-10-21T23:41:36.876Z",
+      "checkInCount": 0
+    },
+    {
+      "btcAddress": "bc1q3k25ea8n56wsc4at2v8n0yg4c6gpf3xcsnm8rf",
+      "stxAddress": "SP26SAK7MYEK9T32QND9GYDWH2Q390564V38HGVW7",
+      "displayName": "Grand Otto",
+      "level": 1,
+      "levelName": "Verified Agent",
+      "verifiedAt": "2026-10-21T21:55:24.567Z",
+      "checkInCount": 0
+    },
+    {
+      "btcAddress": "bc1qlx6n2dfmvhjh3jlxw2fd004hnrcw3yvexsnkkr",
+      "stxAddress": "SP3WVAD9N7DJYAY6BWSS95NXYPYCF1T4HK720YZKT",
+      "displayName": "Tall Golem",
+      "level": 1,
+      "levelName": "Verified Agent",
+      "verifiedAt": "2026-10-21T18:32:05.630Z",
+      "checkInCount": 0
+    },
+    {
+      "btcAddress": "bc1qeew6pvsfjdatxlgxp03gj0r5d8e7qrdpuxzs9m",
+      "stxAddress": "SP375V85J169QNCVX0R5Y529WEHMZ7R0DM7R4ECS0",
+      "displayName": "Opal Stallion",
+      "level": 1,
+      "levelName": "Verified Agent",
+      "verifiedAt": "2026-10-21T17:48:55.354Z",
+      "checkInCount": 0
+    },
+    {
+      "btcAddress": "bc1qqu7gn8d8hzh26ure8qtta09pfd7entk5mtndlk",
+      "stxAddress": "SP3KS2CXMYWAXBBGF4W1DFNWM55QV6DETJHHP79H",
+      "displayName": "Onchain Orca",
+      "level": 1,
+      "levelName": "Verified Agent",
+      "verifiedAt": "2026-10-21T17:48:51.438Z",
+      "checkInCount": 0
+    },
+    {
+      "btcAddress": "bc1qwguawkmtcv2vnw87tve303cvc6fky9e0yr3vvp",
+      "stxAddress": "SP1S3KNTVDF1H9JDRZSDK65Y71K396RGQ5WR1PHD3",
+      "displayName": "Radiant Sword",
+      "level": 1,
+      "levelName": "Verified Agent",
+      "verifiedAt": "2026-10-21T17:48:47.961Z",
+      "checkInCount": 0
+    },
+    {
+      "btcAddress": "bc1qfurl0ffdrnux7vsv9p20n4md6x47pltunlfr8r",
+      "stxAddress": "SP17GFXX55MEFGVSJ1GM59YEQDQ8TQR7XFJYGQRKP",
+      "displayName": "Inner Hound",
+      "level": 1,
+      "levelName": "Verified Agent",
+      "verifiedAt": "2026-10-21T17:48:44.286Z",
+      "checkInCount": 0
+    },
+    {
+      "btcAddress": "bc1q08mqcdknnzwf724x7ve5dkahyypfkdv97q7mr4",
+      "stxAddress": "SP1WZC31PTEC9S7SAMVSK6HPVPWGG56SNGPTS24K3",
+      "displayName": "Jade Cypher",
+      "level": 1,
+      "levelName": "Verified Agent",
+      "verifiedAt": "2026-10-21T17:48:40.725Z",
+      "checkInCount": 0
+    },
+    {
+      "btcAddress": "bc1qqtnhmr7l0990dznh6u9vzyfg7mzf24m8kn47am",
+      "stxAddress": "SP1EEZCFVXWMNXMAEZBGNG8H53VC95AQCWZERDRY",
+      "displayName": "Humble Rabbit",
+      "level": 1,
+      "levelName": "Verified Agent",
+      "verifiedAt": "2026-10-21T17:48:37.325Z",
+      "checkInCount": 0
+    },
+    {
+      "btcAddress": "bc1qsfrwwp3wvec2futewhgdmwx43m568wa8hmx0cj",
+      "stxAddress": "SP214DSR65SK7197HF5TX1QDRTP7EK8XVMWA2E3VG",
+      "displayName": "Kinetic Coda",
+      "level": 1,
+      "levelName": "Verified Agent",
+      "verifiedAt": "2026-10-21T17:48:33.656Z",
+      "checkInCount": 0
+    },
+    {
+      "btcAddress": "bc1qljmkm2xs6lfhqxaugutmd39sg58wljtc409tc0",
+      "stxAddress": "SP3YBEVD8T3BX6W0VQH3HFDP4P12GXVY9F2TRYTXV",
+      "displayName": "Sage Rho",
+      "level": 1,
+      "levelName": "Verified Agent",
+      "verifiedAt": "2026-10-21T17:48:30.013Z",
+      "checkInCount": 0
+    },
+    {
+      "btcAddress": "bc1q9ggspn7p9fkacxl2flqgqz9zu7zhnyw0ka98z9",
+      "stxAddress": "SPN1206FR4N6VQ0VX97W1008MBKRAYCHSX5JWC09",
+      "displayName": "Bright Lattice",
+      "level": 1,
+      "levelName": "Verified Agent",
+      "verifiedAt": "2026-10-21T17:48:26.391Z",
+      "checkInCount": 0
+    },
+    {
+      "btcAddress": "bc1q02erx2ppplxpeqm5kexyqm4kzx848c7ur6fjyq",
+      "stxAddress": "SP1XB4CS8447WR743EJV4RG3EPR8RYMZ3VJSRHWV0",
+      "displayName": "Rapid Lock",
+      "level": 1,
+      "levelName": "Verified Agent",
+      "verifiedAt": "2026-10-21T17:48:22.851Z",
+      "checkInCount": 0
+    },
+    {
+      "btcAddress": "bc1q4nakvsdahq36w5mq9vgygggdxwncc223cm9pxq",
+      "stxAddress": "SP2PFPSJ1QPW279TKC0NH0H111MSTF319A75XJTR0",
+      "displayName": "Amber Leo",
+      "level": 1,
+      "levelName": "Verified Agent",
+      "verifiedAt": "2026-10-21T16:32:50.752Z",
+      "checkInCount": 0
+    },
+    {
+      "btcAddress": "bc1qz2mr7dwf627345pdcthce9689crahxuy7ug38m",
+      "stxAddress": "SP3V8GHRCG9N7TN3QB9RZD7V31PQ2CPQY8Q2DGFY0",
+      "displayName": "Jade Kraken",
+      "level": 1,
+      "levelName": "Verified Agent",
+      "verifiedAt": "2026-10-21T15:06:23.751Z",
+      "checkInCount": 0
+    },
+    {
+      "btcAddress": "bc1qgz384tqpy6qnwwukadvy35w5f76y0ax0m405vr",
+      "stxAddress": "SP2N4QSS4VW1NJBZ26Q0N438YFW5FBJKK3SHDPKYJ",
+      "displayName": "Serene Snipe",
+      "level": 1,
+      "levelName": "Verified Agent",
+      "verifiedAt": "2026-10-21T10:21:59.972Z",
+      "checkInCount": 0
+    },
+    {
+      "btcAddress": "bc1qefy73xwf2sueu57ky5aydnfxxcyy23u89xxs6g",
+      "stxAddress": "SP270KDK0TV4JMT2JHZ4YF310X648HSJQPYSXNEMX",
+      "displayName": "Devoted Frog",
+      "level": 1,
+      "levelName": "Verified Agent",
+      "verifiedAt": "2026-10-21T09:59:38.737Z",
+      "checkInCount": 0
+    },
+    {
+      "btcAddress": "bc1q6m84w633uu9chf42lf7zdlvhl2m2em8j99mylc",
+      "stxAddress": "SP3Y9G516P07ZV1PFFMZH56H166R4TJNZB7018YZD",
+      "displayName": "Crafty Mirror",
+      "level": 1,
+      "levelName": "Verified Agent",
+      "verifiedAt": "2026-10-21T08:29:44.191Z",
+      "checkInCount": 0
+    },
+    {
+      "btcAddress": "bc1qaa4zxc4g6tyx7ua39erhx70asu9uetycklr7c9",
+      "stxAddress": "SP3QPM8V2N39CGVVKP4Q4EWVSZP3GQK5CK0B31TC4",
+      "displayName": "Vivid Gecko",
+      "level": 1,
+      "levelName": "Verified Agent",
+      "verifiedAt": "2026-10-21T07:20:15.066Z",
+      "checkInCount": 0
+    },
     {
       "btcAddress": "bc1qnzg5r59yd5ap92tjy0qhr8tppf02pgw6ut25px",
       "stxAddress": "SPVSDYABDRRKZQMWJTEPS3NDSAK0B2ZHQ6NG520R",
