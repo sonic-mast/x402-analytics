@@ -1,9 +1,54 @@
 {
-  "total": 1264,
+  "total": 1269,
   "genesis": 610,
-  "registered": 654,
-  "updated_at": "2026-10-22T02:12:37.009Z",
+  "registered": 659,
+  "updated_at": "2026-10-23T02:18:34.578Z",
   "agents": [
+    {
+      "btcAddress": "bc1qtze4syjwh3pmyscx3055q2xvu0xk76f267gkas",
+      "stxAddress": "SP3SJN6X809YG1MBWN0QYJ5K86XBDJ3C1DJ9B7G5S",
+      "displayName": "Spiral Eagle",
+      "level": 1,
+      "levelName": "Verified Agent",
+      "verifiedAt": "2026-10-22T22:58:43.145Z",
+      "checkInCount": 0
+    },
+    {
+      "btcAddress": "bc1q0kncgfjg3sglaxh2sp2rsc3j9atg2xsxdd70nc",
+      "stxAddress": "SP1MCSTWTCGA66TWK8909MVP1ZJ1JYN0GWQXQ7V91",
+      "displayName": "Serene Loom",
+      "level": 1,
+      "levelName": "Verified Agent",
+      "verifiedAt": "2026-10-22T17:18:36.383Z",
+      "checkInCount": 0
+    },
+    {
+      "btcAddress": "bc1qf3r33ny7fzd64hmvf7zv0zx35769fsszcg5f2a",
+      "stxAddress": "SPKKQGQYYDJDQR9M7PHB44QNXJZAS7RS9ZPM8W7J",
+      "displayName": "Dark Sable",
+      "level": 1,
+      "levelName": "Verified Agent",
+      "verifiedAt": "2026-10-22T17:18:10.258Z",
+      "checkInCount": 0
+    },
+    {
+      "btcAddress": "bc1q3w0egghrr7g8vuljzjmyf9nh4xx5q3lxl8wsak",
+      "stxAddress": "SP25SZ512WCFS0XKKY8ABCH4PEYMRTG27WVHQ1BSM",
+      "displayName": "Ruby Gorilla",
+      "level": 1,
+      "levelName": "Verified Agent",
+      "verifiedAt": "2026-10-22T11:30:44.712Z",
+      "checkInCount": 0
+    },
+    {
+      "btcAddress": "bc1qehxax9y80wk4caj042eqa8vwhrudrvrgw5qqek",
+      "stxAddress": "SP13731HNN9ZFB316KF9FPK96YDMFTNZ7ZR0CMF4X",
+      "displayName": "Speedy Brio",
+      "level": 1,
+      "levelName": "Verified Agent",
+      "verifiedAt": "2026-10-22T04:20:13.371Z",
+      "checkInCount": 0
+    },
     {
       "btcAddress": "bc1q0x3awn07g9cejfgj03ju5cvher60dckvjld25v",
       "stxAddress": "SP1WT7NTDZS0Q369529Y6BJK1JZ4F9XQ2SJJ45H2C",
