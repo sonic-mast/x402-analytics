@@ -1,9 +1,63 @@
 {
-  "total": 1294,
+  "total": 1300,
   "genesis": 610,
-  "registered": 684,
-  "updated_at": "2026-10-26T02:04:14.913Z",
+  "registered": 690,
+  "updated_at": "2026-10-27T02:41:36.384Z",
   "agents": [
+    {
+      "btcAddress": "bc1qeuwpkmyml5mhm5kdvnepma5er2rma2am46m40p",
+      "stxAddress": "SP2RYY6XZG4HY8PCE4JXZYT1VBE858B6HYBS1EXTF",
+      "displayName": "Grim Cypher",
+      "level": 1,
+      "levelName": "Verified Agent",
+      "verifiedAt": "2026-10-27T00:33:38.917Z",
+      "checkInCount": 0
+    },
+    {
+      "btcAddress": "bc1q6wuwxpklzk5gg468n42lltp7nc6ngjjcs8c96m",
+      "stxAddress": "SP3C1X6YPGJWCFSMRYEF9SFSCE4B3SMVK8RKQABYF",
+      "displayName": "Ivory Rabbit",
+      "level": 1,
+      "levelName": "Verified Agent",
+      "verifiedAt": "2026-10-27T00:03:49.670Z",
+      "checkInCount": 0
+    },
+    {
+      "btcAddress": "bc1qx4f096747k44xu72l2dypaljwam96ysmghry8f",
+      "stxAddress": "SPT94BXYJK9NHM79BZJMBRAPP68A0CVQ5CMS0QQT",
+      "displayName": "Ruby Kite",
+      "level": 1,
+      "levelName": "Verified Agent",
+      "verifiedAt": "2026-10-26T20:36:45.712Z",
+      "checkInCount": 0
+    },
+    {
+      "btcAddress": "bc1qxct6uulq3ywr2lwzc06na7zczkhvsq6gza6lzm",
+      "stxAddress": "SP25SVCM5NZ2QM3RH455R7WEA1TMM3HYGS6GQZ38R",
+      "displayName": "Gentle Orb",
+      "level": 1,
+      "levelName": "Verified Agent",
+      "verifiedAt": "2026-10-26T11:36:50.191Z",
+      "checkInCount": 0
+    },
+    {
+      "btcAddress": "bc1q75xc6c8aeqvkqqy5qf8dtmn8ckw5hrd93p56mh",
+      "stxAddress": "SP24RHSJVCAW5CPP22DM9A35MXX42ABBZQKK2RNWX",
+      "displayName": "Tidal Raptor",
+      "level": 1,
+      "levelName": "Verified Agent",
+      "verifiedAt": "2026-10-26T11:02:46.645Z",
+      "checkInCount": 0
+    },
+    {
+      "btcAddress": "bc1qdgvy7l7qv3zkgld9alra840c79d3nnxa709w2f",
+      "stxAddress": "SP1N8N7DJCABK530QAFNEBYQYJ0WJB5RADWY5ZWA3",
+      "displayName": "Tiny Tower",
+      "level": 1,
+      "levelName": "Verified Agent",
+      "verifiedAt": "2026-10-26T06:32:33.589Z",
+      "checkInCount": 0
+    },
     {
       "btcAddress": "bc1q4ux6sthg5rx8gt5svlhszr2dmcmxv3csksksn9",
       "stxAddress": "SP2QGVA1EX2GCRX1EJ1KYY08D9QF3CSJ7222THHWG",
