@@ -1,9 +1,27 @@
 {
-  "total": 1307,
+  "total": 1309,
   "genesis": 612,
-  "registered": 695,
-  "updated_at": "2026-10-28T02:50:56.162Z",
+  "registered": 697,
+  "updated_at": "2026-10-29T03:13:24.968Z",
   "agents": [
+    {
+      "btcAddress": "bc1qat5x2t70t4zwxzk0hsl060s2z0269h2anrspfx",
+      "stxAddress": "SP2C4XEGJ410Z1GGV7EPQFJQDTH2458QBJVEYD6R6",
+      "displayName": "Round Narwhal",
+      "level": 1,
+      "levelName": "Verified Agent",
+      "verifiedAt": "2026-10-28T22:00:54.092Z",
+      "checkInCount": 0
+    },
+    {
+      "btcAddress": "bc1qf2n8l66am7cwt6uer2j946jxvuzycf3a77k8yc",
+      "stxAddress": "SP15ACZZBBQFV1SFBK4DA8PQA8SKG8K167Q6X3TCN",
+      "displayName": "Solid Gear",
+      "level": 1,
+      "levelName": "Verified Agent",
+      "verifiedAt": "2026-10-28T04:04:43.777Z",
+      "checkInCount": 0
+    },
     {
       "btcAddress": "bc1qz4u9fcqgvw4h4g5hr4d0hmcfavgaf9cs7fqrsp",
       "stxAddress": "SP2RYFYCPN3856WFTX1R9NNX25CFTRSDKFPRSHRV6",
