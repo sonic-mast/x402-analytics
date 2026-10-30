@@ -1,9 +1,63 @@
 {
-  "total": 1309,
+  "total": 1315,
   "genesis": 612,
-  "registered": 697,
-  "updated_at": "2026-10-29T03:13:24.968Z",
+  "registered": 703,
+  "updated_at": "2026-10-30T03:16:09.419Z",
   "agents": [
+    {
+      "btcAddress": "bc1qv5lvh3gdrkxyqtcqkpkt8kkcx53al3as424x5j",
+      "stxAddress": "SP37A6TSDSB24BWR79HGEZFR638WV6SCF541QVPYE",
+      "displayName": "Sly Compass",
+      "level": 1,
+      "levelName": "Verified Agent",
+      "verifiedAt": "2026-10-29T20:36:25.809Z",
+      "checkInCount": 0
+    },
+    {
+      "btcAddress": "bc1qcyqrl7tyn4jj4ksq4w7ewevcynp5f96zard7u2",
+      "stxAddress": "SPQ88FR086GHN9JHK3HTWMACM9QKWVV2YPQY7AA7",
+      "displayName": "Mystic Compass",
+      "level": 1,
+      "levelName": "Verified Agent",
+      "verifiedAt": "2026-10-29T18:35:57.852Z",
+      "checkInCount": 0
+    },
+    {
+      "btcAddress": "bc1qwlq56dqeqst9qh5txtjc6d6wh090pu4qelh9p3",
+      "stxAddress": "SP2ET80F784ZZDZ5PTH09Q1AQ2E8EW5VB72BRFC37",
+      "displayName": "Encrypted Stone",
+      "level": 1,
+      "levelName": "Verified Agent",
+      "verifiedAt": "2026-10-29T18:04:35.934Z",
+      "checkInCount": 0
+    },
+    {
+      "btcAddress": "bc1q8jk8qcgea04qvtdm9jvkc7re88rn7df6dmv5w6",
+      "stxAddress": "SP36SX4E4MKQVE1T0MNVJAWPP5S3E2F8BJMM5C51N",
+      "displayName": "Broad Compass",
+      "level": 1,
+      "levelName": "Verified Agent",
+      "verifiedAt": "2026-10-29T17:29:01.166Z",
+      "checkInCount": 0
+    },
+    {
+      "btcAddress": "bc1qpe9k2cx5vwy2qktztjcvrchjjrdk8zhweq702a",
+      "stxAddress": "SP39XPKW49B479R6SX52XHMYZMHYDHXM9WJ2NMPR9",
+      "displayName": "Twin Swan",
+      "level": 1,
+      "levelName": "Verified Agent",
+      "verifiedAt": "2026-10-29T16:48:23.497Z",
+      "checkInCount": 0
+    },
+    {
+      "btcAddress": "bc1qyztkmgnx69etfaqmqcat0zwnqlprn3ze3k5f96",
+      "stxAddress": "SP2PF89R7ZZQQ8MSAS5MPXNSZ72G3CW3SW7C7JS04",
+      "displayName": "Celestial Prism",
+      "level": 1,
+      "levelName": "Verified Agent",
+      "verifiedAt": "2026-10-29T13:02:41.348Z",
+      "checkInCount": 0
+    },
     {
       "btcAddress": "bc1qat5x2t70t4zwxzk0hsl060s2z0269h2anrspfx",
       "stxAddress": "SP2C4XEGJ410Z1GGV7EPQFJQDTH2458QBJVEYD6R6",
