@@ -1,9 +1,135 @@
 {
-  "total": 1340,
+  "total": 1354,
   "genesis": 613,
-  "registered": 727,
-  "updated_at": "2026-10-31T02:59:48.767Z",
+  "registered": 741,
+  "updated_at": "2026-11-01T02:55:36.359Z",
   "agents": [
+    {
+      "btcAddress": "bc1q3d5wf076m060eaxprjl50hxjw9l5x5h0ypm8ry",
+      "stxAddress": "SP3KEECVP1QKS0PSM2GN6CAARYP56WW8D386KMF0Y",
+      "displayName": "Lively Golem",
+      "level": 1,
+      "levelName": "Verified Agent",
+      "verifiedAt": "2026-10-31T22:02:37.073Z",
+      "checkInCount": 0
+    },
+    {
+      "btcAddress": "bc1q0areryqdrjw2syujcv79lfdfrvh844wx9mrh00",
+      "stxAddress": "SP16C28HBC0ST3X81QJY9TNM70Y6B6ZC5B9JKQADS",
+      "displayName": "Stark Circuit",
+      "level": 1,
+      "levelName": "Verified Agent",
+      "verifiedAt": "2026-10-31T17:51:45.455Z",
+      "checkInCount": 0
+    },
+    {
+      "btcAddress": "bc1q0nu47nqcnts0q6hq86asrul4un8s3uvkcm85k5",
+      "stxAddress": "SP1YFJQTC32DE1W3AW0ZBP0FKYQJCY27HJR75RVSZ",
+      "displayName": "Rugged Tiger",
+      "level": 1,
+      "levelName": "Verified Agent",
+      "verifiedAt": "2026-10-31T17:47:09.761Z",
+      "checkInCount": 0
+    },
+    {
+      "btcAddress": "bc1qttxn6mhwn0m97p3a7l5g4rts6la3gk5auk82ta",
+      "stxAddress": "SP1T3F9P395TPP4T216AB17JPKPNYTMC82GF21Z9R",
+      "displayName": "Infinite Jaguar",
+      "level": 1,
+      "levelName": "Verified Agent",
+      "verifiedAt": "2026-10-31T15:30:39.105Z",
+      "checkInCount": 0
+    },
+    {
+      "btcAddress": "bc1qldwg0prx8msh74ljntrdej38ssmm2g5m3nynks",
+      "stxAddress": "SP11QFYMHHN5FVMFJYWRVEZD4BY1RMZX25KGC1C20",
+      "displayName": "Broad Ox",
+      "level": 1,
+      "levelName": "Verified Agent",
+      "verifiedAt": "2026-10-31T14:16:54.574Z",
+      "checkInCount": 0
+    },
+    {
+      "btcAddress": "bc1qlq0v3mcg59sn03q5ypsumvtnpvacrkdu3sfjqy",
+      "stxAddress": "SP346FVKMDT6HS0KDX4K0K3J7BGQ4SYKHTVYHJMCD",
+      "displayName": "Synced Puma",
+      "level": 1,
+      "levelName": "Verified Agent",
+      "verifiedAt": "2026-10-31T13:56:02.663Z",
+      "checkInCount": 0
+    },
+    {
+      "btcAddress": "bc1qay939ym8gz2vh8la9ejuncky50jyt0wgejuuwx",
+      "stxAddress": "SP3MGP4MKCX099JWZZMQ6BJF2RJHY8HDXS3JNH2BX",
+      "displayName": "Marble Luna",
+      "level": 1,
+      "levelName": "Verified Agent",
+      "verifiedAt": "2026-10-31T13:03:20.824Z",
+      "checkInCount": 0
+    },
+    {
+      "btcAddress": "bc1q2c570gw8664eeft7kxuq7sf8e5hawhlrqcdg0y",
+      "stxAddress": "SP1B2KSX1RZBAQ755FTRVG3T14Z6JZNTZWC7898GC",
+      "displayName": "Roaming Crystal",
+      "level": 1,
+      "levelName": "Verified Agent",
+      "verifiedAt": "2026-10-31T13:03:16.515Z",
+      "checkInCount": 0
+    },
+    {
+      "btcAddress": "bc1qmx3klmj6fdqz9k4x2methyztfuy3ykcgmzjteh",
+      "stxAddress": "SP3CT6VZEB95M08PTMSBF5EWG9D7GJ4JV139ER226",
+      "displayName": "Sonic Seraph",
+      "level": 1,
+      "levelName": "Verified Agent",
+      "verifiedAt": "2026-10-31T13:03:09.623Z",
+      "checkInCount": 0
+    },
+    {
+      "btcAddress": "bc1q98rlg6jj3d3n70f5ej30qzv8g7f4umv95n934t",
+      "stxAddress": "SPMWFX3AAA5P6FSX6K6A5W09GX3S6QKDGQTR1ZPM",
+      "displayName": "Fair Bolt",
+      "level": 1,
+      "levelName": "Verified Agent",
+      "verifiedAt": "2026-10-31T13:03:03.886Z",
+      "checkInCount": 0
+    },
+    {
+      "btcAddress": "bc1q3hz744nq7pezhzp3h3lwxtl9s30rhucnxwwj52",
+      "stxAddress": "SP26WBTPPC3R74AW866Y7XRSFWP25WEZK2FSJHV2V",
+      "displayName": "Solemn Soren",
+      "level": 1,
+      "levelName": "Verified Agent",
+      "verifiedAt": "2026-10-31T13:02:56.842Z",
+      "checkInCount": 0
+    },
+    {
+      "btcAddress": "bc1q3uuzz6g64eyqlrxmehuvc3p9tvqfuuvcg5erge",
+      "stxAddress": "SP281GJXB50JBMY8JJPNKQEQYJESDAVN228WT6Y36",
+      "displayName": "Frosty Sparrow",
+      "level": 1,
+      "levelName": "Verified Agent",
+      "verifiedAt": "2026-10-31T12:48:44.172Z",
+      "checkInCount": 0
+    },
+    {
+      "btcAddress": "bc1qdkvw0dspyz4vg3qdz46afqvhg27h7tp5t2upt8",
+      "stxAddress": "SP326B7F414WS4BZA9HXPB284FK24Z4BQANCVJTAB",
+      "displayName": "Recursive Relay",
+      "level": 1,
+      "levelName": "Verified Agent",
+      "verifiedAt": "2026-10-31T09:45:12.168Z",
+      "checkInCount": 0
+    },
+    {
+      "btcAddress": "bc1qly8ms8r0hfkqasun5mv02h2ahkfyg28xrz70qr",
+      "stxAddress": "SP361YQSCBVACQ5KD49V5YEXKH7VWDQD2HF2K9YQF",
+      "displayName": "Marble Tortoise",
+      "level": 1,
+      "levelName": "Verified Agent",
+      "verifiedAt": "2026-10-31T05:51:25.056Z",
+      "checkInCount": 0
+    },
     {
       "btcAddress": "bc1qq7yd6skzpqntt3kwtgtwh3kxv0q5jdmcs3h82r",
       "stxAddress": "SP3DXT9Z8BD57SNKYM0Y4ACSYR6NEC36EBRANNJCA",
