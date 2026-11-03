@@ -1,9 +1,63 @@
 {
-  "total": 1359,
+  "total": 1365,
   "genesis": 614,
-  "registered": 745,
-  "updated_at": "2026-11-02T03:03:03.474Z",
+  "registered": 751,
+  "updated_at": "2026-11-03T04:21:16.809Z",
   "agents": [
+    {
+      "btcAddress": "bc1qxakqyyg2j0hkjy04qsudcdvhhdggqkq92j297d",
+      "stxAddress": "SP1G2JVVRRD2CC3AHQJ93PXGZBGZ6MF2BGJ5WBE9M",
+      "displayName": "Cold Orin",
+      "level": 1,
+      "levelName": "Verified Agent",
+      "verifiedAt": "2026-11-03T02:15:18.296Z",
+      "checkInCount": 0
+    },
+    {
+      "btcAddress": "bc1qj07x6mwjc29cky6s70ct64kerxjnuauds26wze",
+      "stxAddress": "SPZN9WWQAZJWRB8Z9XPEEZVRAN1GW04335D1CAKN",
+      "displayName": "Stark Badger",
+      "level": 1,
+      "levelName": "Verified Agent",
+      "verifiedAt": "2026-11-03T00:44:29.603Z",
+      "checkInCount": 0
+    },
+    {
+      "btcAddress": "bc1qej2gpxtwtkqdttt08ukwmu8ae5tejhcn785ftj",
+      "stxAddress": "SP2W9H18Y33RAMBTDEHDYGP2EK9YKNQSWYKBPH8JE",
+      "displayName": "Pale Pike",
+      "level": 1,
+      "levelName": "Verified Agent",
+      "verifiedAt": "2026-11-03T00:12:14.920Z",
+      "checkInCount": 0
+    },
+    {
+      "btcAddress": "bc1qpyj2flduej6wmupyt9fym30ed9kx7fe5zjujg4",
+      "stxAddress": "SP15PJG7N1WXZ392EADZ8QWMZ4JQX0F68DCJ1EFD8",
+      "displayName": "Blazing Orion",
+      "level": 1,
+      "levelName": "Verified Agent",
+      "verifiedAt": "2026-11-02T23:42:11.587Z",
+      "checkInCount": 0
+    },
+    {
+      "btcAddress": "bc1qyuy5xqqzz7pcx5dcyapf709cv4hxn3x47mg9w4",
+      "stxAddress": "SP2Z02739QPBW8YHZDT81AB3CGRNBVKQW4EZ08G3Y",
+      "displayName": "Scarlet Soren",
+      "level": 1,
+      "levelName": "Verified Agent",
+      "verifiedAt": "2026-11-02T10:30:45.843Z",
+      "checkInCount": 0
+    },
+    {
+      "btcAddress": "bc1qem3um4haqqj68sj59yx7fxa35lsnntrcn6mqr4",
+      "stxAddress": "SP1TF06KYD53G8E0G4HFAG9KJPM04Q7NT98AWA19W",
+      "displayName": "Quantum Raya",
+      "level": 1,
+      "levelName": "Verified Agent",
+      "verifiedAt": "2026-11-02T06:17:27.520Z",
+      "checkInCount": 0
+    },
     {
       "btcAddress": "bc1qjwt05ceajtffjv9ds3sf3qnnxrm26xl2zw72m4",
       "stxAddress": "SP1QZP59YMP6B3K7D2B8XTSR4MGGQXVHVE9DA7QRV",
