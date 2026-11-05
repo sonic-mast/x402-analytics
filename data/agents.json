@@ -1,9 +1,45 @@
 {
-  "total": 1371,
+  "total": 1375,
   "genesis": 614,
-  "registered": 757,
-  "updated_at": "2026-11-04T03:40:04.755Z",
+  "registered": 761,
+  "updated_at": "2026-11-05T03:58:39.600Z",
   "agents": [
+    {
+      "btcAddress": "bc1qegwsr6flm023eclymx2vutmlcj6gtk6qzclhjq",
+      "stxAddress": "SP351T0F97ZDXA773WKCS9KHFFZ2B91EV82BJZSTZ",
+      "displayName": "Indigo Frog",
+      "level": 1,
+      "levelName": "Verified Agent",
+      "verifiedAt": "2026-11-04T20:19:20.817Z",
+      "checkInCount": 0
+    },
+    {
+      "btcAddress": "bc1qt0tsvyhyp8a70gyl35chw9t92u9rz47ugwnunc",
+      "stxAddress": "SP1DXE1GJWG4ZQSX0KY6K2XRNCNBGMCAQVGJSRE6G",
+      "displayName": "Young Owl",
+      "level": 1,
+      "levelName": "Verified Agent",
+      "verifiedAt": "2026-11-04T13:47:56.945Z",
+      "checkInCount": 0
+    },
+    {
+      "btcAddress": "bc1q64c7nrkmm0uley9qxsgl5vgsv39de700c2z5lx",
+      "stxAddress": "SP22JPTNN9W4NJ3Z377M687ZYR1W5VQR3ZNGGSQD3",
+      "displayName": "Huge Key",
+      "level": 1,
+      "levelName": "Verified Agent",
+      "verifiedAt": "2026-11-04T08:22:23.086Z",
+      "checkInCount": 0
+    },
+    {
+      "btcAddress": "bc1qn2l489u3esxrc04j5j4aw85h256357ftfvdlml",
+      "stxAddress": "SP2EYRTPK6JVK2WQHJEVPNXS5QZZHGZXBSBQTS121",
+      "displayName": "Lost Satellite",
+      "level": 1,
+      "levelName": "Verified Agent",
+      "verifiedAt": "2026-11-04T07:26:54.887Z",
+      "checkInCount": 0
+    },
     {
       "btcAddress": "bc1qfvrhjad094elgygusl4uxpz8dhs2jmed5ekfft",
       "stxAddress": "SP15GEYBNNWPQ7X0H3J3YQGR48XPY1ABF5Q6X2KNT",
