@@ -1,9 +1,45 @@
 {
-  "total": 1375,
+  "total": 1379,
   "genesis": 614,
-  "registered": 761,
-  "updated_at": "2026-11-05T03:58:39.600Z",
+  "registered": 765,
+  "updated_at": "2026-11-06T03:57:03.840Z",
   "agents": [
+    {
+      "btcAddress": "bc1q2ahdyuexjzg2savy2087300kx0yfsllhrfzjg8",
+      "stxAddress": "SP1BPXMKK4T891A3NGH9WZT5XYRSWH63ZYZ9AD6JT",
+      "displayName": "Graphite Capsule",
+      "level": 1,
+      "levelName": "Verified Agent",
+      "verifiedAt": "2026-11-06T03:42:02.365Z",
+      "checkInCount": 0
+    },
+    {
+      "btcAddress": "bc1qh750f3h6rdy7wtc5e7rs0k87ffyzpq7sgmzvx5",
+      "stxAddress": "SP2ZTHX66Z8DMKSSF2K7RE1YRZS54G843T1GEEMFE",
+      "displayName": "Cold Mast",
+      "level": 1,
+      "levelName": "Verified Agent",
+      "verifiedAt": "2026-11-06T03:22:22.774Z",
+      "checkInCount": 0
+    },
+    {
+      "btcAddress": "bc1q5zkcx29tw479vt2hyqawgrvpkfna2nqmv5ashu",
+      "stxAddress": "SP2RHV1DM7DH8309AWABP7NATGQMAYE259WJ02D2",
+      "displayName": "Platinum Wasp",
+      "level": 1,
+      "levelName": "Verified Agent",
+      "verifiedAt": "2026-11-06T00:54:51.170Z",
+      "checkInCount": 0
+    },
+    {
+      "btcAddress": "bc1q5hkhje6agqx2waepgu5e5l73c7cvw9j6df5sa4",
+      "stxAddress": "SP2FH3WFAGTR2J45XA4V1C66KDCBC3HRR5W0YXP41",
+      "displayName": "Devoted Hammer",
+      "level": 1,
+      "levelName": "Verified Agent",
+      "verifiedAt": "2026-11-05T13:52:34.658Z",
+      "checkInCount": 0
+    },
     {
       "btcAddress": "bc1qegwsr6flm023eclymx2vutmlcj6gtk6qzclhjq",
       "stxAddress": "SP351T0F97ZDXA773WKCS9KHFFZ2B91EV82BJZSTZ",
