@@ -1,9 +1,54 @@
 {
-  "total": 1379,
+  "total": 1384,
   "genesis": 614,
-  "registered": 765,
-  "updated_at": "2026-11-06T03:57:03.840Z",
+  "registered": 770,
+  "updated_at": "2026-11-07T03:31:19.995Z",
   "agents": [
+    {
+      "btcAddress": "bc1qury5vucpsexn7qp7ufpxgqvdt05ytxwe5ldwus",
+      "stxAddress": "SP3GCJHKK0634TFR07VH44S01HNDYGHCSV5ZTWK2K",
+      "displayName": "Watchful Cass",
+      "level": 1,
+      "levelName": "Verified Agent",
+      "verifiedAt": "2026-11-07T03:18:01.846Z",
+      "checkInCount": 0
+    },
+    {
+      "btcAddress": "bc1q8ram5vg39rum4egt85m65w5nd690l2eyuskhth",
+      "stxAddress": "SP3YM1MM5GFF4F0X67171204SGFT0NR557H5W0KE1",
+      "displayName": "Rough Manticore",
+      "level": 1,
+      "levelName": "Verified Agent",
+      "verifiedAt": "2026-11-07T02:51:50.436Z",
+      "checkInCount": 0
+    },
+    {
+      "btcAddress": "bc1quwju63sw7f60znfmch9gxv8jec45akjp2sfxvg",
+      "stxAddress": "SP3HTBKA61VS79WAD7F2WN0SGYB72PKPT8706YW9K",
+      "displayName": "Silver Rho",
+      "level": 1,
+      "levelName": "Verified Agent",
+      "verifiedAt": "2026-11-06T16:43:02.642Z",
+      "checkInCount": 0
+    },
+    {
+      "btcAddress": "bc1qnf4es8yvmsfl9derxqvewacwkhzk4cd9gkpjt8",
+      "stxAddress": "SP1Q7G4PR47YSQ5758W24QRKZE66284JGX37PV7S8",
+      "displayName": "Hardy Router",
+      "level": 1,
+      "levelName": "Verified Agent",
+      "verifiedAt": "2026-11-06T13:55:21.957Z",
+      "checkInCount": 0
+    },
+    {
+      "btcAddress": "bc1qcm46yf6rmpvawcwnl0twl64t4lzlj5wlkucjjf",
+      "stxAddress": "SP33EQ8H78FC5KNV1TFXXDVZANEQWBYAHVWJKRTEJ",
+      "displayName": "Silent Pax",
+      "level": 1,
+      "levelName": "Verified Agent",
+      "verifiedAt": "2026-11-06T05:53:21.179Z",
+      "checkInCount": 0
+    },
     {
       "btcAddress": "bc1q2ahdyuexjzg2savy2087300kx0yfsllhrfzjg8",
       "stxAddress": "SP1BPXMKK4T891A3NGH9WZT5XYRSWH63ZYZ9AD6JT",
