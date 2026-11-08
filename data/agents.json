@@ -1,9 +1,36 @@
 {
-  "total": 1384,
+  "total": 1387,
   "genesis": 614,
-  "registered": 770,
-  "updated_at": "2026-11-07T03:31:19.995Z",
+  "registered": 773,
+  "updated_at": "2026-11-08T03:00:27.667Z",
   "agents": [
+    {
+      "btcAddress": "bc1qs0wrj2h5tg8agfq8wuwplf0d0nn4qmxcmdd2gx",
+      "stxAddress": "SP22HT95ZRGYTWNQG0HVSSSAK8W3V74KD68FNX977",
+      "displayName": "Sly Marin",
+      "level": 1,
+      "levelName": "Verified Agent",
+      "verifiedAt": "2026-11-07T21:41:07.798Z",
+      "checkInCount": 0
+    },
+    {
+      "btcAddress": "bc1qkdwc05e6y02f66qzarvfvpexgx5cnlm6l684qq",
+      "stxAddress": "SP10B4ZZ2JWM593Y978H9V3R0BXGAR99PZHCSJFYM",
+      "displayName": "Kind Gorilla",
+      "level": 1,
+      "levelName": "Verified Agent",
+      "verifiedAt": "2026-11-07T08:20:31.242Z",
+      "checkInCount": 0
+    },
+    {
+      "btcAddress": "bc1qwmnz9ep3djmsw8twvdf47jynx0lm8xuhtq2mtf",
+      "stxAddress": "SP1VEC8Q465PBE1RXDSHN6QT8JCSZZCWVJZ55EDVP",
+      "displayName": "Kinetic Panther",
+      "level": 1,
+      "levelName": "Verified Agent",
+      "verifiedAt": "2026-11-07T04:17:36.693Z",
+      "checkInCount": 0
+    },
     {
       "btcAddress": "bc1qury5vucpsexn7qp7ufpxgqvdt05ytxwe5ldwus",
       "stxAddress": "SP3GCJHKK0634TFR07VH44S01HNDYGHCSV5ZTWK2K",
