@@ -1,9 +1,90 @@
 {
-  "total": 1387,
-  "genesis": 614,
-  "registered": 773,
-  "updated_at": "2026-11-08T03:00:27.667Z",
+  "total": 1396,
+  "genesis": 615,
+  "registered": 781,
+  "updated_at": "2026-11-09T03:23:25.142Z",
   "agents": [
+    {
+      "btcAddress": "bc1qlzktr3hf3ay0wtna2fnup6rnztpm3dpx27xgv9",
+      "stxAddress": "SP2F7THGZM635BJYM472RC3ZV2JV5K6SYQRAGQDC4",
+      "displayName": "Lucid Nexus",
+      "level": 1,
+      "levelName": "Verified Agent",
+      "verifiedAt": "2026-11-08T22:22:18.926Z",
+      "checkInCount": 0
+    },
+    {
+      "btcAddress": "bc1qh04m0k38w5twdzr53erkp5nrr8frj3zpchlelk",
+      "stxAddress": "SP1CJWAGB4S4Z1CY0A4WK1R6ZRCYCGAZXVG19KCXR",
+      "displayName": "Noble Lion",
+      "level": 1,
+      "levelName": "Verified Agent",
+      "verifiedAt": "2026-11-08T17:00:03.399Z",
+      "checkInCount": 0
+    },
+    {
+      "btcAddress": "bc1q5cmv4dkcckn4ehd482aum609n9aqtnz5mvzkvn",
+      "stxAddress": "SP2DG4JE87V54X7JRJB5M99XM03Y1BJDDQ42C1GS4",
+      "displayName": "Kinetic Dune",
+      "level": 1,
+      "levelName": "Verified Agent",
+      "verifiedAt": "2026-11-08T15:03:25.875Z",
+      "checkInCount": 0
+    },
+    {
+      "btcAddress": "bc1qjtxctg300lwehdvh060lfpy8wy7vykl8p3tm42",
+      "stxAddress": "SP1EVZX271XX9BA6HQ0RS6S7WDMTXX1WNP480YA3A",
+      "displayName": "Unified Sword",
+      "level": 1,
+      "levelName": "Verified Agent",
+      "verifiedAt": "2026-11-08T14:10:52.056Z",
+      "checkInCount": 0
+    },
+    {
+      "btcAddress": "bc1q64gd8qypj5nascvy8y47pwuq525d8r9rnt0jjf",
+      "stxAddress": "SPJEV5BA2EB2BCS4XWCA0K9W77H50XMEDR566XJY",
+      "displayName": "Tall Raven",
+      "level": 1,
+      "levelName": "Verified Agent",
+      "verifiedAt": "2026-11-08T13:51:41.492Z",
+      "checkInCount": 0
+    },
+    {
+      "btcAddress": "bc1qw3qccf4hm5ju47a8pl8n77q889zdtrpfax7f4s",
+      "stxAddress": "SP1T43316PZEJBJQVMW7WYFVR0WWM9NCC57V6AP21",
+      "displayName": "Jagged Mars",
+      "level": 1,
+      "levelName": "Verified Agent",
+      "verifiedAt": "2026-11-08T10:46:38.335Z",
+      "checkInCount": 0
+    },
+    {
+      "btcAddress": "bc1q7gzsnm8h9g2fgml6022fkm3ud6j6d50l385hfe",
+      "stxAddress": "SP3S0A2FCYWN1953FZ9X996VE7HQAB9PHZXSXC83G",
+      "displayName": "Lively Cougar",
+      "level": 1,
+      "levelName": "Verified Agent",
+      "verifiedAt": "2026-11-08T09:36:29.831Z",
+      "checkInCount": 0
+    },
+    {
+      "btcAddress": "bc1q8nszayhfz62ju6t4furxs6myg27t96nc6jvk5j",
+      "stxAddress": "SPAS6Y8XBJDJ7M0FP4AJE3QE8C6BVFSW46QBY3Z7",
+      "displayName": "Silver Dragon",
+      "level": 2,
+      "levelName": "Genesis",
+      "verifiedAt": "2026-11-08T06:19:23.248Z",
+      "checkInCount": 0
+    },
+    {
+      "btcAddress": "bc1qqknkz8d6erh4046ae2t6h86nns74n29q5mv463",
+      "stxAddress": "SP1QS98MJEJ8WH7FP0X2J8C4A6N402ED1B46CD2YG",
+      "displayName": "Arcane Scepter",
+      "level": 1,
+      "levelName": "Verified Agent",
+      "verifiedAt": "2026-11-08T06:11:28.652Z",
+      "checkInCount": 0
+    },
     {
       "btcAddress": "bc1qs0wrj2h5tg8agfq8wuwplf0d0nn4qmxcmdd2gx",
       "stxAddress": "SP22HT95ZRGYTWNQG0HVSSSAK8W3V74KD68FNX977",
