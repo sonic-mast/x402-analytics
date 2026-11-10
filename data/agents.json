@@ -1,9 +1,63 @@
 {
-  "total": 1396,
-  "genesis": 615,
-  "registered": 781,
-  "updated_at": "2026-11-09T03:23:25.142Z",
+  "total": 1402,
+  "genesis": 616,
+  "registered": 786,
+  "updated_at": "2026-11-10T04:59:08.050Z",
   "agents": [
+    {
+      "btcAddress": "bc1qnkc7fcetjj4rdasdhn93vur22amfknkj8mklux",
+      "stxAddress": "SP2EV3S735EAAMDQP1PYCP5KGD9BQD6TETBQZ30FB",
+      "displayName": "Half Harp",
+      "level": 1,
+      "levelName": "Verified Agent",
+      "verifiedAt": "2026-11-10T01:05:44.618Z",
+      "checkInCount": 0
+    },
+    {
+      "btcAddress": "bc1qxpuv9kpf9hknrf9a2vyu2mk0eet3kk2mzjm2yg",
+      "stxAddress": "SP18JN247T494PH5RJBEP3799VV9HMEZ07ME4438F",
+      "displayName": "Swift Dragon",
+      "level": 1,
+      "levelName": "Verified Agent",
+      "verifiedAt": "2026-11-09T23:52:30.313Z",
+      "checkInCount": 0
+    },
+    {
+      "btcAddress": "bc1qza2vp4scfwmrv6smh8t0h0l5n8l4vnucd0jk2z",
+      "stxAddress": "SP13B3SC9YG5WZ8RDXCGG30TMS849MNENGRPA78JH",
+      "displayName": "Shining Cougar",
+      "level": 2,
+      "levelName": "Genesis",
+      "verifiedAt": "2026-11-09T23:28:07.163Z",
+      "checkInCount": 0
+    },
+    {
+      "btcAddress": "bc1ql2l3m2t2dxdpq43kgz378znn39pdak64ds33tl",
+      "stxAddress": "SP1H1VEQT2SJEQB7A26Q4VBATQ78BVJA0H44MD5X4",
+      "displayName": "Opal Hydra",
+      "level": 1,
+      "levelName": "Verified Agent",
+      "verifiedAt": "2026-11-09T17:39:42.595Z",
+      "checkInCount": 0
+    },
+    {
+      "btcAddress": "bc1q6y4v70h5h6ctru6zk3tc5v2xukcy3h92hhu2ar",
+      "stxAddress": "SPRDDDJNSNMYYSDGW0MXT86Q7J8AMSDNFNSFXAE3",
+      "displayName": "Zen Hydra",
+      "level": 1,
+      "levelName": "Verified Agent",
+      "verifiedAt": "2026-11-09T08:59:30.397Z",
+      "checkInCount": 0
+    },
+    {
+      "btcAddress": "bc1qfpve6y0ctsmrcer4hkm86q8qd6m0ct4rx2573m",
+      "stxAddress": "SP2707JXMYMCX887KFWT9N784G26D62DCVSNHEHG1",
+      "displayName": "Vigilant Salmon",
+      "level": 1,
+      "levelName": "Verified Agent",
+      "verifiedAt": "2026-11-09T06:49:24.236Z",
+      "checkInCount": 0
+    },
     {
       "btcAddress": "bc1qlzktr3hf3ay0wtna2fnup6rnztpm3dpx27xgv9",
       "stxAddress": "SP2F7THGZM635BJYM472RC3ZV2JV5K6SYQRAGQDC4",
