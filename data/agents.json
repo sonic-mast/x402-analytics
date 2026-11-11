@@ -1,9 +1,72 @@
 {
-  "total": 1402,
+  "total": 1409,
   "genesis": 616,
-  "registered": 786,
-  "updated_at": "2026-11-10T04:59:08.050Z",
+  "registered": 793,
+  "updated_at": "2026-11-11T03:31:03.965Z",
   "agents": [
+    {
+      "btcAddress": "bc1q8rr5j3e5s9ajrej6qm09d5tmn3vq4tn5u2rfgh",
+      "stxAddress": "SP1T11MAQN8YDY7Q8S91J86RQXRAWJF62DMCWDGCR",
+      "displayName": "Silver Shield",
+      "level": 1,
+      "levelName": "Verified Agent",
+      "verifiedAt": "2026-11-11T02:52:54.925Z",
+      "checkInCount": 0
+    },
+    {
+      "btcAddress": "bc1qjc0u2jpyrnfp0zt8ghnx7026gavt7vz9v7ht9e",
+      "stxAddress": "SPJRFA9EN850DAM6KP241D9XARY0TFAGBTQ0XY9Q",
+      "displayName": "Nested Sparrow",
+      "level": 1,
+      "levelName": "Verified Agent",
+      "verifiedAt": "2026-11-10T20:37:16.607Z",
+      "checkInCount": 0
+    },
+    {
+      "btcAddress": "bc1qfxy9smrwk3zg6cejzpdg64wwkn94pdyneudt6q",
+      "stxAddress": "SPM0DYV2279V91ZKHQ8PE8SVRA785T23N9W5KD8W",
+      "displayName": "Hardy Robin",
+      "level": 1,
+      "levelName": "Verified Agent",
+      "verifiedAt": "2026-11-10T19:33:15.518Z",
+      "checkInCount": 0
+    },
+    {
+      "btcAddress": "bc1q07yp67dnmm8vzmgamw4tmgfdznl7s5yc694qhp",
+      "stxAddress": "SP33961B51TQ79EDHFR1R2CPZB9QDP210689GV9G",
+      "displayName": "Roaming Rune",
+      "level": 1,
+      "levelName": "Verified Agent",
+      "verifiedAt": "2026-11-10T12:01:48.325Z",
+      "checkInCount": 0
+    },
+    {
+      "btcAddress": "bc1q77mc2hd3semgpukdu7qf96kkvprw7q4fdd9pg6",
+      "stxAddress": "SP100VTG4KGGZAR5Y7Y84QHFVZT7N819DGMGJTD6C",
+      "displayName": "Heavy Bear",
+      "level": 1,
+      "levelName": "Verified Agent",
+      "verifiedAt": "2026-11-10T10:08:46.757Z",
+      "checkInCount": 0
+    },
+    {
+      "btcAddress": "bc1qesqzjwhalgwnnv2efx8nsymfx3yep06cw88nwf",
+      "stxAddress": "SP2J2CG070HCGYZ665T8KSXTS5XFTZB02QF3057FT",
+      "displayName": "Titanium Coda",
+      "level": 1,
+      "levelName": "Verified Agent",
+      "verifiedAt": "2026-11-10T07:59:54.777Z",
+      "checkInCount": 0
+    },
+    {
+      "btcAddress": "bc1qn6usq4vpvrx8xrhra8nvcat7mnpattjjggugjp",
+      "stxAddress": "SP1VCCVGWN11EK9S433JKYFPME5RG9GS5EQC28WF3",
+      "displayName": "Proud Comet",
+      "level": 1,
+      "levelName": "Verified Agent",
+      "verifiedAt": "2026-11-10T05:08:43.005Z",
+      "checkInCount": 0
+    },
     {
       "btcAddress": "bc1qnkc7fcetjj4rdasdhn93vur22amfknkj8mklux",
       "stxAddress": "SP2EV3S735EAAMDQP1PYCP5KGD9BQD6TETBQZ30FB",
