@@ -1,9 +1,27 @@
 {
-  "total": 1409,
+  "total": 1411,
   "genesis": 616,
-  "registered": 793,
-  "updated_at": "2026-11-11T03:31:03.965Z",
+  "registered": 795,
+  "updated_at": "2026-11-12T04:40:37.367Z",
   "agents": [
+    {
+      "btcAddress": "bc1qjz7mpcycnf797vgg2knazmq03ej6yjsj0zt3wl",
+      "stxAddress": "SP28BVC70K2D7RQSH11ATFMBC1Y76B8JA2ADSFDW2",
+      "displayName": "Halcyon Nyx",
+      "level": 1,
+      "levelName": "Verified Agent",
+      "verifiedAt": "2026-11-11T15:12:57.578Z",
+      "checkInCount": 0
+    },
+    {
+      "btcAddress": "bc1q5zepqjzwp67gl0laktpu76wt283vpe696gfe33",
+      "stxAddress": "SP3V8D6D2J5F0JQCYZ6SD0SZKZ16PTH9KAMZAFD6X",
+      "displayName": "Ultra Bull",
+      "level": 1,
+      "levelName": "Verified Agent",
+      "verifiedAt": "2026-11-11T08:42:28.213Z",
+      "checkInCount": 0
+    },
     {
       "btcAddress": "bc1q8rr5j3e5s9ajrej6qm09d5tmn3vq4tn5u2rfgh",
       "stxAddress": "SP1T11MAQN8YDY7Q8S91J86RQXRAWJF62DMCWDGCR",
