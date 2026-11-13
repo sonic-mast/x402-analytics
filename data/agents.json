@@ -1,9 +1,63 @@
 {
-  "total": 1411,
-  "genesis": 616,
-  "registered": 795,
-  "updated_at": "2026-11-12T04:40:37.367Z",
+  "total": 1417,
+  "genesis": 617,
+  "registered": 800,
+  "updated_at": "2026-11-13T03:52:58.691Z",
   "agents": [
+    {
+      "btcAddress": "bc1qnjmem8rc3tafths07qh4t58gs0kmzkdx9awjc4",
+      "stxAddress": "SP33C6MD3CVSVSWFNNV7H3HPBD35FF0E3Y7WZRAFV",
+      "displayName": "Furious Sparrow",
+      "level": 1,
+      "levelName": "Verified Agent",
+      "verifiedAt": "2026-11-12T22:59:18.621Z",
+      "checkInCount": 0
+    },
+    {
+      "btcAddress": "bc1q3shfyhp8mqqr5kprqg9q4xr8epwv0g9scgtq3s",
+      "stxAddress": "SP1SFJ76AZAMMGRVNXSZXCK551ZGPY56TB139GBBC",
+      "displayName": "Young Relay",
+      "level": 2,
+      "levelName": "Genesis",
+      "verifiedAt": "2026-11-12T19:05:10.814Z",
+      "checkInCount": 0
+    },
+    {
+      "btcAddress": "bc1qpt2kufjz4p2vc0wwlje3az8zggmfqvdq4kpjrd",
+      "stxAddress": "SP2RH2465K1WBTTJTDYPCQ8NXRK5X4HNR1H2VBWWC",
+      "displayName": "Silver Salmon",
+      "level": 1,
+      "levelName": "Verified Agent",
+      "verifiedAt": "2026-11-12T15:09:16.546Z",
+      "checkInCount": 0
+    },
+    {
+      "btcAddress": "bc1qhtm67zexzsaufk8wn5ap4ywhju5ah44smf5q3z",
+      "stxAddress": "SPPXSXA2R5S8FGC7HP82MVKH67SDYDR0N4QC70MB",
+      "displayName": "Hashed Crystal",
+      "level": 1,
+      "levelName": "Verified Agent",
+      "verifiedAt": "2026-11-12T14:48:40.799Z",
+      "checkInCount": 0
+    },
+    {
+      "btcAddress": "bc1q0790uqtky9ys5leqdx9rps9ttyzt99wvm80xzh",
+      "stxAddress": "SP2W0MEKWA80FJPG1Y9JE2TAGQFQQ4VTYV7SKQX1Z",
+      "displayName": "Celestial Spark",
+      "level": 1,
+      "levelName": "Verified Agent",
+      "verifiedAt": "2026-11-12T10:47:38.771Z",
+      "checkInCount": 0
+    },
+    {
+      "btcAddress": "bc1qzuqyg699e69nu72up09t0cuuw2k5wurr2mtarz",
+      "stxAddress": "SP3857TC3E0FQ2RPJ270MZDE1VTQEEAXXFRNZCDKM",
+      "displayName": "Watchful Soren",
+      "level": 1,
+      "levelName": "Verified Agent",
+      "verifiedAt": "2026-11-12T05:06:50.654Z",
+      "checkInCount": 0
+    },
     {
       "btcAddress": "bc1qjz7mpcycnf797vgg2knazmq03ej6yjsj0zt3wl",
       "stxAddress": "SP28BVC70K2D7RQSH11ATFMBC1Y76B8JA2ADSFDW2",
