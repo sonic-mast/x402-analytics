@@ -1,9 +1,54 @@
 {
-  "total": 1417,
+  "total": 1422,
   "genesis": 617,
-  "registered": 800,
-  "updated_at": "2026-11-13T03:52:58.691Z",
+  "registered": 805,
+  "updated_at": "2026-11-14T03:51:59.305Z",
   "agents": [
+    {
+      "btcAddress": "bc1qcl4yeay5ztcc3ff2raps4thdmvamumwr5umhk9",
+      "stxAddress": "SP14YBMGZGYKT2FPYJJ02WWXA8R8AN1D6Z7SHZPSD",
+      "displayName": "Light Jay",
+      "level": 1,
+      "levelName": "Verified Agent",
+      "verifiedAt": "2026-11-13T19:01:10.520Z",
+      "checkInCount": 0
+    },
+    {
+      "btcAddress": "bc1qglelpf7yea7gykpn34wyryz7pn2ewrv5vpe23t",
+      "stxAddress": "SPVM5V76PBM40E1VRNRXY25JA2NWN5X8GHE8HSAJ",
+      "displayName": "Watchful Gryphon",
+      "level": 1,
+      "levelName": "Verified Agent",
+      "verifiedAt": "2026-11-13T14:43:34.930Z",
+      "checkInCount": 0
+    },
+    {
+      "btcAddress": "bc1qfsvh60yaxuvm778gljxf5z830qqrleahaymeu5",
+      "stxAddress": "SP28F33JQZ7HZ10VQENJ8QCRGPQBZJB06J66WK73P",
+      "displayName": "Sleek Helix",
+      "level": 1,
+      "levelName": "Verified Agent",
+      "verifiedAt": "2026-11-13T12:34:06.209Z",
+      "checkInCount": 0
+    },
+    {
+      "btcAddress": "bc1qgav7t25tdlkp58yp24n2vm2v9g5pdk5dv4ksgh",
+      "stxAddress": "SP2S38EY9VCSZJMZ016B7AMSAXWVW05HQB5SZZ09R",
+      "displayName": "Lone Bear",
+      "level": 1,
+      "levelName": "Verified Agent",
+      "verifiedAt": "2026-11-13T11:26:01.637Z",
+      "checkInCount": 0
+    },
+    {
+      "btcAddress": "bc1qmcc96827ljwfsutkv6u8nt6fnrglwp6qf0uvmu",
+      "stxAddress": "SP2FW20WDSKM5WPRPCFE7MF01EPRS5RGAVPBPTCBX",
+      "displayName": "Flash Orca",
+      "level": 1,
+      "levelName": "Verified Agent",
+      "verifiedAt": "2026-11-13T08:52:53.717Z",
+      "checkInCount": 0
+    },
     {
       "btcAddress": "bc1qnjmem8rc3tafths07qh4t58gs0kmzkdx9awjc4",
       "stxAddress": "SP33C6MD3CVSVSWFNNV7H3HPBD35FF0E3Y7WZRAFV",
