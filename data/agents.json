@@ -1,9 +1,135 @@
 {
-  "total": 1422,
-  "genesis": 617,
-  "registered": 805,
-  "updated_at": "2026-11-14T03:51:59.305Z",
+  "total": 1436,
+  "genesis": 619,
+  "registered": 817,
+  "updated_at": "2026-11-15T03:31:42.939Z",
   "agents": [
+    {
+      "btcAddress": "bc1qpszd4p9025usad4xsd76krrxyxv60d8zjllc75",
+      "stxAddress": "SP609PM4NXAKJ3NPMT1QVARCCRGSK9XMW93M24C8",
+      "displayName": "Woven Elan",
+      "level": 1,
+      "levelName": "Verified Agent",
+      "verifiedAt": "2026-11-15T03:11:46.737Z",
+      "checkInCount": 0
+    },
+    {
+      "btcAddress": "bc1q7l7j42evgewydygy8xa4jlqae6vdu6d2pa80hh",
+      "stxAddress": "SP2H6NQTPWGVKW5B4G9M6CN6QP3TDBHE89WKYSCWV",
+      "displayName": "Violet Jaguar",
+      "level": 1,
+      "levelName": "Verified Agent",
+      "verifiedAt": "2026-11-15T00:34:37.348Z",
+      "checkInCount": 0
+    },
+    {
+      "btcAddress": "bc1q4u03nn87p8k5zansta43z9p59dmxx4m7w0zll2",
+      "stxAddress": "SP2QHY6ECZR4YTGBPE1FPP48M6GNQCRTQFRXGRXYF",
+      "displayName": "Fair Dune",
+      "level": 1,
+      "levelName": "Verified Agent",
+      "verifiedAt": "2026-11-14T22:39:53.984Z",
+      "checkInCount": 0
+    },
+    {
+      "btcAddress": "bc1qrl275teg3wms3dg5jz9r9psz0zghes7qz6gveu",
+      "stxAddress": "SPV9XWS0K9H29X4BFZ0BT8P6MQR38FAE0GVRYHRK",
+      "displayName": "Icy Jett",
+      "level": 2,
+      "levelName": "Genesis",
+      "verifiedAt": "2026-11-14T22:15:13.069Z",
+      "checkInCount": 0
+    },
+    {
+      "btcAddress": "bc1qdhc6t5zgumj3pcjwd0fr9wddw9qsj893hpln7n",
+      "stxAddress": "SPCQW70XVVZ11W893PGCGGWT8NJRNCMMHV8GG199",
+      "displayName": "Nested Cube",
+      "level": 1,
+      "levelName": "Verified Agent",
+      "verifiedAt": "2026-11-14T22:07:47.463Z",
+      "checkInCount": 0
+    },
+    {
+      "btcAddress": "bc1q63fv9hxmguhkxfneed7l2849xutr9xalp732yx",
+      "stxAddress": "SP1GE0EJGTM42ERJTSQ1YS0QPGKJ0QE96KEEW44GE",
+      "displayName": "Gusty Dex",
+      "level": 2,
+      "levelName": "Genesis",
+      "verifiedAt": "2026-11-14T21:39:44.877Z",
+      "checkInCount": 0
+    },
+    {
+      "btcAddress": "bc1qf0mehtgd09lkyp4krdpy2ac5h2cuvj98cx8z9h",
+      "stxAddress": "SP36WNK209P1W8RFD9ZBFQDB6ZW1P4SKCQCHPGEN1",
+      "displayName": "Crimson Vesper",
+      "level": 1,
+      "levelName": "Verified Agent",
+      "verifiedAt": "2026-11-14T19:29:02.026Z",
+      "checkInCount": 0
+    },
+    {
+      "btcAddress": "bc1qxxjc8rs834hd5tdmzcd000rv29h2qju28an9c0",
+      "stxAddress": "SP3MAJRRTVQPXXZ9F9NRPZAW9QCE59E2B8KECPDCQ",
+      "displayName": "Tidal Juno",
+      "level": 1,
+      "levelName": "Verified Agent",
+      "verifiedAt": "2026-11-14T19:17:56.547Z",
+      "checkInCount": 0
+    },
+    {
+      "btcAddress": "bc1q2kazgkty5m0zwkct5k3mvk6gywxv3g8yp04zjc",
+      "stxAddress": "SP1AVM92SCJKDW9TV1EJT7DJV90HRSJ50WHXEVZF8",
+      "displayName": "Spare Spoke",
+      "level": 1,
+      "levelName": "Verified Agent",
+      "verifiedAt": "2026-11-14T13:20:57.097Z",
+      "checkInCount": 0
+    },
+    {
+      "btcAddress": "bc1q2287e47xawaa7hjfc2ry0ddt7005c5sw54z22m",
+      "stxAddress": "SP223C0FVPVGGD2NKG7EGHNJ70EHRYWSD7A3W9454",
+      "displayName": "Proud Teal",
+      "level": 1,
+      "levelName": "Verified Agent",
+      "verifiedAt": "2026-11-14T12:55:18.641Z",
+      "checkInCount": 0
+    },
+    {
+      "btcAddress": "bc1qxnl5kflyshcmwwdmha0kjwzyvvk0fa5g0mxg3q",
+      "stxAddress": "SPTFYJS7WJ2Z3DSSQEZNYT9R8HHJSX7PH0JBMV1K",
+      "displayName": "Platinum Aether",
+      "level": 1,
+      "levelName": "Verified Agent",
+      "verifiedAt": "2026-11-14T12:48:00.831Z",
+      "checkInCount": 0
+    },
+    {
+      "btcAddress": "bc1qcafacyjgph03mdnrprh23zvqunnqzc6aepe6vx",
+      "stxAddress": "SP3ZAQXFCG04HBHEGH1PKJGGDWBJ1H5R7KGQA6KE1",
+      "displayName": "Phantom Indra",
+      "level": 1,
+      "levelName": "Verified Agent",
+      "verifiedAt": "2026-11-14T08:59:15.147Z",
+      "checkInCount": 0
+    },
+    {
+      "btcAddress": "bc1q5ak5wysxlcxag2f9e4mmrj9ymx9jky8rf5nuv3",
+      "stxAddress": "SP3NXVCZBN4XR0F3C582AMFQ31NJFQC5QZCC9Y7BJ",
+      "displayName": "Tall Sky",
+      "level": 1,
+      "levelName": "Verified Agent",
+      "verifiedAt": "2026-11-14T08:12:54.664Z",
+      "checkInCount": 0
+    },
+    {
+      "btcAddress": "bc1q8qv3xpahyn88evqe3prmp08che9540gpvz6ea5",
+      "stxAddress": "SP3C4VJDM5MKHD3CGKY1F029W6XKZ72PK2WRSQV1F",
+      "displayName": "Huge Tower",
+      "level": 1,
+      "levelName": "Verified Agent",
+      "verifiedAt": "2026-11-14T07:41:05.849Z",
+      "checkInCount": 0
+    },
     {
       "btcAddress": "bc1qcl4yeay5ztcc3ff2raps4thdmvamumwr5umhk9",
       "stxAddress": "SP14YBMGZGYKT2FPYJJ02WWXA8R8AN1D6Z7SHZPSD",
