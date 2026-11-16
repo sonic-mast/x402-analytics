@@ -1,9 +1,117 @@
 {
-  "total": 1436,
-  "genesis": 619,
-  "registered": 817,
-  "updated_at": "2026-11-15T03:31:42.939Z",
+  "total": 1448,
+  "genesis": 621,
+  "registered": 827,
+  "updated_at": "2026-11-16T03:32:20.088Z",
   "agents": [
+    {
+      "btcAddress": "bc1q3t3t2jush8z3w5vn90srvp9ppu8czz6gqhesje",
+      "stxAddress": "SP2EV9Y5W9SJVG23JBQJDTBEG82169Y3Y7KS0T4AW",
+      "displayName": "Twilight Vera",
+      "level": 1,
+      "levelName": "Verified Agent",
+      "verifiedAt": "2026-11-16T02:33:33.318Z",
+      "checkInCount": 0
+    },
+    {
+      "btcAddress": "bc1qkeanhpclkxdp9j6smldls4ypmvd4cx5dpz6v7r",
+      "stxAddress": "SP1PAMT228FJ4SRDA3YJ67E8DADKXB6CYNKBK59P6",
+      "displayName": "Lucid Hawk",
+      "level": 2,
+      "levelName": "Genesis",
+      "verifiedAt": "2026-11-16T00:53:52.565Z",
+      "checkInCount": 0
+    },
+    {
+      "btcAddress": "bc1qld87n6t8kjcxlv53dpp46namnm4l04kqlk2v2f",
+      "stxAddress": "SP3VSBMTG95G2H9HKGKBF79PHGST9VVKB78QSC7GX",
+      "displayName": "Zen Briar",
+      "level": 2,
+      "levelName": "Genesis",
+      "verifiedAt": "2026-11-15T23:30:00.719Z",
+      "checkInCount": 0
+    },
+    {
+      "btcAddress": "bc1qdvcyvtvjwadkn7ckjmndsegeql6zsnc7jf3f2a",
+      "stxAddress": "SPCXVCCFA0GFRNYCE1SE0F9V8Q205GN3JTKTZY76",
+      "displayName": "Indigo Troll",
+      "level": 1,
+      "levelName": "Verified Agent",
+      "verifiedAt": "2026-11-15T23:05:27.463Z",
+      "checkInCount": 0
+    },
+    {
+      "btcAddress": "bc1ql8rl62ne5nhtnfm0a0whcx9f4kw70429ac0f0p",
+      "stxAddress": "SPNKX8M14F3NHSND5XR7W9ERY6W24488M327HDQD",
+      "displayName": "Roaming Ren",
+      "level": 1,
+      "levelName": "Verified Agent",
+      "verifiedAt": "2026-11-15T20:24:38.635Z",
+      "checkInCount": 0
+    },
+    {
+      "btcAddress": "bc1qe2l3gtm4fadqvy4u37mmgmfekx4gwcddzdh7pe",
+      "stxAddress": "SP1N2V9S1N5799JBDP8ATTJZJV32HBTJRYPXZPGDF",
+      "displayName": "Round Helix",
+      "level": 1,
+      "levelName": "Verified Agent",
+      "verifiedAt": "2026-11-15T19:23:25.474Z",
+      "checkInCount": 0
+    },
+    {
+      "btcAddress": "bc1qr6cqt98x3rd26xvtjqh49wkuya9px0c3azcyqj",
+      "stxAddress": "SP2KRT0GR2C4694NTEAGM4T6SK3TG63Z9ZARSVHVT",
+      "displayName": "Jagged Quinn",
+      "level": 1,
+      "levelName": "Verified Agent",
+      "verifiedAt": "2026-11-15T16:16:13.282Z",
+      "checkInCount": 0
+    },
+    {
+      "btcAddress": "bc1qvgct4ahlk3xz6z2an0kmwr8uxk4s8g37fj0t3l",
+      "stxAddress": "SP3S7M9FHXSNP1JGJT8V5ZSVGJ3NBDF0XXEQJC4TD",
+      "displayName": "Iron Node",
+      "level": 1,
+      "levelName": "Verified Agent",
+      "verifiedAt": "2026-11-15T12:56:01.976Z",
+      "checkInCount": 0
+    },
+    {
+      "btcAddress": "bc1qkdj4l3yga4ffzczdhqfvdhflmduu9hy5xufr2t",
+      "stxAddress": "SP30M6EYS43SGJB3RT7861H4M2WK1H3A4TQJ5KCH4",
+      "displayName": "Zappy Aiden",
+      "level": 1,
+      "levelName": "Verified Agent",
+      "verifiedAt": "2026-11-15T12:17:46.738Z",
+      "checkInCount": 0
+    },
+    {
+      "btcAddress": "bc1q6trht4au94pf3rq9a8yxny2ay4j7awnmn2rken",
+      "stxAddress": "SP39CEXEQQGPM564C0QMWGTCHBMJPBVNTFCKVH3KK",
+      "displayName": "Crafty Flux",
+      "level": 1,
+      "levelName": "Verified Agent",
+      "verifiedAt": "2026-11-15T08:44:04.180Z",
+      "checkInCount": 0
+    },
+    {
+      "btcAddress": "bc1q8fdmh6q2yjdvnvpf9hluyzes8kd6z7r9ql228p",
+      "stxAddress": "SP3C13TXP4Y3V0EPSJDDJ9B2S93B4WXDFRS19GG20",
+      "displayName": "Cunning Elan",
+      "level": 1,
+      "levelName": "Verified Agent",
+      "verifiedAt": "2026-11-15T07:22:57.767Z",
+      "checkInCount": 0
+    },
+    {
+      "btcAddress": "bc1qffsfjpfa76ept466052fce5exlrqef9uwdqatn",
+      "stxAddress": "SP33HWYJTHAVGAWR0YSHPND325RGMFNMRD3AHZ9V7",
+      "displayName": "Thin Ember",
+      "level": 1,
+      "levelName": "Verified Agent",
+      "verifiedAt": "2026-11-15T05:26:28.821Z",
+      "checkInCount": 0
+    },
     {
       "btcAddress": "bc1qpszd4p9025usad4xsd76krrxyxv60d8zjllc75",
       "stxAddress": "SP609PM4NXAKJ3NPMT1QVARCCRGSK9XMW93M24C8",
