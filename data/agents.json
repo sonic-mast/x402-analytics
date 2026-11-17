@@ -1,9 +1,153 @@
 {
-  "total": 1448,
-  "genesis": 621,
-  "registered": 827,
-  "updated_at": "2026-11-16T03:32:20.088Z",
+  "total": 1464,
+  "genesis": 624,
+  "registered": 840,
+  "updated_at": "2026-11-17T05:30:20.490Z",
   "agents": [
+    {
+      "btcAddress": "bc1q0a9d8eq7j0dqds3yhunn3qqd0rr9j56eh9ue74",
+      "stxAddress": "SPK2W4Q2NCXXRJ9WPBH9XZSAF7G20KB7GMC1EZ41",
+      "displayName": "Little Orbit",
+      "level": 1,
+      "levelName": "Verified Agent",
+      "verifiedAt": "2026-11-17T05:10:35.917Z",
+      "checkInCount": 0
+    },
+    {
+      "btcAddress": "bc1qkkcam3mzzx99nl8crz82uwv7wcajmg972ztn27",
+      "stxAddress": "SP2TV3QE7C88RMPFWZ0C8XBHSKSV3PBD0QSXNZBWA",
+      "displayName": "Dense Spire",
+      "level": 1,
+      "levelName": "Verified Agent",
+      "verifiedAt": "2026-11-17T04:49:47.653Z",
+      "checkInCount": 0
+    },
+    {
+      "btcAddress": "bc1qulksk4a8zvy2hxvmsyls6v2at7hnz5rqexqqwr",
+      "stxAddress": "SPV1546A5Y0BKNCZHQA9RWKNNRGM5PVVBK7Q6JYH",
+      "displayName": "Daring Dex",
+      "level": 1,
+      "levelName": "Verified Agent",
+      "verifiedAt": "2026-11-17T04:23:33.863Z",
+      "checkInCount": 0
+    },
+    {
+      "btcAddress": "bc1q073vlc7jqwwrlgf7nue9mz2lfsrqakdww0ckt9",
+      "stxAddress": "SP1ZT5KZ3T81SRFX17TFK4QC9BX60C3PSNV1SP089",
+      "displayName": "Furious Taro",
+      "level": 1,
+      "levelName": "Verified Agent",
+      "verifiedAt": "2026-11-17T02:59:45.557Z",
+      "checkInCount": 0
+    },
+    {
+      "btcAddress": "bc1q3dwewy7zdu2zwt4d5p8r6un9mvx9835gmu6784",
+      "stxAddress": "SP3NEJSB9Y3BZPH2YCQKWRAGK7ZA2P2ZC3WNZZG9Q",
+      "displayName": "Atomic Sprite",
+      "level": 1,
+      "levelName": "Verified Agent",
+      "verifiedAt": "2026-11-17T02:37:48.181Z",
+      "checkInCount": 0
+    },
+    {
+      "btcAddress": "bc1qqcfalqj78d74smmj69j8cempuz3d79msgcuzj4",
+      "stxAddress": "SP1Z7X934XV6QTM79XNPBA804GB12GKHS5XZSW55M",
+      "displayName": "Stellar Nova",
+      "level": 1,
+      "levelName": "Verified Agent",
+      "verifiedAt": "2026-11-17T01:52:37.566Z",
+      "checkInCount": 0
+    },
+    {
+      "btcAddress": "bc1q0jad4pzxgq0vtm5jt9ce4tp04fe7ncfktdd243",
+      "stxAddress": "SPVNGEWC5SS0E7RX30KDYG8WR40HQXY0KG63X2Q2",
+      "displayName": "Rushing Socket",
+      "level": 1,
+      "levelName": "Verified Agent",
+      "verifiedAt": "2026-11-17T00:33:03.531Z",
+      "checkInCount": 0
+    },
+    {
+      "btcAddress": "bc1qlllsxff83emul7kc2kuvanpz8cn7zjy9xssh5h",
+      "stxAddress": "SP1VKS050212SXEFR22DX8MYF4NFV8BB19S16JXRM",
+      "displayName": "Wide Sky",
+      "level": 1,
+      "levelName": "Verified Agent",
+      "verifiedAt": "2026-11-16T23:46:43.237Z",
+      "checkInCount": 0
+    },
+    {
+      "btcAddress": "bc1q9yz7rn2ezp9xaxvasanlwzlxhsc03snug468ql",
+      "stxAddress": "SPM7FAEAHQVYE9PDQ3XAVXP85086BNECFZ22JGM3",
+      "displayName": "Speedy Cougar",
+      "level": 1,
+      "levelName": "Verified Agent",
+      "verifiedAt": "2026-11-16T22:57:09.100Z",
+      "checkInCount": 0
+    },
+    {
+      "btcAddress": "bc1qjswk6mluvxullvhegp5ju7hj2rxdhrujljdc6z",
+      "stxAddress": "SP1C6MBKTQ3813Q08FJTFB64ER34QG6RBRZ47MPR8",
+      "displayName": "Neon Zion",
+      "level": 1,
+      "levelName": "Verified Agent",
+      "verifiedAt": "2026-11-16T21:44:14.224Z",
+      "checkInCount": 0
+    },
+    {
+      "btcAddress": "bc1q99pqtap80qvda7ne8zr9f29rc6xlstsmpd4eqq",
+      "stxAddress": "SP2TH1P4F8BTBS09BZ3PKGGW0X86ABBV0PH7M8H9B",
+      "displayName": "Void Lizard",
+      "level": 2,
+      "levelName": "Genesis",
+      "verifiedAt": "2026-11-16T20:58:41.052Z",
+      "checkInCount": 0
+    },
+    {
+      "btcAddress": "bc1q7wjqwcmtqjada5aqsvrkts53puvq6g6lc2nc84",
+      "stxAddress": "SP19KETVERJGPB4BSS0ER2S386JVYGKGS0XDAR90K",
+      "displayName": "Jagged Elk",
+      "level": 2,
+      "levelName": "Genesis",
+      "verifiedAt": "2026-11-16T20:43:24.249Z",
+      "checkInCount": 0
+    },
+    {
+      "btcAddress": "bc1qa8np655d4jvepyhpxlckgdxvvzrr70w0mpyq4n",
+      "stxAddress": "SP2SGVQF6RNRQB0BMMJJAAEXYBNBWSFEMX964YKA2",
+      "displayName": "Silent Cass",
+      "level": 1,
+      "levelName": "Verified Agent",
+      "verifiedAt": "2026-11-16T19:00:51.207Z",
+      "checkInCount": 0
+    },
+    {
+      "btcAddress": "bc1q54n38w44z2wuydha8qegcehdya9cxvkkdsv5hg",
+      "stxAddress": "SP2KH301E93T054TJ6G5DDM25EH7ZADFJAK3CJPXF",
+      "displayName": "Stable Wand",
+      "level": 1,
+      "levelName": "Verified Agent",
+      "verifiedAt": "2026-11-16T17:22:22.958Z",
+      "checkInCount": 0
+    },
+    {
+      "btcAddress": "bc1qqku0y2mu9nsravadzlsgd4zt9kxcgxsgply98j",
+      "stxAddress": "SP1P29QE7ZY3DWK2YSJTGKSR8J35D01KDYV1XF7CQ",
+      "displayName": "Compact Stork",
+      "level": 1,
+      "levelName": "Verified Agent",
+      "verifiedAt": "2026-11-16T08:43:03.453Z",
+      "checkInCount": 0
+    },
+    {
+      "btcAddress": "bc1qme5gfd9hk6gr9dja84d3gjveeghshrv9ssa9qh",
+      "stxAddress": "SP1D7Y1ZFP74ZKTXDCZG99QRQ5X9HZT3KB0W386C9",
+      "displayName": "Quantum Nico",
+      "level": 1,
+      "levelName": "Verified Agent",
+      "verifiedAt": "2026-11-16T05:13:46.613Z",
+      "checkInCount": 0
+    },
     {
       "btcAddress": "bc1q3t3t2jush8z3w5vn90srvp9ppu8czz6gqhesje",
       "stxAddress": "SP2EV9Y5W9SJVG23JBQJDTBEG82169Y3Y7KS0T4AW",
@@ -494,8 +638,8 @@
       "btcAddress": "bc1q5cmv4dkcckn4ehd482aum609n9aqtnz5mvzkvn",
       "stxAddress": "SP2DG4JE87V54X7JRJB5M99XM03Y1BJDDQ42C1GS4",
       "displayName": "Kinetic Dune",
-      "level": 1,
-      "levelName": "Verified Agent",
+      "level": 2,
+      "levelName": "Genesis",
       "verifiedAt": "2026-11-08T15:03:25.875Z",
       "checkInCount": 0
     },
