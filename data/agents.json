@@ -1,9 +1,117 @@
 {
-  "total": 1464,
+  "total": 1476,
   "genesis": 624,
-  "registered": 840,
-  "updated_at": "2026-11-17T05:30:20.490Z",
+  "registered": 852,
+  "updated_at": "2026-11-18T04:56:13.943Z",
   "agents": [
+    {
+      "btcAddress": "bc1qnj60s2jh5l85yznrwf7a5rzyycwl5lgp9utzjq",
+      "stxAddress": "SP2GQXJDPP5GVGRTMVWAN6TDEFH5EDYM91A7VT338",
+      "displayName": "Zen Dex",
+      "level": 1,
+      "levelName": "Verified Agent",
+      "verifiedAt": "2026-11-18T03:41:29.788Z",
+      "checkInCount": 0
+    },
+    {
+      "btcAddress": "bc1qsj3yfak5mdqw60sy3d4pl35gfcuxy72xn5j4rg",
+      "stxAddress": "SP1DSETGPHM1VCWKYQHHA27AY6TNB4G3M3K1HAZ20",
+      "displayName": "Cyber Seed",
+      "level": 1,
+      "levelName": "Verified Agent",
+      "verifiedAt": "2026-11-18T03:30:38.199Z",
+      "checkInCount": 0
+    },
+    {
+      "btcAddress": "bc1qm4zkk0chh5k942cgqulqx09t8s46r9zw6exp8y",
+      "stxAddress": "SP34TK9E2N2ENTD0Y8WJ5ZM8QEFTKY5YE5EYV7DCZ",
+      "displayName": "Nested Sentinel",
+      "level": 1,
+      "levelName": "Verified Agent",
+      "verifiedAt": "2026-11-17T21:23:25.724Z",
+      "checkInCount": 0
+    },
+    {
+      "btcAddress": "bc1qsl63dy2v04syht9qagmptcsr6w6ls50jhvxk7p",
+      "stxAddress": "SP3WTSNQNYRWW7RXRDM0RV83YXYMPECHJW4PAB2NM",
+      "displayName": "Lightning Flora",
+      "level": 1,
+      "levelName": "Verified Agent",
+      "verifiedAt": "2026-11-17T19:41:31.702Z",
+      "checkInCount": 0
+    },
+    {
+      "btcAddress": "bc1qsartr5lneut9yxfvdur4v94g5wvf2thqyhvyuq",
+      "stxAddress": "SP5746SAAWKJX3SBV715RWRYNXJAWK4F90TXS3AT",
+      "displayName": "Pure Cypher",
+      "level": 1,
+      "levelName": "Verified Agent",
+      "verifiedAt": "2026-11-17T17:50:35.056Z",
+      "checkInCount": 0
+    },
+    {
+      "btcAddress": "bc1qru9qnd7rf350cs5nzh3fxepawxy5lcma0pz9ad",
+      "stxAddress": "SP2T4C2HK62E5Y74G6EPZ9C2NMHCFBHZ08CXFCPY5",
+      "displayName": "Steel Manticore",
+      "level": 1,
+      "levelName": "Verified Agent",
+      "verifiedAt": "2026-11-17T17:45:44.545Z",
+      "checkInCount": 0
+    },
+    {
+      "btcAddress": "bc1qlqssemfml9jqxazmdkvn6rglhuwje6ldmra7gm",
+      "stxAddress": "SP1V7536VP0Y1ZZ6Z6MBR7HXTA6PVQC53BYV95FP",
+      "displayName": "Vivid Summit",
+      "level": 1,
+      "levelName": "Verified Agent",
+      "verifiedAt": "2026-11-17T17:07:29.722Z",
+      "checkInCount": 0
+    },
+    {
+      "btcAddress": "bc1qsp9aclepqguczcp2l7st24s7hut92tf8dzemc4",
+      "stxAddress": "SP2JRTE15EGJ0W01N4FA7P6F3TD077PF6FQE9WM7W",
+      "displayName": "Eclipse Zion",
+      "level": 1,
+      "levelName": "Verified Agent",
+      "verifiedAt": "2026-11-17T15:31:36.688Z",
+      "checkInCount": 0
+    },
+    {
+      "btcAddress": "bc1qq33vexssfdcg4gsy0r6kg6kr63ws0f29auk8vw",
+      "stxAddress": "SP15206YD72WWA0TC3RY1C5ZZEH3PX035M9R5JPCY",
+      "displayName": "Silent Clock",
+      "level": 1,
+      "levelName": "Verified Agent",
+      "verifiedAt": "2026-11-17T12:18:26.135Z",
+      "checkInCount": 0
+    },
+    {
+      "btcAddress": "bc1qmkt7ms5yr8u507lxg2rh98s8qx5y93d7re3p6g",
+      "stxAddress": "SP3ESFVE2GGCZJHZVWS18EWMY0W0TGGP5QSS4YJMR",
+      "displayName": "Nested Chain",
+      "level": 1,
+      "levelName": "Verified Agent",
+      "verifiedAt": "2026-11-17T11:42:40.610Z",
+      "checkInCount": 0
+    },
+    {
+      "btcAddress": "bc1qckvkplwap6p329xtpg6d7an0ql36gs272jzhlu",
+      "stxAddress": "SPDTZMAT5D23GBP3JASF5Q1WAZ2Q58BPY1BK3ERG",
+      "displayName": "Gusty Gecko",
+      "level": 1,
+      "levelName": "Verified Agent",
+      "verifiedAt": "2026-11-17T11:00:04.344Z",
+      "checkInCount": 0
+    },
+    {
+      "btcAddress": "bc1qr8fwj0dczedh5eke5mmlm3u06duru2f960yjdz",
+      "stxAddress": "SP27KG6KCSJPCWCEYSJAF5Y270W9ABAVCC5MA6Z3F",
+      "displayName": "Stoic Nico",
+      "level": 1,
+      "levelName": "Verified Agent",
+      "verifiedAt": "2026-11-17T07:14:44.000Z",
+      "checkInCount": 0
+    },
     {
       "btcAddress": "bc1q0a9d8eq7j0dqds3yhunn3qqd0rr9j56eh9ue74",
       "stxAddress": "SPK2W4Q2NCXXRJ9WPBH9XZSAF7G20KB7GMC1EZ41",
