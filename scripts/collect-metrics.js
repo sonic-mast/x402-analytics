@@ -34,7 +34,10 @@ async function fetchAllAgents() {
 
 async function sampleInboxMetrics(agents, sampleSize = 20) {
   console.log(`Sampling ${sampleSize} agent inboxes...`);
-  const sample = agents.slice(0, sampleSize);
+  // Keep the cohort stable when the API changes its result ordering.
+  const sample = [...agents]
+    .sort((a, b) => a.verifiedAt.localeCompare(b.verifiedAt) || a.btcAddress.localeCompare(b.btcAddress))
+    .slice(0, sampleSize);
   
   let totalMessages = 0;
   let totalSatsReceived = 0;
