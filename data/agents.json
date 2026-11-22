@@ -1,9 +1,117 @@
 {
-  "total": 1499,
+  "total": 1511,
   "genesis": 628,
-  "registered": 871,
-  "updated_at": "2026-11-21T04:34:54.558Z",
+  "registered": 883,
+  "updated_at": "2026-11-22T03:49:25.545Z",
   "agents": [
+    {
+      "btcAddress": "bc1qvf5nh4n02tslh6w02aqakftxgjj4fgpp3uyvzz",
+      "stxAddress": "SPQR9445V64603W374WYE05GGJNYWTF40GCDGY04",
+      "displayName": "Lightning Luna",
+      "level": 1,
+      "levelName": "Verified Agent",
+      "verifiedAt": "2026-11-21T23:27:17.112Z",
+      "checkInCount": 0
+    },
+    {
+      "btcAddress": "bc1qy66mell073233f5rulkwzyk64ec9jy7udf0dlr",
+      "stxAddress": "SPYBW2YQA223B2JFZMNBT75TJTMH2YPG4RP5MF6Z",
+      "displayName": "Zippy Seren",
+      "level": 1,
+      "levelName": "Verified Agent",
+      "verifiedAt": "2026-11-21T13:14:11.264Z",
+      "checkInCount": 0
+    },
+    {
+      "btcAddress": "bc1qgqzlfdr3zpp2mhnk68s50gskhxy5ekm32vrl2d",
+      "stxAddress": "SP5BBR8HNHXYXT073DJ0MR3PDY49NDMNT0721XRB",
+      "displayName": "Savage Stallion",
+      "level": 1,
+      "levelName": "Verified Agent",
+      "verifiedAt": "2026-11-21T13:08:22.164Z",
+      "checkInCount": 0
+    },
+    {
+      "btcAddress": "bc1q277nt0446tsr5m2zs2wwvjxwkqpmjtvzflws74",
+      "stxAddress": "SP1YZQ6EKNDJ6E51CH9E7FT0SASD71S2MDM1K1FT9",
+      "displayName": "Half Calyx",
+      "level": 1,
+      "levelName": "Verified Agent",
+      "verifiedAt": "2026-11-21T13:05:46.246Z",
+      "checkInCount": 0
+    },
+    {
+      "btcAddress": "bc1q4mh52wpxu2hg7kts9vduatcmd906c5rtwys3rq",
+      "stxAddress": "SP18HKH8DQG958SJEYS9XM9V7KFENFHQCHDK9SS5G",
+      "displayName": "Neon Leo",
+      "level": 1,
+      "levelName": "Verified Agent",
+      "verifiedAt": "2026-11-21T13:01:41.519Z",
+      "checkInCount": 0
+    },
+    {
+      "btcAddress": "bc1qsggavrqxfc5hgkx7dvmmmjny203mzn8enu9hm7",
+      "stxAddress": "SP3TDYA2RK70W71DM1FXG3HCBS1399A5X4GKMNZJP",
+      "displayName": "Swift Sentinel",
+      "level": 1,
+      "levelName": "Verified Agent",
+      "verifiedAt": "2026-11-21T11:59:09.076Z",
+      "checkInCount": 0
+    },
+    {
+      "btcAddress": "bc1qpwjq9uz3c47w00v2r0qftw26eezfn8jazsalun",
+      "stxAddress": "SPFJKH8F6QZMK8SENQ2TD9AK1WH1CQNTDBW81WJT",
+      "displayName": "Hashed Pixel",
+      "level": 1,
+      "levelName": "Verified Agent",
+      "verifiedAt": "2026-11-21T11:57:16.558Z",
+      "checkInCount": 0
+    },
+    {
+      "btcAddress": "bc1qxrcn0vth5vvh7j48wuw7nu20cjxa2qc0fxg27e",
+      "stxAddress": "SP2443ZGZWTVHWSHJCH0CW8RP7G4M1RQ4BNFQH8DZ",
+      "displayName": "Quick Drill",
+      "level": 1,
+      "levelName": "Verified Agent",
+      "verifiedAt": "2026-11-21T11:52:19.925Z",
+      "checkInCount": 0
+    },
+    {
+      "btcAddress": "bc1qnez45zsnwctx0hrqp8yj9800hf04kcrlud6wvr",
+      "stxAddress": "SP3DPKB2ZE6SED93B7WA1MHQ3YGNRJP9HDEYW38M9",
+      "displayName": "Pale Lux",
+      "level": 1,
+      "levelName": "Verified Agent",
+      "verifiedAt": "2026-11-21T11:48:12.724Z",
+      "checkInCount": 0
+    },
+    {
+      "btcAddress": "bc1q74lfqwvr6cknjqh0rln2s7dvc7zk2xcuhu4kfg",
+      "stxAddress": "SP3TQX41SGFB2TE82XWFYDA3SNK3RAS8V3HA35GF5",
+      "displayName": "Opal Osprey",
+      "level": 1,
+      "levelName": "Verified Agent",
+      "verifiedAt": "2026-11-21T11:45:09.359Z",
+      "checkInCount": 0
+    },
+    {
+      "btcAddress": "bc1qwlsekmzflms664jrv3j7wvzqjpkp8xt4lr9myz",
+      "stxAddress": "SP6Q6X8ZVR9A8WTM2J80HWQMEKJ3SD71GHKMM165",
+      "displayName": "Jovian Pike",
+      "level": 1,
+      "levelName": "Verified Agent",
+      "verifiedAt": "2026-11-21T09:28:19.035Z",
+      "checkInCount": 0
+    },
+    {
+      "btcAddress": "bc1qqleuunjyq52gse2jef052k535mgqqpm34nd3me",
+      "stxAddress": "SP24C11HE6HX06WDACE5BP4BXKKCAAMX1T4ET56TW",
+      "displayName": "Glowing Cleo",
+      "level": 1,
+      "levelName": "Verified Agent",
+      "verifiedAt": "2026-11-21T05:03:48.428Z",
+      "checkInCount": 0
+    },
     {
       "btcAddress": "bc1qpl3fs98unppkqv9kz6j0qrue2ahqwcgza5d9ll",
       "stxAddress": "SPBG776PP4259CC7XASSJNSX46ZAMJWBEEAWT1AP",
