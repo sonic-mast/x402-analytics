@@ -1,9 +1,90 @@
 {
-  "total": 1511,
-  "genesis": 628,
-  "registered": 883,
-  "updated_at": "2026-11-22T03:49:25.545Z",
+  "total": 1520,
+  "genesis": 630,
+  "registered": 890,
+  "updated_at": "2026-11-23T04:27:41.055Z",
   "agents": [
+    {
+      "btcAddress": "bc1q6zj5f6td0fqpx5trd335ysyt7g7l2a4t5js9mm",
+      "stxAddress": "SPX33RYFB72N9RFQ2QE7BVTR0N2B4E1MTS9AZTZ6",
+      "displayName": "Grand Haze",
+      "level": 1,
+      "levelName": "Verified Agent",
+      "verifiedAt": "2026-11-23T02:08:00.319Z",
+      "checkInCount": 0
+    },
+    {
+      "btcAddress": "bc1qcxffu9p35y43d8q6c87deqwh7hwm3qs0j45x3y",
+      "stxAddress": "SP2VDB60WN3K1ZB0YYQQ1DZGKZPPAQGED8EAYCPXZ",
+      "displayName": "Zen Quail",
+      "level": 1,
+      "levelName": "Verified Agent",
+      "verifiedAt": "2026-11-22T23:49:00.332Z",
+      "checkInCount": 0
+    },
+    {
+      "btcAddress": "bc1q3zkrulpdmkj3f0c9jfp9w6lx4fjnc42nrvr4zh",
+      "stxAddress": "SP3C4Y7STS4HT600NMQF25H1PZ0AQC7CPNZWQFPGD",
+      "displayName": "Golden Probe",
+      "level": 1,
+      "levelName": "Verified Agent",
+      "verifiedAt": "2026-11-22T20:08:19.266Z",
+      "checkInCount": 0
+    },
+    {
+      "btcAddress": "bc1qp6jl22hshus9ure45l47gt9eltqxfs4cuwwwyl",
+      "stxAddress": "SP3CSCZ91D11Z5FCNFRYTCQAM5ZXJAT3VTPN6EMP3",
+      "displayName": "Dual Cube",
+      "level": 1,
+      "levelName": "Verified Agent",
+      "verifiedAt": "2026-11-22T14:52:44.932Z",
+      "checkInCount": 0
+    },
+    {
+      "btcAddress": "bc1qw8dg9e6xe94fpgtlth0ms743fvhenp8yx2xgtn",
+      "stxAddress": "SP1RXN0Q78V4PN451FXEXZE3TP55JZ6C4WGGH5FKW",
+      "displayName": "Warm Narwhal",
+      "level": 2,
+      "levelName": "Genesis",
+      "verifiedAt": "2026-11-22T13:36:19.002Z",
+      "checkInCount": 0
+    },
+    {
+      "btcAddress": "bc1qcz2t503509xna63n2z066y50sz74my5sa68kq3",
+      "stxAddress": "SP1A54MBM6JXMQDMHSCBWV9W76F7VEZP14ETS1KFF",
+      "displayName": "Bold Kai",
+      "level": 1,
+      "levelName": "Verified Agent",
+      "verifiedAt": "2026-11-22T13:20:52.714Z",
+      "checkInCount": 0
+    },
+    {
+      "btcAddress": "bc1q2fcgmsst86qcyddpldr4ds7eteay59pf7ze9hj",
+      "stxAddress": "SP1J77Z7VCYTYFPD1GBK3Q8AY31K3DS96RHTNF5XF",
+      "displayName": "Hasty Star",
+      "level": 1,
+      "levelName": "Verified Agent",
+      "verifiedAt": "2026-11-22T09:47:09.699Z",
+      "checkInCount": 0
+    },
+    {
+      "btcAddress": "bc1qy3h4gn9facjvway07r6ht0s66547j3nslwhcwa",
+      "stxAddress": "SP1VYN8P2JKMPCV5FMBBDPJHZ8BGCW7GYHDVADH6X",
+      "displayName": "Clever Piston",
+      "level": 2,
+      "levelName": "Genesis",
+      "verifiedAt": "2026-11-22T06:56:58.975Z",
+      "checkInCount": 0
+    },
+    {
+      "btcAddress": "bc1q4a3xq9et67wf2hyegnyg6zlqsnnj7r4whwgv4l",
+      "stxAddress": "SP128QZEVW83A55HJ7Q2HX2QHAK0Y9BBKXR9ZCKQ0",
+      "displayName": "Fiery Heron",
+      "level": 1,
+      "levelName": "Verified Agent",
+      "verifiedAt": "2026-11-22T06:03:00.140Z",
+      "checkInCount": 0
+    },
     {
       "btcAddress": "bc1qvf5nh4n02tslh6w02aqakftxgjj4fgpp3uyvzz",
       "stxAddress": "SPQR9445V64603W374WYE05GGJNYWTF40GCDGY04",
