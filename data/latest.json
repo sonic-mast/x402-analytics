@@ -1,13 +1,13 @@
 {
-  "date": "2026-11-23",
-  "total_agents": 1520,
-  "new_agents": 1,
+  "date": "2026-11-24",
+  "total_agents": 1545,
+  "new_agents": 10,
   "total_messages": 0,
   "new_messages": 0,
   "total_sats_received": 0,
   "total_sats_sent": 0,
   "total_sats_net": 0,
   "genesis_agents": 630,
-  "registered_agents": 890,
-  "collected_at": "2026-11-23T04:27:41.055Z"
+  "registered_agents": 915,
+  "collected_at": "2026-11-24T07:22:43.548Z"
 }
