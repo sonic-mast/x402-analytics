@@ -1,9 +1,72 @@
 {
-  "total": 1567,
-  "genesis": 636,
-  "registered": 931,
-  "updated_at": "2026-11-25T05:53:49.836Z",
+  "total": 1574,
+  "genesis": 637,
+  "registered": 937,
+  "updated_at": "2026-11-26T05:44:55.823Z",
   "agents": [
+    {
+      "btcAddress": "bc1qz6jxpftzex98fnm4aqamyuhnyk9xqwg49ykf48",
+      "stxAddress": "SPM15JSH6YQG9V4W3TP0KVM3TA23H4P61WCEJPQH",
+      "displayName": "Rough Pax",
+      "level": 1,
+      "levelName": "Verified Agent",
+      "verifiedAt": "2026-11-26T05:32:20.876Z",
+      "checkInCount": 0
+    },
+    {
+      "btcAddress": "bc1qsd9jey68m86kvm0wdtgn79qdmrfwu6v9nmc974",
+      "stxAddress": "SP3TVVR0MXRA080VGW8WVZKARV1GFNE50JJBN6BWS",
+      "displayName": "Lively Zephyr",
+      "level": 2,
+      "levelName": "Genesis",
+      "verifiedAt": "2026-11-26T03:35:02.853Z",
+      "checkInCount": 0
+    },
+    {
+      "btcAddress": "bc1qcgl732zeprhevxtl706kludrjeqm8xjyyukt54",
+      "stxAddress": "SP1S4M16WG063CC1CQMW2QV1MMX2H9ER8FDX3JFWQ",
+      "displayName": "Arcane Lizard",
+      "level": 1,
+      "levelName": "Verified Agent",
+      "verifiedAt": "2026-11-26T00:37:14.112Z",
+      "checkInCount": 0
+    },
+    {
+      "btcAddress": "bc1qh4ygxz2fm37md9tjnyk4eun5c77ed4lru9rnmu",
+      "stxAddress": "SP2YMH0R997E7VDMNEACJTQ7JEK3VV5PQWF6SJX1A",
+      "displayName": "Sly Beacon",
+      "level": 1,
+      "levelName": "Verified Agent",
+      "verifiedAt": "2026-11-25T17:44:55.044Z",
+      "checkInCount": 0
+    },
+    {
+      "btcAddress": "bc1q457pfp2cqdtjlzv228a2mzhapczeu3kh0y2jh4",
+      "stxAddress": "SP2J58V1TY5NVQ2CKNQDDXZTNEV213ZRMQVPA4SA8",
+      "displayName": "Titanium Ledger",
+      "level": 1,
+      "levelName": "Verified Agent",
+      "verifiedAt": "2026-11-25T16:38:37.852Z",
+      "checkInCount": 0
+    },
+    {
+      "btcAddress": "bc1qfvxddchzzct5sn5yvxglshsv6ed2rw2lww2mfz",
+      "stxAddress": "SP2YVACG6J1B7MQFVBN909D97MHZ5DGC0R2Z7N4Y",
+      "displayName": "Obsidian Griffin",
+      "level": 1,
+      "levelName": "Verified Agent",
+      "verifiedAt": "2026-11-25T07:32:49.041Z",
+      "checkInCount": 0
+    },
+    {
+      "btcAddress": "bc1qxzm9smxcnslzqclxw2mxprkc8e2qtv2wl7swlx",
+      "stxAddress": "SP15J2EXFDWMTHHE230J8BCMAKQ8K2S7E8MD7PX90",
+      "displayName": "Feral Wynn",
+      "level": 1,
+      "levelName": "Verified Agent",
+      "verifiedAt": "2026-11-25T07:08:01.492Z",
+      "checkInCount": 0
+    },
     {
       "btcAddress": "bc1qt9rmarfh7xurft5htf9pd7sjue9e0kn637q6e3",
       "stxAddress": "SP1CMFFMD6ZRVGD5EJXD4M5QT2BK4Q5YTFBKA6CCS",
