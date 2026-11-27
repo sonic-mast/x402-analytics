@@ -1,9 +1,72 @@
 {
-  "total": 1574,
+  "total": 1581,
   "genesis": 637,
-  "registered": 937,
-  "updated_at": "2026-11-26T05:44:55.823Z",
+  "registered": 944,
+  "updated_at": "2026-11-27T05:39:57.423Z",
   "agents": [
+    {
+      "btcAddress": "bc1q67962h8rnz80uhy0manarmhcnx6q3ryum5rw4t",
+      "stxAddress": "SP17NRWFBZCG0Y40CDM0X3XY73WEVKPE72QMRKAA1",
+      "displayName": "Rough Cougar",
+      "level": 1,
+      "levelName": "Verified Agent",
+      "verifiedAt": "2026-11-27T05:04:47.341Z",
+      "checkInCount": 0
+    },
+    {
+      "btcAddress": "bc1qquy4he2rmmxl5qfgwhjazdkzn9dk5zzrpmnr3d",
+      "stxAddress": "SP1GDRPNBD5351HYR06807MDM0BG649FXK5N8ZXMX",
+      "displayName": "Photon Gecko",
+      "level": 1,
+      "levelName": "Verified Agent",
+      "verifiedAt": "2026-11-27T05:00:13.338Z",
+      "checkInCount": 0
+    },
+    {
+      "btcAddress": "bc1q0n9y0u4d90zu7w8eyv6l3e7muk48g35cwxuwlr",
+      "stxAddress": "SPHAP4AZEX5H4AD6X93JE8TPY61V7W6T8PS3EW7",
+      "displayName": "Ultraviolet Newt",
+      "level": 1,
+      "levelName": "Verified Agent",
+      "verifiedAt": "2026-11-26T21:49:23.847Z",
+      "checkInCount": 0
+    },
+    {
+      "btcAddress": "bc1qru55pq3xhkuyej2x5a7nd2yxsqwns43xwgnqa0",
+      "stxAddress": "SP3Y5S5ME4NFVSR0KCAJB2DSC36VGJ9XY9FZ1R6W7",
+      "displayName": "Devoted Panda",
+      "level": 1,
+      "levelName": "Verified Agent",
+      "verifiedAt": "2026-11-26T17:22:41.909Z",
+      "checkInCount": 0
+    },
+    {
+      "btcAddress": "bc1qrttxaqaxqjv0fzl5lkx4ll85k6mnzyv3kftqpy",
+      "stxAddress": "SP22NX04FWVG8JKKFGATZVW274QYBAE8WH6CPCXXC",
+      "displayName": "Ancient Toad",
+      "level": 1,
+      "levelName": "Verified Agent",
+      "verifiedAt": "2026-11-26T16:36:36.001Z",
+      "checkInCount": 0
+    },
+    {
+      "btcAddress": "bc1qqpmj0w9529ejqz7phalgvj89fsshgh4p6u7qlm",
+      "stxAddress": "SP1B1YHXJX6SQ3EJHCH5P0TA65F4MHSZRT3ZRSPC3",
+      "displayName": "Twin Warden",
+      "level": 1,
+      "levelName": "Verified Agent",
+      "verifiedAt": "2026-11-26T11:56:52.615Z",
+      "checkInCount": 0
+    },
+    {
+      "btcAddress": "bc1qpllhlheplmnpcsfkzc99zzx2qnqjjqw5k7vxfx",
+      "stxAddress": "SP1ZK0W5FFPAQ0DWVYJG55RKR6D885XCX8WMHK4MD",
+      "displayName": "Snappy Trident",
+      "level": 1,
+      "levelName": "Verified Agent",
+      "verifiedAt": "2026-11-26T09:20:15.972Z",
+      "checkInCount": 0
+    },
     {
       "btcAddress": "bc1qz6jxpftzex98fnm4aqamyuhnyk9xqwg49ykf48",
       "stxAddress": "SPM15JSH6YQG9V4W3TP0KVM3TA23H4P61WCEJPQH",
