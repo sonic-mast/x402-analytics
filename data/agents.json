@@ -1,9 +1,72 @@
 {
-  "total": 1581,
-  "genesis": 637,
-  "registered": 944,
-  "updated_at": "2026-11-27T05:39:57.423Z",
+  "total": 1588,
+  "genesis": 640,
+  "registered": 948,
+  "updated_at": "2026-11-28T05:18:01.165Z",
   "agents": [
+    {
+      "btcAddress": "bc1qhjdshvexuxtcu2z8c0mlyj3zjqdqmcgqd59eyp",
+      "stxAddress": "SP3MERF2A7RYKFPF6PPMDCJZG8M6KJ5ZTW57VF4X",
+      "displayName": "Fearless Eden",
+      "level": 1,
+      "levelName": "Verified Agent",
+      "verifiedAt": "2026-11-28T01:16:16.990Z",
+      "checkInCount": 0
+    },
+    {
+      "btcAddress": "bc1qxrp6tlzj4sxc87h4dm88yaxcrh3xa2uf65u28e",
+      "stxAddress": "SP2FDZCVQFF623E3PJV3JJS9T1XZ14WWP42S7XKC6",
+      "displayName": "Light Squid",
+      "level": 1,
+      "levelName": "Verified Agent",
+      "verifiedAt": "2026-11-27T20:43:46.322Z",
+      "checkInCount": 0
+    },
+    {
+      "btcAddress": "bc1qnthpm9jmzvrxh89p8mn9ec0vv2ez5yhnnhwv6e",
+      "stxAddress": "SP3D10TPRGY8QDV83H7ZWHNVHBV4JAR3GGG28QFEW",
+      "displayName": "Flaring Leo",
+      "level": 1,
+      "levelName": "Verified Agent",
+      "verifiedAt": "2026-11-27T18:34:53.283Z",
+      "checkInCount": 0
+    },
+    {
+      "btcAddress": "bc1qj8hquk3ghqf79gzuvryq9pyw2ujsfxull7k8uj",
+      "stxAddress": "SP1JJNHJTNM34EFR4TB3AM7MB63V0MTJ2Q106MZHN",
+      "displayName": "Luminous Hub",
+      "level": 2,
+      "levelName": "Genesis",
+      "verifiedAt": "2026-11-27T18:12:32.077Z",
+      "checkInCount": 0
+    },
+    {
+      "btcAddress": "bc1qyzwseraxag8zwz8fdcqaca5ke4nv28kadplv66",
+      "stxAddress": "SPG9T34FMVN0W9R8X5Q03Q3PJV6PDH8YVMPYRPF2",
+      "displayName": "Devoted Ram",
+      "level": 1,
+      "levelName": "Verified Agent",
+      "verifiedAt": "2026-11-27T12:49:46.688Z",
+      "checkInCount": 0
+    },
+    {
+      "btcAddress": "bc1qwghmg2un95rv7tvmw3frpmxqprzjfn4r6hgn9h",
+      "stxAddress": "SP1S2ZD1BJCPGDKSDKDT54C7CR04CA96EMF1Y8EHW",
+      "displayName": "Compact Parrot",
+      "level": 1,
+      "levelName": "Verified Agent",
+      "verifiedAt": "2026-11-27T12:48:53.277Z",
+      "checkInCount": 0
+    },
+    {
+      "btcAddress": "bc1qnthah9x75d07zj8vhhxr4950rc9wgn9hsrefws",
+      "stxAddress": "SP3RN2AY0DX6JTT5DNF7ZYNBTWTTEMGJ8BJP6MJWP",
+      "displayName": "Elegant Lux",
+      "level": 2,
+      "levelName": "Genesis",
+      "verifiedAt": "2026-11-27T07:27:45.065Z",
+      "checkInCount": 0
+    },
     {
       "btcAddress": "bc1q67962h8rnz80uhy0manarmhcnx6q3ryum5rw4t",
       "stxAddress": "SP17NRWFBZCG0Y40CDM0X3XY73WEVKPE72QMRKAA1",
@@ -917,8 +980,8 @@
       "btcAddress": "bc1qufj9u72pevpwxnt4eapku49ctp2wqua73n5k5d",
       "stxAddress": "SP1HTJRZ4XFZECDD5DDVWHQAP8P8KBFACTTA0SC1J",
       "displayName": "Spare Monolith",
-      "level": 1,
-      "levelName": "Verified Agent",
+      "level": 2,
+      "levelName": "Genesis",
       "verifiedAt": "2026-11-18T10:28:45.615Z",
       "checkInCount": 0
     },
